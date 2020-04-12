@@ -1,0 +1,92 @@
+<!-- 
+  4210U Information Visualization Final Project 
+  Topic: Visualizing World Health Data on Diseases
+  Group: m7-dhume-lum-le (Yash Dhume, Alvin Lum, Kenny Le)
+-->
+
+
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+
+  <script src="js/d3.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+
+<svg width="1200" height="900"></svg>
+<div class="tooltip"></div>
+
+<body>
+<h1> World Map </h1>
+</body>
+
+<!-- Code is mostly taken from https://blockbuilder.org/abrahamdu/50147e692857054c2bf88c443946e8a5 , 
+Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own -->
+<script>
+
+// Margins, borders
+var margin = {top: 10, right: 10, bottom: 10, left: 10};
+var width = 960 - margin.left - margin.right;
+var height = 500 - margin.top - margin.bottom;
+
+// Map projection
+var projection = d3.geoNaturalEarth1()
+                   .center([0, 15]) 
+                   .rotate([-9,0])
+                   .scale([1300/(2*Math.PI)]) 
+                   .translate([450,300]);
+
+// Path
+var path = d3.geoPath()
+             .projection(projection);
+
+// SVG
+var svg = d3.select("svg")
+            .append("g")
+            .attr("width", width)
+            .attr("height", height);
+var tooltip = d3.select("div.tooltip");
+
+// Load in data and wait (async)
+d3.queue()
+  .defer(d3.json, "world-topo.json")
+  .defer(d3.csv, "world-country.csv")
+  .await(loadMap);
+
+// d3 load map in
+function loadMap(error, world, names) {
+
+  if (error) throw error;
+  var countries1 = topojson.feature(world, world.objects.countries).features;
+    countries = countries1.filter(function(d) {
+    return names.some(function(n) {
+      if (d.id == n.id) return d.name = n.name;
+    })});
+
+  svg.selectAll("path")
+			.data(countries)
+			.enter()
+			.append("path")
+			.attr("stroke","black")
+			.attr("stroke-width",1)
+            .attr("fill", "white")
+			.attr("d", path )
+			.on("mouseover",function(d,i){
+                d3.select(this).attr("fill","grey").attr("stroke-width",2);
+                return tooltip.style("hidden", false).html(d.name);
+            })
+            .on("mousemove",function(d){
+                tooltip.classed("hidden", false)
+                       .style("top", (d3.event.pageY) + "px")
+                       .style("left", (d3.event.pageX + 10) + "px")
+                       .html(d.name);
+            })
+            .on("mouseout",function(d,i){
+                d3.select(this).attr("fill","white").attr("stroke-width",1);
+                tooltip.classed("hidden", true);
+            });
+};
+</script>
