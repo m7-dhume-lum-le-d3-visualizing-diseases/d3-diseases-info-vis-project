@@ -60,7 +60,6 @@ function displayMap(disease) {
         });
         var diseaseInfo = map[disease];
         let result =mergeData(diseaseInfo, countries, 'name');
-        console.log(result[1]['Confirmed Cases'].toLocaleString());
         svg.selectAll("path")
             .data(result)
             .enter()
@@ -80,7 +79,7 @@ function displayMap(disease) {
                 worldMap.classed("hidden", false)
                     .style("top", (d3.event.pageY) + "px")
                     .style("left", (d3.event.pageX+50) + "px")
-                    .html(`<p>${d.name}</p><p>Confirmed Cases: ${d['Confirmed Cases'].toLocaleString()}</p><p>Confirmed Death: ${d.Death.toLocaleString()}</p>`);
+                    .html(`<p>${d.name}</p><p>Confirmed Cases: ${d.Cases}</p><p>Confirmed Death: ${d.Deaths}</p>`);
             })
             .on("mouseout", function (d, i) {
                 d3.select(this).attr("fill", "white").attr("stroke-width", 1);
