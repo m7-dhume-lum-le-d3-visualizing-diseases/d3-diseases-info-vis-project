@@ -3,10 +3,22 @@
 // Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own
 
 window.onload = function() {
-
-    displayMap("malaria")
+    clickDropDown()
 };
+function clickDropDown() {
+    $("#malariaDrop").on("click", ()=>{
+        displayMap("malaria")
+    });
+    $("#choleraDrop").on("click", ()=>{
+        displayMap("cholera")
+    });
+    $("#hivAidsDrop").on("click", ()=>{
+        displayMap("hivAids")
+    });
+}
 function displayMap(disease) {
+    $(".worldMap").removeData();
+    document.getElementById("dropDownButton").innerHTML=document.getElementById(`${disease}Drop`).innerHTML;
     // Margins, borders
     var margin = {top: 10, right: 10, bottom: 10, left: 10};
     var width = 960 - margin.left - margin.right;

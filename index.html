@@ -26,16 +26,18 @@
 <body>
 <h1 class="title"> World Map </h1>
 <div class="dropdown">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <button id = "dropDownButton" class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Diseases
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Malaria</a>
-    <a class="dropdown-item" href="#">HIV/AIDS</a>
-    <a class="dropdown-item" href="#">Ebola</a>
+    <a class="dropdown-item" id="malariaDrop">Malaria</a>
+    <a class="dropdown-item" id="hivAidsDrop">HIV/AIDS</a>
+    <a class="dropdown-item" id="choleraDrop">Cholera</a>
   </div>
 </div>
-        <svg width="960" height="500"></svg>
-        <div class="worldMap"></div>
+<svg width="960" height="500">
+    <div class="worldMap"></div>
+</svg>
+
 
 </body>
