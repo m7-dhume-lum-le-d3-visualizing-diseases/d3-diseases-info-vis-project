@@ -1,2402 +1,2404 @@
-[
-  {
-    "Location": "Afghanistan",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Afghanistan",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Afghanistan",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Algeria",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Algeria",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Algeria",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Angola",
-    "Period": 2018,
-    "Cases": 14000,
-    "Deaths": 14000
-  },
-  {
-    "Location": "Angola",
-    "Period": 2010,
-    "Cases": 10000,
-    "Deaths": 10000
-  },
-  {
-    "Location": "Angola",
-    "Period": 2000,
-    "Cases": 4800,
-    "Deaths": 4800
-  },
-  {
-    "Location": "Argentina",
-    "Period": 2018,
-    "Cases": 1700,
-    "Deaths": 1700
-  },
-  {
-    "Location": "Argentina",
-    "Period": 2010,
-    "Cases": 1600,
-    "Deaths": 1600
-  },
-  {
-    "Location": "Argentina",
-    "Period": 2000,
-    "Cases": 1400,
-    "Deaths": 1400
-  },
-  {
-    "Location": "Armenia",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Armenia",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Armenia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Australia",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Australia",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Australia",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Bahamas",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Bahamas",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Bahamas",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Bangladesh",
-    "Period": 2018,
-    "Cases": 580,
-    "Deaths": 580
-  },
-  {
-    "Location": "Bangladesh",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Bangladesh",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Barbados",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Barbados",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Barbados",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Belarus",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Belarus",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Belarus",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Belize",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Belize",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Belize",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Benin",
-    "Period": 2018,
-    "Cases": 2200,
-    "Deaths": 2200
-  },
-  {
-    "Location": "Benin",
-    "Period": 2010,
-    "Cases": 2000,
-    "Deaths": 2000
-  },
-  {
-    "Location": "Benin",
-    "Period": 2000,
-    "Cases": 2400,
-    "Deaths": 2400
-  },
-  {
-    "Location": "Bhutan",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Bhutan",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Bhutan",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Bolivia (Plurinational State of)",
-    "Period": 2018,
-    "Cases": 670,
-    "Deaths": 670
-  },
-  {
-    "Location": "Bolivia (Plurinational State of)",
-    "Period": 2010,
-    "Cases": 1600,
-    "Deaths": 1600
-  },
-  {
-    "Location": "Bolivia (Plurinational State of)",
-    "Period": 2000,
-    "Cases": 670,
-    "Deaths": 670
-  },
-  {
-    "Location": "Bosnia and Herzegovina",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Bosnia and Herzegovina",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Bosnia and Herzegovina",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Botswana",
-    "Period": 2018,
-    "Cases": 4800,
-    "Deaths": 4800
-  },
-  {
-    "Location": "Botswana",
-    "Period": 2010,
-    "Cases": 7300,
-    "Deaths": 7300
-  },
-  {
-    "Location": "Botswana",
-    "Period": 2000,
-    "Cases": 15000,
-    "Deaths": 15000
-  },
-  {
-    "Location": "Brazil",
-    "Period": 2018,
-    "Cases": 15000,
-    "Deaths": 15000
-  },
-  {
-    "Location": "Brazil",
-    "Period": 2010,
-    "Cases": 15000,
-    "Deaths": 15000
-  },
-  {
-    "Location": "Brazil",
-    "Period": 2000,
-    "Cases": 15000,
-    "Deaths": 15000
-  },
-  {
-    "Location": "Bulgaria",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Bulgaria",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Bulgaria",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Burkina Faso",
-    "Period": 2018,
-    "Cases": 3300,
-    "Deaths": 3300
-  },
-  {
-    "Location": "Burkina Faso",
-    "Period": 2010,
-    "Cases": 4800,
-    "Deaths": 4800
-  },
-  {
-    "Location": "Burkina Faso",
-    "Period": 2000,
-    "Cases": 12000,
-    "Deaths": 12000
-  },
-  {
-    "Location": "Burundi",
-    "Period": 2018,
-    "Cases": 1900,
-    "Deaths": 1900
-  },
-  {
-    "Location": "Burundi",
-    "Period": 2010,
-    "Cases": 5200,
-    "Deaths": 5200
-  },
-  {
-    "Location": "Burundi",
-    "Period": 2000,
-    "Cases": 11000,
-    "Deaths": 11000
-  },
-  {
-    "Location": "Cabo Verde",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Cabo Verde",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Cabo Verde",
-    "Period": 2000,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Cambodia",
-    "Period": 2018,
-    "Cases": 1300,
-    "Deaths": 1300
-  },
-  {
-    "Location": "Cambodia",
-    "Period": 2010,
-    "Cases": 2500,
-    "Deaths": 2500
-  },
-  {
-    "Location": "Cambodia",
-    "Period": 2000,
-    "Cases": 4500,
-    "Deaths": 4500
-  },
-  {
-    "Location": "Cameroon",
-    "Period": 2018,
-    "Cases": 18000,
-    "Deaths": 18000
-  },
-  {
-    "Location": "Cameroon",
-    "Period": 2010,
-    "Cases": 22000,
-    "Deaths": 22000
-  },
-  {
-    "Location": "Cameroon",
-    "Period": 2000,
-    "Cases": 19000,
-    "Deaths": 19000
-  },
-  {
-    "Location": "Central African Republic",
-    "Period": 2018,
-    "Cases": 4800,
-    "Deaths": 4800
-  },
-  {
-    "Location": "Central African Republic",
-    "Period": 2010,
-    "Cases": 7800,
-    "Deaths": 7800
-  },
-  {
-    "Location": "Central African Republic",
-    "Period": 2000,
-    "Cases": 11000,
-    "Deaths": 11000
-  },
-  {
-    "Location": "Chad",
-    "Period": 2018,
-    "Cases": 3100,
-    "Deaths": 3100
-  },
-  {
-    "Location": "Chad",
-    "Period": 2010,
-    "Cases": 3500,
-    "Deaths": 3500
-  },
-  {
-    "Location": "Chad",
-    "Period": 2000,
-    "Cases": 5600,
-    "Deaths": 5600
-  },
-  {
-    "Location": "Chile",
-    "Period": 2018,
-    "Cases": 590,
-    "Deaths": 590
-  },
-  {
-    "Location": "Comoros",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Comoros",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Comoros",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Congo",
-    "Period": 2018,
-    "Cases": 4000,
-    "Deaths": 4000
-  },
-  {
-    "Location": "Congo",
-    "Period": 2010,
-    "Cases": 3900,
-    "Deaths": 3900
-  },
-  {
-    "Location": "Congo",
-    "Period": 2000,
-    "Cases": 6100,
-    "Deaths": 6100
-  },
-  {
-    "Location": "Costa Rica",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Costa Rica",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Costa Rica",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Côte d’Ivoire",
-    "Period": 2018,
-    "Cases": 16000,
-    "Deaths": 16000
-  },
-  {
-    "Location": "Côte d’Ivoire",
-    "Period": 2010,
-    "Cases": 24000,
-    "Deaths": 24000
-  },
-  {
-    "Location": "Côte d’Ivoire",
-    "Period": 2000,
-    "Cases": 44000,
-    "Deaths": 44000
-  },
-  {
-    "Location": "Croatia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Croatia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Croatia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Cuba",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Cuba",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Cuba",
-    "Period": 2000,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Czechia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Czechia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Czechia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Democratic Republic of the Congo",
-    "Period": 2018,
-    "Cases": 13000,
-    "Deaths": 13000
-  },
-  {
-    "Location": "Democratic Republic of the Congo",
-    "Period": 2010,
-    "Cases": 34000,
-    "Deaths": 34000
-  },
-  {
-    "Location": "Democratic Republic of the Congo",
-    "Period": 2000,
-    "Cases": 43000,
-    "Deaths": 43000
-  },
-  {
-    "Location": "Denmark",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Denmark",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Denmark",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Djibouti",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Djibouti",
-    "Period": 2010,
-    "Cases": 630,
-    "Deaths": 630
-  },
-  {
-    "Location": "Djibouti",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Dominican Republic",
-    "Period": 2018,
-    "Cases": 1200,
-    "Deaths": 1200
-  },
-  {
-    "Location": "Dominican Republic",
-    "Period": 2010,
-    "Cases": 3000,
-    "Deaths": 3000
-  },
-  {
-    "Location": "Dominican Republic",
-    "Period": 2000,
-    "Cases": 4800,
-    "Deaths": 4800
-  },
-  {
-    "Location": "Ecuador",
-    "Period": 2018,
-    "Cases": 620,
-    "Deaths": 620
-  },
-  {
-    "Location": "Ecuador",
-    "Period": 2010,
-    "Cases": 1100,
-    "Deaths": 1100
-  },
-  {
-    "Location": "Ecuador",
-    "Period": 2000,
-    "Cases": 1500,
-    "Deaths": 1500
-  },
-  {
-    "Location": "Egypt",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Egypt",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Egypt",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "El Salvador",
-    "Period": 2018,
-    "Cases": 700,
-    "Deaths": 700
-  },
-  {
-    "Location": "El Salvador",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "El Salvador",
-    "Period": 2000,
-    "Cases": 810,
-    "Deaths": 810
-  },
-  {
-    "Location": "Equatorial Guinea",
-    "Period": 2018,
-    "Cases": 1800,
-    "Deaths": 1800
-  },
-  {
-    "Location": "Equatorial Guinea",
-    "Period": 2010,
-    "Cases": 1400,
-    "Deaths": 1400
-  },
-  {
-    "Location": "Equatorial Guinea",
-    "Period": 2000,
-    "Cases": 680,
-    "Deaths": 680
-  },
-  {
-    "Location": "Eritrea",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Eritrea",
-    "Period": 2010,
-    "Cases": 620,
-    "Deaths": 620
-  },
-  {
-    "Location": "Eritrea",
-    "Period": 2000,
-    "Cases": 1100,
-    "Deaths": 1100
-  },
-  {
-    "Location": "Estonia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Estonia",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Estonia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Eswatini",
-    "Period": 2018,
-    "Cases": 2400,
-    "Deaths": 2400
-  },
-  {
-    "Location": "Eswatini",
-    "Period": 2010,
-    "Cases": 3800,
-    "Deaths": 3800
-  },
-  {
-    "Location": "Eswatini",
-    "Period": 2000,
-    "Cases": 5000,
-    "Deaths": 5000
-  },
-  {
-    "Location": "Ethiopia",
-    "Period": 2018,
-    "Cases": 11000,
-    "Deaths": 11000
-  },
-  {
-    "Location": "Ethiopia",
-    "Period": 2010,
-    "Cases": 20000,
-    "Deaths": 20000
-  },
-  {
-    "Location": "Ethiopia",
-    "Period": 2000,
-    "Cases": 58000,
-    "Deaths": 58000
-  },
-  {
-    "Location": "Finland",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Finland",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Finland",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "France",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "France",
-    "Period": 2010,
-    "Cases": 600,
-    "Deaths": 600
-  },
-  {
-    "Location": "France",
-    "Period": 2000,
-    "Cases": 880,
-    "Deaths": 880
-  },
-  {
-    "Location": "Gabon",
-    "Period": 2018,
-    "Cases": 1200,
-    "Deaths": 1200
-  },
-  {
-    "Location": "Gabon",
-    "Period": 2010,
-    "Cases": 1600,
-    "Deaths": 1600
-  },
-  {
-    "Location": "Gabon",
-    "Period": 2000,
-    "Cases": 1600,
-    "Deaths": 1600
-  },
-  {
-    "Location": "Gambia",
-    "Period": 2018,
-    "Cases": 980,
-    "Deaths": 980
-  },
-  {
-    "Location": "Gambia",
-    "Period": 2010,
-    "Cases": 970,
-    "Deaths": 970
-  },
-  {
-    "Location": "Gambia",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Georgia",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Georgia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Georgia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Germany",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Germany",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Germany",
-    "Period": 2000,
-    "Cases": 880,
-    "Deaths": 880
-  },
-  {
-    "Location": "Ghana",
-    "Period": 2018,
-    "Cases": 14000,
-    "Deaths": 14000
-  },
-  {
-    "Location": "Ghana",
-    "Period": 2010,
-    "Cases": 17000,
-    "Deaths": 17000
-  },
-  {
-    "Location": "Ghana",
-    "Period": 2000,
-    "Cases": 18000,
-    "Deaths": 18000
-  },
-  {
-    "Location": "Guatemala",
-    "Period": 2018,
-    "Cases": 2200,
-    "Deaths": 2200
-  },
-  {
-    "Location": "Guatemala",
-    "Period": 2010,
-    "Cases": 1700,
-    "Deaths": 1700
-  },
-  {
-    "Location": "Guatemala",
-    "Period": 2000,
-    "Cases": 2400,
-    "Deaths": 2400
-  },
-  {
-    "Location": "Guinea",
-    "Period": 2018,
-    "Cases": 4300,
-    "Deaths": 4300
-  },
-  {
-    "Location": "Guinea",
-    "Period": 2010,
-    "Cases": 4100,
-    "Deaths": 4100
-  },
-  {
-    "Location": "Guinea",
-    "Period": 2000,
-    "Cases": 5000,
-    "Deaths": 5000
-  },
-  {
-    "Location": "Guinea-Bissau",
-    "Period": 2018,
-    "Cases": 1800,
-    "Deaths": 1800
-  },
-  {
-    "Location": "Guinea-Bissau",
-    "Period": 2010,
-    "Cases": 1900,
-    "Deaths": 1900
-  },
-  {
-    "Location": "Guinea-Bissau",
-    "Period": 2000,
-    "Cases": 1100,
-    "Deaths": 1100
-  },
-  {
-    "Location": "Guyana",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Guyana",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Guyana",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Haiti",
-    "Period": 2018,
-    "Cases": 2700,
-    "Deaths": 2700
-  },
-  {
-    "Location": "Haiti",
-    "Period": 2010,
-    "Cases": 4900,
-    "Deaths": 4900
-  },
-  {
-    "Location": "Haiti",
-    "Period": 2000,
-    "Cases": 12000,
-    "Deaths": 12000
-  },
-  {
-    "Location": "Honduras",
-    "Period": 2018,
-    "Cases": 780,
-    "Deaths": 780
-  },
-  {
-    "Location": "Honduras",
-    "Period": 2010,
-    "Cases": 1400,
-    "Deaths": 1400
-  },
-  {
-    "Location": "Honduras",
-    "Period": 2000,
-    "Cases": 3200,
-    "Deaths": 3200
-  },
-  {
-    "Location": "Hungary",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Hungary",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Hungary",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Iceland",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Iceland",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Iceland",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Indonesia",
-    "Period": 2018,
-    "Cases": 38000,
-    "Deaths": 38000
-  },
-  {
-    "Location": "Indonesia",
-    "Period": 2010,
-    "Cases": 24000,
-    "Deaths": 24000
-  },
-  {
-    "Location": "Indonesia",
-    "Period": 2000,
-    "Cases": 1900,
-    "Deaths": 1900
-  },
-  {
-    "Location": "Iran (Islamic Republic of)",
-    "Period": 2018,
-    "Cases": 2600,
-    "Deaths": 2600
-  },
-  {
-    "Location": "Iran (Islamic Republic of)",
-    "Period": 2010,
-    "Cases": 2400,
-    "Deaths": 2400
-  },
-  {
-    "Location": "Iran (Islamic Republic of)",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Ireland",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Ireland",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Ireland",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Israel",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Israel",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Israel",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Italy",
-    "Period": 2018,
-    "Cases": 710,
-    "Deaths": 710
-  },
-  {
-    "Location": "Italy",
-    "Period": 2010,
-    "Cases": 830,
-    "Deaths": 830
-  },
-  {
-    "Location": "Italy",
-    "Period": 2000,
-    "Cases": 1200,
-    "Deaths": 1200
-  },
-  {
-    "Location": "Jamaica",
-    "Period": 2018,
-    "Cases": 1500,
-    "Deaths": 1500
-  },
-  {
-    "Location": "Jamaica",
-    "Period": 2010,
-    "Cases": 1800,
-    "Deaths": 1800
-  },
-  {
-    "Location": "Jamaica",
-    "Period": 2000,
-    "Cases": 2400,
-    "Deaths": 2400
-  },
-  {
-    "Location": "Jordan",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Jordan",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Jordan",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Kazakhstan",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Kazakhstan",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Kazakhstan",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Kenya",
-    "Period": 2018,
-    "Cases": 25000,
-    "Deaths": 25000
-  },
-  {
-    "Location": "Kenya",
-    "Period": 2010,
-    "Cases": 56000,
-    "Deaths": 56000
-  },
-  {
-    "Location": "Kenya",
-    "Period": 2000,
-    "Cases": 120000,
-    "Deaths": 120000
-  },
-  {
-    "Location": "Kuwait",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Kuwait",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Kuwait",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Kyrgyzstan",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Kyrgyzstan",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Kyrgyzstan",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Lao People's Democratic Republic",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Lao People's Democratic Republic",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Lao People's Democratic Republic",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Latvia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Latvia",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Latvia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Lebanon",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Lebanon",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Lebanon",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Lesotho",
-    "Period": 2018,
-    "Cases": 6100,
-    "Deaths": 6100
-  },
-  {
-    "Location": "Lesotho",
-    "Period": 2010,
-    "Cases": 7200,
-    "Deaths": 7200
-  },
-  {
-    "Location": "Lesotho",
-    "Period": 2000,
-    "Cases": 12000,
-    "Deaths": 12000
-  },
-  {
-    "Location": "Liberia",
-    "Period": 2018,
-    "Cases": 1800,
-    "Deaths": 1800
-  },
-  {
-    "Location": "Liberia",
-    "Period": 2010,
-    "Cases": 2700,
-    "Deaths": 2700
-  },
-  {
-    "Location": "Liberia",
-    "Period": 2000,
-    "Cases": 3000,
-    "Deaths": 3000
-  },
-  {
-    "Location": "Libya",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Libya",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Libya",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Luxembourg",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Luxembourg",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Luxembourg",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Madagascar",
-    "Period": 2018,
-    "Cases": 1700,
-    "Deaths": 1700
-  },
-  {
-    "Location": "Madagascar",
-    "Period": 2010,
-    "Cases": 1400,
-    "Deaths": 1400
-  },
-  {
-    "Location": "Madagascar",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Malawi",
-    "Period": 2018,
-    "Cases": 13000,
-    "Deaths": 13000
-  },
-  {
-    "Location": "Malawi",
-    "Period": 2010,
-    "Cases": 29000,
-    "Deaths": 29000
-  },
-  {
-    "Location": "Malawi",
-    "Period": 2000,
-    "Cases": 57000,
-    "Deaths": 57000
-  },
-  {
-    "Location": "Malaysia",
-    "Period": 2018,
-    "Cases": 2600,
-    "Deaths": 2600
-  },
-  {
-    "Location": "Malaysia",
-    "Period": 2010,
-    "Cases": 2900,
-    "Deaths": 2900
-  },
-  {
-    "Location": "Malaysia",
-    "Period": 2000,
-    "Cases": 2700,
-    "Deaths": 2700
-  },
-  {
-    "Location": "Mali",
-    "Period": 2018,
-    "Cases": 6500,
-    "Deaths": 6500
-  },
-  {
-    "Location": "Mali",
-    "Period": 2010,
-    "Cases": 5300,
-    "Deaths": 5300
-  },
-  {
-    "Location": "Mali",
-    "Period": 2000,
-    "Cases": 7700,
-    "Deaths": 7700
-  },
-  {
-    "Location": "Mauritania",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Mauritania",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Mauritania",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Mauritius",
-    "Period": 2018,
-    "Cases": 610,
-    "Deaths": 610
-  },
-  {
-    "Location": "Mauritius",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Mauritius",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Mongolia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Mongolia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Mongolia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Montenegro",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Montenegro",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Montenegro",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Morocco",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Morocco",
-    "Period": 2010,
-    "Cases": 550,
-    "Deaths": 550
-  },
-  {
-    "Location": "Morocco",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Mozambique",
-    "Period": 2018,
-    "Cases": 54000,
-    "Deaths": 54000
-  },
-  {
-    "Location": "Mozambique",
-    "Period": 2010,
-    "Cases": 64000,
-    "Deaths": 64000
-  },
-  {
-    "Location": "Mozambique",
-    "Period": 2000,
-    "Cases": 40000,
-    "Deaths": 40000
-  },
-  {
-    "Location": "Myanmar",
-    "Period": 2018,
-    "Cases": 7800,
-    "Deaths": 7800
-  },
-  {
-    "Location": "Myanmar",
-    "Period": 2010,
-    "Cases": 11000,
-    "Deaths": 11000
-  },
-  {
-    "Location": "Myanmar",
-    "Period": 2000,
-    "Cases": 5800,
-    "Deaths": 5800
-  },
-  {
-    "Location": "Namibia",
-    "Period": 2018,
-    "Cases": 2700,
-    "Deaths": 2700
-  },
-  {
-    "Location": "Namibia",
-    "Period": 2010,
-    "Cases": 3500,
-    "Deaths": 3500
-  },
-  {
-    "Location": "Namibia",
-    "Period": 2000,
-    "Cases": 7300,
-    "Deaths": 7300
-  },
-  {
-    "Location": "Nepal",
-    "Period": 2018,
-    "Cases": 910,
-    "Deaths": 910
-  },
-  {
-    "Location": "Nepal",
-    "Period": 2010,
-    "Cases": 1400,
-    "Deaths": 1400
-  },
-  {
-    "Location": "Nepal",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Netherlands",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Netherlands",
-    "Period": 2000,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "New Zealand",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "New Zealand",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "New Zealand",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Nicaragua",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Nicaragua",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Nicaragua",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Niger",
-    "Period": 2018,
-    "Cases": 1200,
-    "Deaths": 1200
-  },
-  {
-    "Location": "Niger",
-    "Period": 2010,
-    "Cases": 1700,
-    "Deaths": 1700
-  },
-  {
-    "Location": "Niger",
-    "Period": 2000,
-    "Cases": 2300,
-    "Deaths": 2300
-  },
-  {
-    "Location": "Nigeria",
-    "Period": 2018,
-    "Cases": 53000,
-    "Deaths": 53000
-  },
-  {
-    "Location": "Nigeria",
-    "Period": 2010,
-    "Cases": 72000,
-    "Deaths": 72000
-  },
-  {
-    "Location": "Nigeria",
-    "Period": 2000,
-    "Cases": 78000,
-    "Deaths": 78000
-  },
-  {
-    "Location": "Norway",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Norway",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Norway",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Oman",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Oman",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Oman",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Pakistan",
-    "Period": 2018,
-    "Cases": 6400,
-    "Deaths": 6400
-  },
-  {
-    "Location": "Pakistan",
-    "Period": 2010,
-    "Cases": 1400,
-    "Deaths": 1400
-  },
-  {
-    "Location": "Pakistan",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Panama",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Panama",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Panama",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Paraguay",
-    "Period": 2018,
-    "Cases": 720,
-    "Deaths": 720
-  },
-  {
-    "Location": "Paraguay",
-    "Period": 2010,
-    "Cases": 790,
-    "Deaths": 790
-  },
-  {
-    "Location": "Paraguay",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Peru",
-    "Period": 2018,
-    "Cases": 1000,
-    "Deaths": 1000
-  },
-  {
-    "Location": "Peru",
-    "Period": 2010,
-    "Cases": 2100,
-    "Deaths": 2100
-  },
-  {
-    "Location": "Peru",
-    "Period": 2000,
-    "Cases": 5100,
-    "Deaths": 5100
-  },
-  {
-    "Location": "Philippines",
-    "Period": 2018,
-    "Cases": 1200,
-    "Deaths": 1200
-  },
-  {
-    "Location": "Philippines",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Philippines",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Portugal",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Portugal",
-    "Period": 2010,
-    "Cases": 930,
-    "Deaths": 930
-  },
-  {
-    "Location": "Portugal",
-    "Period": 2000,
-    "Cases": 1100,
-    "Deaths": 1100
-  },
-  {
-    "Location": "Republic of Moldova",
-    "Period": 2018,
-    "Cases": 570,
-    "Deaths": 570
-  },
-  {
-    "Location": "Republic of Moldova",
-    "Period": 2010,
-    "Cases": 740,
-    "Deaths": 740
-  },
-  {
-    "Location": "Republic of Moldova",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Romania",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Romania",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Romania",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Rwanda",
-    "Period": 2018,
-    "Cases": 2900,
-    "Deaths": 2900
-  },
-  {
-    "Location": "Rwanda",
-    "Period": 2010,
-    "Cases": 5700,
-    "Deaths": 5700
-  },
-  {
-    "Location": "Rwanda",
-    "Period": 2000,
-    "Cases": 18000,
-    "Deaths": 18000
-  },
-  {
-    "Location": "Senegal",
-    "Period": 2018,
-    "Cases": 1300,
-    "Deaths": 1300
-  },
-  {
-    "Location": "Senegal",
-    "Period": 2010,
-    "Cases": 1300,
-    "Deaths": 1300
-  },
-  {
-    "Location": "Senegal",
-    "Period": 2000,
-    "Cases": 1700,
-    "Deaths": 1700
-  },
-  {
-    "Location": "Serbia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Serbia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Serbia",
-    "Period": 2000,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Sierra Leone",
-    "Period": 2018,
-    "Cases": 2100,
-    "Deaths": 2100
-  },
-  {
-    "Location": "Sierra Leone",
-    "Period": 2010,
-    "Cases": 2900,
-    "Deaths": 2900
-  },
-  {
-    "Location": "Sierra Leone",
-    "Period": 2000,
-    "Cases": 2400,
-    "Deaths": 2400
-  },
-  {
-    "Location": "Singapore",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Singapore",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Slovakia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Slovakia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Slovakia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Slovenia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Slovenia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Slovenia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Somalia",
-    "Period": 2018,
-    "Cases": 710,
-    "Deaths": 710
-  },
-  {
-    "Location": "Somalia",
-    "Period": 2010,
-    "Cases": 1400,
-    "Deaths": 1400
-  },
-  {
-    "Location": "Somalia",
-    "Period": 2000,
-    "Cases": 810,
-    "Deaths": 810
-  },
-  {
-    "Location": "South Africa",
-    "Period": 2018,
-    "Cases": 71000,
-    "Deaths": 71000
-  },
-  {
-    "Location": "South Africa",
-    "Period": 2010,
-    "Cases": 140000,
-    "Deaths": 140000
-  },
-  {
-    "Location": "South Africa",
-    "Period": 2000,
-    "Cases": 100000,
-    "Deaths": 100000
-  },
-  {
-    "Location": "South Sudan",
-    "Period": 2018,
-    "Cases": 9900,
-    "Deaths": 9900
-  },
-  {
-    "Location": "South Sudan",
-    "Period": 2010,
-    "Cases": 9800,
-    "Deaths": 9800
-  },
-  {
-    "Location": "South Sudan",
-    "Period": 2000,
-    "Cases": 5100,
-    "Deaths": 5100
-  },
-  {
-    "Location": "Spain",
-    "Period": 2010,
-    "Cases": 1300,
-    "Deaths": 1300
-  },
-  {
-    "Location": "Spain",
-    "Period": 2000,
-    "Cases": 1800,
-    "Deaths": 1800
-  },
-  {
-    "Location": "Sri Lanka",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Sri Lanka",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Sri Lanka",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Sudan",
-    "Period": 2018,
-    "Cases": 2900,
-    "Deaths": 2900
-  },
-  {
-    "Location": "Sudan (until 2011)",
-    "Period": 2010,
-    "Cases": 1900,
-    "Deaths": 1900
-  },
-  {
-    "Location": "Sudan (until 2011)",
-    "Period": 2000,
-    "Cases": 650,
-    "Deaths": 650
-  },
-  {
-    "Location": "Suriname",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Suriname",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Suriname",
-    "Period": 2000,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Syrian Arab Republic",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Syrian Arab Republic",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Syrian Arab Republic",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Tajikistan",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Tajikistan",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Tajikistan",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Thailand",
-    "Period": 2018,
-    "Cases": 18000,
-    "Deaths": 18000
-  },
-  {
-    "Location": "Thailand",
-    "Period": 2010,
-    "Cases": 27000,
-    "Deaths": 27000
-  },
-  {
-    "Location": "Thailand",
-    "Period": 2000,
-    "Cases": 54000,
-    "Deaths": 54000
-  },
-  {
-    "Location": "The former Yugoslav Republic of Macedonia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "The former Yugoslav Republic of Macedonia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "The former Yugoslav Republic of Macedonia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Togo",
-    "Period": 2018,
-    "Cases": 3800,
-    "Deaths": 3800
-  },
-  {
-    "Location": "Togo",
-    "Period": 2010,
-    "Cases": 5700,
-    "Deaths": 5700
-  },
-  {
-    "Location": "Togo",
-    "Period": 2000,
-    "Cases": 5600,
-    "Deaths": 5600
-  },
-  {
-    "Location": "Tunisia",
-    "Period": 2018,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Tunisia",
-    "Period": 2010,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Tunisia",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Uganda",
-    "Period": 2018,
-    "Cases": 23000,
-    "Deaths": 23000
-  },
-  {
-    "Location": "Uganda",
-    "Period": 2010,
-    "Cases": 56000,
-    "Deaths": 56000
-  },
-  {
-    "Location": "Uganda",
-    "Period": 2000,
-    "Cases": 85000,
-    "Deaths": 85000
-  },
-  {
-    "Location": "Ukraine",
-    "Period": 2018,
-    "Cases": 6100,
-    "Deaths": 6100
-  },
-  {
-    "Location": "Ukraine",
-    "Period": 2010,
-    "Cases": 12000,
-    "Deaths": 12000
-  },
-  {
-    "Location": "Ukraine",
-    "Period": 2000,
-    "Cases": 4500,
-    "Deaths": 4500
-  },
-  {
-    "Location": "United Republic of Tanzania",
-    "Period": 2018,
-    "Cases": 24000,
-    "Deaths": 24000
-  },
-  {
-    "Location": "United Republic of Tanzania",
-    "Period": 2010,
-    "Cases": 48000,
-    "Deaths": 48000
-  },
-  {
-    "Location": "United Republic of Tanzania",
-    "Period": 2000,
-    "Cases": 80000,
-    "Deaths": 80000
-  },
-  {
-    "Location": "Uruguay",
-    "Period": 2018,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Uruguay",
-    "Period": 2010,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Uruguay",
-    "Period": 2000,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Uzbekistan",
-    "Period": 2018,
-    "Cases": 1300,
-    "Deaths": 1300
-  },
-  {
-    "Location": "Uzbekistan",
-    "Period": 2010,
-    "Cases": 1800,
-    "Deaths": 1800
-  },
-  {
-    "Location": "Uzbekistan",
-    "Period": 2000,
-    "Cases": 840,
-    "Deaths": 840
-  },
-  {
-    "Location": "Viet Nam",
-    "Period": 2018,
-    "Cases": 4700,
-    "Deaths": 4700
-  },
-  {
-    "Location": "Viet Nam",
-    "Period": 2010,
-    "Cases": 8500,
-    "Deaths": 8500
-  },
-  {
-    "Location": "Viet Nam",
-    "Period": 2000,
-    "Cases": 6100,
-    "Deaths": 6100
-  },
-  {
-    "Location": "Yemen",
-    "Period": 2018,
-    "Cases": 500,
-    "Deaths": 500
-  },
-  {
-    "Location": "Yemen",
-    "Period": 2010,
-    "Cases": 200,
-    "Deaths": 200
-  },
-  {
-    "Location": "Yemen",
-    "Period": 2000,
-    "Cases": 100,
-    "Deaths": 100
-  },
-  {
-    "Location": "Zambia",
-    "Period": 2018,
-    "Cases": 17000,
-    "Deaths": 17000
-  },
-  {
-    "Location": "Zambia",
-    "Period": 2010,
-    "Cases": 26000,
-    "Deaths": 26000
-  },
-  {
-    "Location": "Zambia",
-    "Period": 2000,
-    "Cases": 62000,
-    "Deaths": 62000
-  },
-  {
-    "Location": "Zimbabwe",
-    "Period": 2018,
-    "Cases": 22000,
-    "Deaths": 22000
-  },
-  {
-    "Location": "Zimbabwe",
-    "Period": 2010,
-    "Cases": 54000,
-    "Deaths": 54000
-  },
-  {
-    "Location": "Zimbabwe",
-    "Period": 2000,
-    "Cases": 120000,
-    "Deaths": 120000
-  }
-]
+{
+  "hivAids":[
+    {
+      "Location": "Afghanistan",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Afghanistan",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Afghanistan",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Algeria",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Algeria",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Algeria",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Angola",
+      "Period": 2018,
+      "Cases": 14000,
+      "Deaths": 14000
+    },
+    {
+      "Location": "Angola",
+      "Period": 2010,
+      "Cases": 10000,
+      "Deaths": 10000
+    },
+    {
+      "Location": "Angola",
+      "Period": 2000,
+      "Cases": 4800,
+      "Deaths": 4800
+    },
+    {
+      "Location": "Argentina",
+      "Period": 2018,
+      "Cases": 1700,
+      "Deaths": 1700
+    },
+    {
+      "Location": "Argentina",
+      "Period": 2010,
+      "Cases": 1600,
+      "Deaths": 1600
+    },
+    {
+      "Location": "Argentina",
+      "Period": 2000,
+      "Cases": 1400,
+      "Deaths": 1400
+    },
+    {
+      "Location": "Armenia",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Armenia",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Armenia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Australia",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Australia",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Australia",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Bahamas",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Bahamas",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Bahamas",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Bangladesh",
+      "Period": 2018,
+      "Cases": 580,
+      "Deaths": 580
+    },
+    {
+      "Location": "Bangladesh",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Bangladesh",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Barbados",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Barbados",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Barbados",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Belarus",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Belarus",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Belarus",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Belize",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Belize",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Belize",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Benin",
+      "Period": 2018,
+      "Cases": 2200,
+      "Deaths": 2200
+    },
+    {
+      "Location": "Benin",
+      "Period": 2010,
+      "Cases": 2000,
+      "Deaths": 2000
+    },
+    {
+      "Location": "Benin",
+      "Period": 2000,
+      "Cases": 2400,
+      "Deaths": 2400
+    },
+    {
+      "Location": "Bhutan",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Bhutan",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Bhutan",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Bolivia (Plurinational State of)",
+      "Period": 2018,
+      "Cases": 670,
+      "Deaths": 670
+    },
+    {
+      "Location": "Bolivia (Plurinational State of)",
+      "Period": 2010,
+      "Cases": 1600,
+      "Deaths": 1600
+    },
+    {
+      "Location": "Bolivia (Plurinational State of)",
+      "Period": 2000,
+      "Cases": 670,
+      "Deaths": 670
+    },
+    {
+      "Location": "Bosnia and Herzegovina",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Bosnia and Herzegovina",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Bosnia and Herzegovina",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Botswana",
+      "Period": 2018,
+      "Cases": 4800,
+      "Deaths": 4800
+    },
+    {
+      "Location": "Botswana",
+      "Period": 2010,
+      "Cases": 7300,
+      "Deaths": 7300
+    },
+    {
+      "Location": "Botswana",
+      "Period": 2000,
+      "Cases": 15000,
+      "Deaths": 15000
+    },
+    {
+      "Location": "Brazil",
+      "Period": 2018,
+      "Cases": 15000,
+      "Deaths": 15000
+    },
+    {
+      "Location": "Brazil",
+      "Period": 2010,
+      "Cases": 15000,
+      "Deaths": 15000
+    },
+    {
+      "Location": "Brazil",
+      "Period": 2000,
+      "Cases": 15000,
+      "Deaths": 15000
+    },
+    {
+      "Location": "Bulgaria",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Bulgaria",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Bulgaria",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Burkina Faso",
+      "Period": 2018,
+      "Cases": 3300,
+      "Deaths": 3300
+    },
+    {
+      "Location": "Burkina Faso",
+      "Period": 2010,
+      "Cases": 4800,
+      "Deaths": 4800
+    },
+    {
+      "Location": "Burkina Faso",
+      "Period": 2000,
+      "Cases": 12000,
+      "Deaths": 12000
+    },
+    {
+      "Location": "Burundi",
+      "Period": 2018,
+      "Cases": 1900,
+      "Deaths": 1900
+    },
+    {
+      "Location": "Burundi",
+      "Period": 2010,
+      "Cases": 5200,
+      "Deaths": 5200
+    },
+    {
+      "Location": "Burundi",
+      "Period": 2000,
+      "Cases": 11000,
+      "Deaths": 11000
+    },
+    {
+      "Location": "Cabo Verde",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Cabo Verde",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Cabo Verde",
+      "Period": 2000,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Cambodia",
+      "Period": 2018,
+      "Cases": 1300,
+      "Deaths": 1300
+    },
+    {
+      "Location": "Cambodia",
+      "Period": 2010,
+      "Cases": 2500,
+      "Deaths": 2500
+    },
+    {
+      "Location": "Cambodia",
+      "Period": 2000,
+      "Cases": 4500,
+      "Deaths": 4500
+    },
+    {
+      "Location": "Cameroon",
+      "Period": 2018,
+      "Cases": 18000,
+      "Deaths": 18000
+    },
+    {
+      "Location": "Cameroon",
+      "Period": 2010,
+      "Cases": 22000,
+      "Deaths": 22000
+    },
+    {
+      "Location": "Cameroon",
+      "Period": 2000,
+      "Cases": 19000,
+      "Deaths": 19000
+    },
+    {
+      "Location": "Central African Republic",
+      "Period": 2018,
+      "Cases": 4800,
+      "Deaths": 4800
+    },
+    {
+      "Location": "Central African Republic",
+      "Period": 2010,
+      "Cases": 7800,
+      "Deaths": 7800
+    },
+    {
+      "Location": "Central African Republic",
+      "Period": 2000,
+      "Cases": 11000,
+      "Deaths": 11000
+    },
+    {
+      "Location": "Chad",
+      "Period": 2018,
+      "Cases": 3100,
+      "Deaths": 3100
+    },
+    {
+      "Location": "Chad",
+      "Period": 2010,
+      "Cases": 3500,
+      "Deaths": 3500
+    },
+    {
+      "Location": "Chad",
+      "Period": 2000,
+      "Cases": 5600,
+      "Deaths": 5600
+    },
+    {
+      "Location": "Chile",
+      "Period": 2018,
+      "Cases": 590,
+      "Deaths": 590
+    },
+    {
+      "Location": "Comoros",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Comoros",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Comoros",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Congo",
+      "Period": 2018,
+      "Cases": 4000,
+      "Deaths": 4000
+    },
+    {
+      "Location": "Congo",
+      "Period": 2010,
+      "Cases": 3900,
+      "Deaths": 3900
+    },
+    {
+      "Location": "Congo",
+      "Period": 2000,
+      "Cases": 6100,
+      "Deaths": 6100
+    },
+    {
+      "Location": "Costa Rica",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Costa Rica",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Costa Rica",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Côte d’Ivoire",
+      "Period": 2018,
+      "Cases": 16000,
+      "Deaths": 16000
+    },
+    {
+      "Location": "Côte d’Ivoire",
+      "Period": 2010,
+      "Cases": 24000,
+      "Deaths": 24000
+    },
+    {
+      "Location": "Côte d’Ivoire",
+      "Period": 2000,
+      "Cases": 44000,
+      "Deaths": 44000
+    },
+    {
+      "Location": "Croatia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Croatia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Croatia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Cuba",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Cuba",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Cuba",
+      "Period": 2000,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Czechia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Czechia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Czechia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Democratic Republic of the Congo",
+      "Period": 2018,
+      "Cases": 13000,
+      "Deaths": 13000
+    },
+    {
+      "Location": "Democratic Republic of the Congo",
+      "Period": 2010,
+      "Cases": 34000,
+      "Deaths": 34000
+    },
+    {
+      "Location": "Democratic Republic of the Congo",
+      "Period": 2000,
+      "Cases": 43000,
+      "Deaths": 43000
+    },
+    {
+      "Location": "Denmark",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Denmark",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Denmark",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Djibouti",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Djibouti",
+      "Period": 2010,
+      "Cases": 630,
+      "Deaths": 630
+    },
+    {
+      "Location": "Djibouti",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Dominican Republic",
+      "Period": 2018,
+      "Cases": 1200,
+      "Deaths": 1200
+    },
+    {
+      "Location": "Dominican Republic",
+      "Period": 2010,
+      "Cases": 3000,
+      "Deaths": 3000
+    },
+    {
+      "Location": "Dominican Republic",
+      "Period": 2000,
+      "Cases": 4800,
+      "Deaths": 4800
+    },
+    {
+      "Location": "Ecuador",
+      "Period": 2018,
+      "Cases": 620,
+      "Deaths": 620
+    },
+    {
+      "Location": "Ecuador",
+      "Period": 2010,
+      "Cases": 1100,
+      "Deaths": 1100
+    },
+    {
+      "Location": "Ecuador",
+      "Period": 2000,
+      "Cases": 1500,
+      "Deaths": 1500
+    },
+    {
+      "Location": "Egypt",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Egypt",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Egypt",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "El Salvador",
+      "Period": 2018,
+      "Cases": 700,
+      "Deaths": 700
+    },
+    {
+      "Location": "El Salvador",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "El Salvador",
+      "Period": 2000,
+      "Cases": 810,
+      "Deaths": 810
+    },
+    {
+      "Location": "Equatorial Guinea",
+      "Period": 2018,
+      "Cases": 1800,
+      "Deaths": 1800
+    },
+    {
+      "Location": "Equatorial Guinea",
+      "Period": 2010,
+      "Cases": 1400,
+      "Deaths": 1400
+    },
+    {
+      "Location": "Equatorial Guinea",
+      "Period": 2000,
+      "Cases": 680,
+      "Deaths": 680
+    },
+    {
+      "Location": "Eritrea",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Eritrea",
+      "Period": 2010,
+      "Cases": 620,
+      "Deaths": 620
+    },
+    {
+      "Location": "Eritrea",
+      "Period": 2000,
+      "Cases": 1100,
+      "Deaths": 1100
+    },
+    {
+      "Location": "Estonia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Estonia",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Estonia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Eswatini",
+      "Period": 2018,
+      "Cases": 2400,
+      "Deaths": 2400
+    },
+    {
+      "Location": "Eswatini",
+      "Period": 2010,
+      "Cases": 3800,
+      "Deaths": 3800
+    },
+    {
+      "Location": "Eswatini",
+      "Period": 2000,
+      "Cases": 5000,
+      "Deaths": 5000
+    },
+    {
+      "Location": "Ethiopia",
+      "Period": 2018,
+      "Cases": 11000,
+      "Deaths": 11000
+    },
+    {
+      "Location": "Ethiopia",
+      "Period": 2010,
+      "Cases": 20000,
+      "Deaths": 20000
+    },
+    {
+      "Location": "Ethiopia",
+      "Period": 2000,
+      "Cases": 58000,
+      "Deaths": 58000
+    },
+    {
+      "Location": "Finland",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Finland",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Finland",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "France",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "France",
+      "Period": 2010,
+      "Cases": 600,
+      "Deaths": 600
+    },
+    {
+      "Location": "France",
+      "Period": 2000,
+      "Cases": 880,
+      "Deaths": 880
+    },
+    {
+      "Location": "Gabon",
+      "Period": 2018,
+      "Cases": 1200,
+      "Deaths": 1200
+    },
+    {
+      "Location": "Gabon",
+      "Period": 2010,
+      "Cases": 1600,
+      "Deaths": 1600
+    },
+    {
+      "Location": "Gabon",
+      "Period": 2000,
+      "Cases": 1600,
+      "Deaths": 1600
+    },
+    {
+      "Location": "Gambia",
+      "Period": 2018,
+      "Cases": 980,
+      "Deaths": 980
+    },
+    {
+      "Location": "Gambia",
+      "Period": 2010,
+      "Cases": 970,
+      "Deaths": 970
+    },
+    {
+      "Location": "Gambia",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Georgia",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Georgia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Georgia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Germany",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Germany",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Germany",
+      "Period": 2000,
+      "Cases": 880,
+      "Deaths": 880
+    },
+    {
+      "Location": "Ghana",
+      "Period": 2018,
+      "Cases": 14000,
+      "Deaths": 14000
+    },
+    {
+      "Location": "Ghana",
+      "Period": 2010,
+      "Cases": 17000,
+      "Deaths": 17000
+    },
+    {
+      "Location": "Ghana",
+      "Period": 2000,
+      "Cases": 18000,
+      "Deaths": 18000
+    },
+    {
+      "Location": "Guatemala",
+      "Period": 2018,
+      "Cases": 2200,
+      "Deaths": 2200
+    },
+    {
+      "Location": "Guatemala",
+      "Period": 2010,
+      "Cases": 1700,
+      "Deaths": 1700
+    },
+    {
+      "Location": "Guatemala",
+      "Period": 2000,
+      "Cases": 2400,
+      "Deaths": 2400
+    },
+    {
+      "Location": "Guinea",
+      "Period": 2018,
+      "Cases": 4300,
+      "Deaths": 4300
+    },
+    {
+      "Location": "Guinea",
+      "Period": 2010,
+      "Cases": 4100,
+      "Deaths": 4100
+    },
+    {
+      "Location": "Guinea",
+      "Period": 2000,
+      "Cases": 5000,
+      "Deaths": 5000
+    },
+    {
+      "Location": "Guinea-Bissau",
+      "Period": 2018,
+      "Cases": 1800,
+      "Deaths": 1800
+    },
+    {
+      "Location": "Guinea-Bissau",
+      "Period": 2010,
+      "Cases": 1900,
+      "Deaths": 1900
+    },
+    {
+      "Location": "Guinea-Bissau",
+      "Period": 2000,
+      "Cases": 1100,
+      "Deaths": 1100
+    },
+    {
+      "Location": "Guyana",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Guyana",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Guyana",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Haiti",
+      "Period": 2018,
+      "Cases": 2700,
+      "Deaths": 2700
+    },
+    {
+      "Location": "Haiti",
+      "Period": 2010,
+      "Cases": 4900,
+      "Deaths": 4900
+    },
+    {
+      "Location": "Haiti",
+      "Period": 2000,
+      "Cases": 12000,
+      "Deaths": 12000
+    },
+    {
+      "Location": "Honduras",
+      "Period": 2018,
+      "Cases": 780,
+      "Deaths": 780
+    },
+    {
+      "Location": "Honduras",
+      "Period": 2010,
+      "Cases": 1400,
+      "Deaths": 1400
+    },
+    {
+      "Location": "Honduras",
+      "Period": 2000,
+      "Cases": 3200,
+      "Deaths": 3200
+    },
+    {
+      "Location": "Hungary",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Hungary",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Hungary",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Iceland",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Iceland",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Iceland",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Indonesia",
+      "Period": 2018,
+      "Cases": 38000,
+      "Deaths": 38000
+    },
+    {
+      "Location": "Indonesia",
+      "Period": 2010,
+      "Cases": 24000,
+      "Deaths": 24000
+    },
+    {
+      "Location": "Indonesia",
+      "Period": 2000,
+      "Cases": 1900,
+      "Deaths": 1900
+    },
+    {
+      "Location": "Iran (Islamic Republic of)",
+      "Period": 2018,
+      "Cases": 2600,
+      "Deaths": 2600
+    },
+    {
+      "Location": "Iran (Islamic Republic of)",
+      "Period": 2010,
+      "Cases": 2400,
+      "Deaths": 2400
+    },
+    {
+      "Location": "Iran (Islamic Republic of)",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Ireland",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Ireland",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Ireland",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Israel",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Israel",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Israel",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Italy",
+      "Period": 2018,
+      "Cases": 710,
+      "Deaths": 710
+    },
+    {
+      "Location": "Italy",
+      "Period": 2010,
+      "Cases": 830,
+      "Deaths": 830
+    },
+    {
+      "Location": "Italy",
+      "Period": 2000,
+      "Cases": 1200,
+      "Deaths": 1200
+    },
+    {
+      "Location": "Jamaica",
+      "Period": 2018,
+      "Cases": 1500,
+      "Deaths": 1500
+    },
+    {
+      "Location": "Jamaica",
+      "Period": 2010,
+      "Cases": 1800,
+      "Deaths": 1800
+    },
+    {
+      "Location": "Jamaica",
+      "Period": 2000,
+      "Cases": 2400,
+      "Deaths": 2400
+    },
+    {
+      "Location": "Jordan",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Jordan",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Jordan",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Kazakhstan",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Kazakhstan",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Kazakhstan",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Kenya",
+      "Period": 2018,
+      "Cases": 25000,
+      "Deaths": 25000
+    },
+    {
+      "Location": "Kenya",
+      "Period": 2010,
+      "Cases": 56000,
+      "Deaths": 56000
+    },
+    {
+      "Location": "Kenya",
+      "Period": 2000,
+      "Cases": 120000,
+      "Deaths": 120000
+    },
+    {
+      "Location": "Kuwait",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Kuwait",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Kuwait",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Kyrgyzstan",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Kyrgyzstan",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Kyrgyzstan",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Lao People's Democratic Republic",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Lao People's Democratic Republic",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Lao People's Democratic Republic",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Latvia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Latvia",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Latvia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Lebanon",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Lebanon",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Lebanon",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Lesotho",
+      "Period": 2018,
+      "Cases": 6100,
+      "Deaths": 6100
+    },
+    {
+      "Location": "Lesotho",
+      "Period": 2010,
+      "Cases": 7200,
+      "Deaths": 7200
+    },
+    {
+      "Location": "Lesotho",
+      "Period": 2000,
+      "Cases": 12000,
+      "Deaths": 12000
+    },
+    {
+      "Location": "Liberia",
+      "Period": 2018,
+      "Cases": 1800,
+      "Deaths": 1800
+    },
+    {
+      "Location": "Liberia",
+      "Period": 2010,
+      "Cases": 2700,
+      "Deaths": 2700
+    },
+    {
+      "Location": "Liberia",
+      "Period": 2000,
+      "Cases": 3000,
+      "Deaths": 3000
+    },
+    {
+      "Location": "Libya",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Libya",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Libya",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Luxembourg",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Luxembourg",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Luxembourg",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Madagascar",
+      "Period": 2018,
+      "Cases": 1700,
+      "Deaths": 1700
+    },
+    {
+      "Location": "Madagascar",
+      "Period": 2010,
+      "Cases": 1400,
+      "Deaths": 1400
+    },
+    {
+      "Location": "Madagascar",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Malawi",
+      "Period": 2018,
+      "Cases": 13000,
+      "Deaths": 13000
+    },
+    {
+      "Location": "Malawi",
+      "Period": 2010,
+      "Cases": 29000,
+      "Deaths": 29000
+    },
+    {
+      "Location": "Malawi",
+      "Period": 2000,
+      "Cases": 57000,
+      "Deaths": 57000
+    },
+    {
+      "Location": "Malaysia",
+      "Period": 2018,
+      "Cases": 2600,
+      "Deaths": 2600
+    },
+    {
+      "Location": "Malaysia",
+      "Period": 2010,
+      "Cases": 2900,
+      "Deaths": 2900
+    },
+    {
+      "Location": "Malaysia",
+      "Period": 2000,
+      "Cases": 2700,
+      "Deaths": 2700
+    },
+    {
+      "Location": "Mali",
+      "Period": 2018,
+      "Cases": 6500,
+      "Deaths": 6500
+    },
+    {
+      "Location": "Mali",
+      "Period": 2010,
+      "Cases": 5300,
+      "Deaths": 5300
+    },
+    {
+      "Location": "Mali",
+      "Period": 2000,
+      "Cases": 7700,
+      "Deaths": 7700
+    },
+    {
+      "Location": "Mauritania",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Mauritania",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Mauritania",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Mauritius",
+      "Period": 2018,
+      "Cases": 610,
+      "Deaths": 610
+    },
+    {
+      "Location": "Mauritius",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Mauritius",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Mongolia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Mongolia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Mongolia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Montenegro",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Montenegro",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Montenegro",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Morocco",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Morocco",
+      "Period": 2010,
+      "Cases": 550,
+      "Deaths": 550
+    },
+    {
+      "Location": "Morocco",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Mozambique",
+      "Period": 2018,
+      "Cases": 54000,
+      "Deaths": 54000
+    },
+    {
+      "Location": "Mozambique",
+      "Period": 2010,
+      "Cases": 64000,
+      "Deaths": 64000
+    },
+    {
+      "Location": "Mozambique",
+      "Period": 2000,
+      "Cases": 40000,
+      "Deaths": 40000
+    },
+    {
+      "Location": "Myanmar",
+      "Period": 2018,
+      "Cases": 7800,
+      "Deaths": 7800
+    },
+    {
+      "Location": "Myanmar",
+      "Period": 2010,
+      "Cases": 11000,
+      "Deaths": 11000
+    },
+    {
+      "Location": "Myanmar",
+      "Period": 2000,
+      "Cases": 5800,
+      "Deaths": 5800
+    },
+    {
+      "Location": "Namibia",
+      "Period": 2018,
+      "Cases": 2700,
+      "Deaths": 2700
+    },
+    {
+      "Location": "Namibia",
+      "Period": 2010,
+      "Cases": 3500,
+      "Deaths": 3500
+    },
+    {
+      "Location": "Namibia",
+      "Period": 2000,
+      "Cases": 7300,
+      "Deaths": 7300
+    },
+    {
+      "Location": "Nepal",
+      "Period": 2018,
+      "Cases": 910,
+      "Deaths": 910
+    },
+    {
+      "Location": "Nepal",
+      "Period": 2010,
+      "Cases": 1400,
+      "Deaths": 1400
+    },
+    {
+      "Location": "Nepal",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Netherlands",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Netherlands",
+      "Period": 2000,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "New Zealand",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "New Zealand",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "New Zealand",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Nicaragua",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Nicaragua",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Nicaragua",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Niger",
+      "Period": 2018,
+      "Cases": 1200,
+      "Deaths": 1200
+    },
+    {
+      "Location": "Niger",
+      "Period": 2010,
+      "Cases": 1700,
+      "Deaths": 1700
+    },
+    {
+      "Location": "Niger",
+      "Period": 2000,
+      "Cases": 2300,
+      "Deaths": 2300
+    },
+    {
+      "Location": "Nigeria",
+      "Period": 2018,
+      "Cases": 53000,
+      "Deaths": 53000
+    },
+    {
+      "Location": "Nigeria",
+      "Period": 2010,
+      "Cases": 72000,
+      "Deaths": 72000
+    },
+    {
+      "Location": "Nigeria",
+      "Period": 2000,
+      "Cases": 78000,
+      "Deaths": 78000
+    },
+    {
+      "Location": "Norway",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Norway",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Norway",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Oman",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Oman",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Oman",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Pakistan",
+      "Period": 2018,
+      "Cases": 6400,
+      "Deaths": 6400
+    },
+    {
+      "Location": "Pakistan",
+      "Period": 2010,
+      "Cases": 1400,
+      "Deaths": 1400
+    },
+    {
+      "Location": "Pakistan",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Panama",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Panama",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Panama",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Paraguay",
+      "Period": 2018,
+      "Cases": 720,
+      "Deaths": 720
+    },
+    {
+      "Location": "Paraguay",
+      "Period": 2010,
+      "Cases": 790,
+      "Deaths": 790
+    },
+    {
+      "Location": "Paraguay",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Peru",
+      "Period": 2018,
+      "Cases": 1000,
+      "Deaths": 1000
+    },
+    {
+      "Location": "Peru",
+      "Period": 2010,
+      "Cases": 2100,
+      "Deaths": 2100
+    },
+    {
+      "Location": "Peru",
+      "Period": 2000,
+      "Cases": 5100,
+      "Deaths": 5100
+    },
+    {
+      "Location": "Philippines",
+      "Period": 2018,
+      "Cases": 1200,
+      "Deaths": 1200
+    },
+    {
+      "Location": "Philippines",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Philippines",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Portugal",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Portugal",
+      "Period": 2010,
+      "Cases": 930,
+      "Deaths": 930
+    },
+    {
+      "Location": "Portugal",
+      "Period": 2000,
+      "Cases": 1100,
+      "Deaths": 1100
+    },
+    {
+      "Location": "Republic of Moldova",
+      "Period": 2018,
+      "Cases": 570,
+      "Deaths": 570
+    },
+    {
+      "Location": "Republic of Moldova",
+      "Period": 2010,
+      "Cases": 740,
+      "Deaths": 740
+    },
+    {
+      "Location": "Republic of Moldova",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Romania",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Romania",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Romania",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Rwanda",
+      "Period": 2018,
+      "Cases": 2900,
+      "Deaths": 2900
+    },
+    {
+      "Location": "Rwanda",
+      "Period": 2010,
+      "Cases": 5700,
+      "Deaths": 5700
+    },
+    {
+      "Location": "Rwanda",
+      "Period": 2000,
+      "Cases": 18000,
+      "Deaths": 18000
+    },
+    {
+      "Location": "Senegal",
+      "Period": 2018,
+      "Cases": 1300,
+      "Deaths": 1300
+    },
+    {
+      "Location": "Senegal",
+      "Period": 2010,
+      "Cases": 1300,
+      "Deaths": 1300
+    },
+    {
+      "Location": "Senegal",
+      "Period": 2000,
+      "Cases": 1700,
+      "Deaths": 1700
+    },
+    {
+      "Location": "Serbia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Serbia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Serbia",
+      "Period": 2000,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Sierra Leone",
+      "Period": 2018,
+      "Cases": 2100,
+      "Deaths": 2100
+    },
+    {
+      "Location": "Sierra Leone",
+      "Period": 2010,
+      "Cases": 2900,
+      "Deaths": 2900
+    },
+    {
+      "Location": "Sierra Leone",
+      "Period": 2000,
+      "Cases": 2400,
+      "Deaths": 2400
+    },
+    {
+      "Location": "Singapore",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Singapore",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Slovakia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Slovakia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Slovakia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Slovenia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Slovenia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Slovenia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Somalia",
+      "Period": 2018,
+      "Cases": 710,
+      "Deaths": 710
+    },
+    {
+      "Location": "Somalia",
+      "Period": 2010,
+      "Cases": 1400,
+      "Deaths": 1400
+    },
+    {
+      "Location": "Somalia",
+      "Period": 2000,
+      "Cases": 810,
+      "Deaths": 810
+    },
+    {
+      "Location": "South Africa",
+      "Period": 2018,
+      "Cases": 71000,
+      "Deaths": 71000
+    },
+    {
+      "Location": "South Africa",
+      "Period": 2010,
+      "Cases": 140000,
+      "Deaths": 140000
+    },
+    {
+      "Location": "South Africa",
+      "Period": 2000,
+      "Cases": 100000,
+      "Deaths": 100000
+    },
+    {
+      "Location": "South Sudan",
+      "Period": 2018,
+      "Cases": 9900,
+      "Deaths": 9900
+    },
+    {
+      "Location": "South Sudan",
+      "Period": 2010,
+      "Cases": 9800,
+      "Deaths": 9800
+    },
+    {
+      "Location": "South Sudan",
+      "Period": 2000,
+      "Cases": 5100,
+      "Deaths": 5100
+    },
+    {
+      "Location": "Spain",
+      "Period": 2010,
+      "Cases": 1300,
+      "Deaths": 1300
+    },
+    {
+      "Location": "Spain",
+      "Period": 2000,
+      "Cases": 1800,
+      "Deaths": 1800
+    },
+    {
+      "Location": "Sri Lanka",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Sri Lanka",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Sri Lanka",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Sudan",
+      "Period": 2018,
+      "Cases": 2900,
+      "Deaths": 2900
+    },
+    {
+      "Location": "Sudan",
+      "Period": 2010,
+      "Cases": 1900,
+      "Deaths": 1900
+    },
+    {
+      "Location": "Sudan",
+      "Period": 2000,
+      "Cases": 650,
+      "Deaths": 650
+    },
+    {
+      "Location": "Suriname",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Suriname",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Suriname",
+      "Period": 2000,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Syrian Arab Republic",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Syrian Arab Republic",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Syrian Arab Republic",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Tajikistan",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Tajikistan",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Tajikistan",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Thailand",
+      "Period": 2018,
+      "Cases": 18000,
+      "Deaths": 18000
+    },
+    {
+      "Location": "Thailand",
+      "Period": 2010,
+      "Cases": 27000,
+      "Deaths": 27000
+    },
+    {
+      "Location": "Thailand",
+      "Period": 2000,
+      "Cases": 54000,
+      "Deaths": 54000
+    },
+    {
+      "Location": "The former Yugoslav Republic of Macedonia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "The former Yugoslav Republic of Macedonia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "The former Yugoslav Republic of Macedonia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Togo",
+      "Period": 2018,
+      "Cases": 3800,
+      "Deaths": 3800
+    },
+    {
+      "Location": "Togo",
+      "Period": 2010,
+      "Cases": 5700,
+      "Deaths": 5700
+    },
+    {
+      "Location": "Togo",
+      "Period": 2000,
+      "Cases": 5600,
+      "Deaths": 5600
+    },
+    {
+      "Location": "Tunisia",
+      "Period": 2018,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Tunisia",
+      "Period": 2010,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Tunisia",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Uganda",
+      "Period": 2018,
+      "Cases": 23000,
+      "Deaths": 23000
+    },
+    {
+      "Location": "Uganda",
+      "Period": 2010,
+      "Cases": 56000,
+      "Deaths": 56000
+    },
+    {
+      "Location": "Uganda",
+      "Period": 2000,
+      "Cases": 85000,
+      "Deaths": 85000
+    },
+    {
+      "Location": "Ukraine",
+      "Period": 2018,
+      "Cases": 6100,
+      "Deaths": 6100
+    },
+    {
+      "Location": "Ukraine",
+      "Period": 2010,
+      "Cases": 12000,
+      "Deaths": 12000
+    },
+    {
+      "Location": "Ukraine",
+      "Period": 2000,
+      "Cases": 4500,
+      "Deaths": 4500
+    },
+    {
+      "Location": "United Republic of Tanzania",
+      "Period": 2018,
+      "Cases": 24000,
+      "Deaths": 24000
+    },
+    {
+      "Location": "United Republic of Tanzania",
+      "Period": 2010,
+      "Cases": 48000,
+      "Deaths": 48000
+    },
+    {
+      "Location": "United Republic of Tanzania",
+      "Period": 2000,
+      "Cases": 80000,
+      "Deaths": 80000
+    },
+    {
+      "Location": "Uruguay",
+      "Period": 2018,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Uruguay",
+      "Period": 2010,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Uruguay",
+      "Period": 2000,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Uzbekistan",
+      "Period": 2018,
+      "Cases": 1300,
+      "Deaths": 1300
+    },
+    {
+      "Location": "Uzbekistan",
+      "Period": 2010,
+      "Cases": 1800,
+      "Deaths": 1800
+    },
+    {
+      "Location": "Uzbekistan",
+      "Period": 2000,
+      "Cases": 840,
+      "Deaths": 840
+    },
+    {
+      "Location": "Viet Nam",
+      "Period": 2018,
+      "Cases": 4700,
+      "Deaths": 4700
+    },
+    {
+      "Location": "Viet Nam",
+      "Period": 2010,
+      "Cases": 8500,
+      "Deaths": 8500
+    },
+    {
+      "Location": "Viet Nam",
+      "Period": 2000,
+      "Cases": 6100,
+      "Deaths": 6100
+    },
+    {
+      "Location": "Yemen",
+      "Period": 2018,
+      "Cases": 500,
+      "Deaths": 500
+    },
+    {
+      "Location": "Yemen",
+      "Period": 2010,
+      "Cases": 200,
+      "Deaths": 200
+    },
+    {
+      "Location": "Yemen",
+      "Period": 2000,
+      "Cases": 100,
+      "Deaths": 100
+    },
+    {
+      "Location": "Zambia",
+      "Period": 2018,
+      "Cases": 17000,
+      "Deaths": 17000
+    },
+    {
+      "Location": "Zambia",
+      "Period": 2010,
+      "Cases": 26000,
+      "Deaths": 26000
+    },
+    {
+      "Location": "Zambia",
+      "Period": 2000,
+      "Cases": 62000,
+      "Deaths": 62000
+    },
+    {
+      "Location": "Zimbabwe",
+      "Period": 2018,
+      "Cases": 22000,
+      "Deaths": 22000
+    },
+    {
+      "Location": "Zimbabwe",
+      "Period": 2010,
+      "Cases": 54000,
+      "Deaths": 54000
+    },
+    {
+      "Location": "Zimbabwe",
+      "Period": 2000,
+      "Cases": 120000,
+      "Deaths": 120000
+    }
+  ]
+}
