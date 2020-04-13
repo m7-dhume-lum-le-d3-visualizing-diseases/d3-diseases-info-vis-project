@@ -1,0 +1,9320 @@
+[
+  {
+    "Location": "Afghanistan",
+    "Period": 2017,
+    "Cases": 161778,
+    "Deaths": 10
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2016,
+    "Cases": 139087,
+    "Deaths": 47
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2015,
+    "Cases": 86895,
+    "Deaths": 49
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2014,
+    "Cases": 61362,
+    "Deaths": 32
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2013,
+    "Cases": 39263,
+    "Deaths": 24
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2012,
+    "Cases": 54840,
+    "Deaths": 36
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2011,
+    "Cases": 77549,
+    "Deaths": 40
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2010,
+    "Cases": 69397,
+    "Deaths": 22
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2009,
+    "Cases": 64880,
+    "Deaths": 32
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2008,
+    "Cases": 81574,
+    "Deaths": 46
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2007,
+    "Cases": 92202,
+    "Deaths": 25
+  },
+  {
+    "Location": "Afghanistan",
+    "Period": 2005,
+    "Cases": 116444,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2017,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2013,
+    "Cases": 8,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2012,
+    "Cases": 55,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2011,
+    "Cases": 1,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2010,
+    "Cases": 1,
+    "Deaths": 1
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2008,
+    "Cases": 3,
+    "Deaths": 0
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2001,
+    "Cases": 435,
+    "Deaths": 1
+  },
+  {
+    "Location": "Algeria",
+    "Period": 2000,
+    "Cases": 541,
+    "Deaths": 2
+  },
+  {
+    "Location": "Angola",
+    "Period": 2017,
+    "Cases": 3874892,
+    "Deaths": 13967
+  },
+  {
+    "Location": "Angola",
+    "Period": 2016,
+    "Cases": 3794253,
+    "Deaths": 15997
+  },
+  {
+    "Location": "Angola",
+    "Period": 2015,
+    "Cases": 2769305,
+    "Deaths": 7832
+  },
+  {
+    "Location": "Angola",
+    "Period": 2014,
+    "Cases": 2298979,
+    "Deaths": 5714
+  },
+  {
+    "Location": "Angola",
+    "Period": 2013,
+    "Cases": 1999868,
+    "Deaths": 7300
+  },
+  {
+    "Location": "Angola",
+    "Period": 2012,
+    "Cases": 1496834,
+    "Deaths": 5736
+  },
+  {
+    "Location": "Angola",
+    "Period": 2011,
+    "Cases": 1632282,
+    "Deaths": 6909
+  },
+  {
+    "Location": "Angola",
+    "Period": 2010,
+    "Cases": 1682870,
+    "Deaths": 8114
+  },
+  {
+    "Location": "Angola",
+    "Period": 2009,
+    "Cases": 1573422,
+    "Deaths": 10530
+  },
+  {
+    "Location": "Angola",
+    "Period": 2008,
+    "Cases": 1377992,
+    "Deaths": 9465
+  },
+  {
+    "Location": "Angola",
+    "Period": 2007,
+    "Cases": 1533485,
+    "Deaths": 9812
+  },
+  {
+    "Location": "Angola",
+    "Period": 2006,
+    "Cases": 1082398,
+    "Deaths": 10220
+  },
+  {
+    "Location": "Angola",
+    "Period": 2005,
+    "Cases": 889572,
+    "Deaths": 13768
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2017,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2010,
+    "Cases": 14,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2009,
+    "Cases": 86,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2008,
+    "Cases": 130,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2007,
+    "Cases": 387,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2006,
+    "Cases": 212,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2005,
+    "Cases": 252,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2004,
+    "Cases": 115,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2003,
+    "Cases": 122,
+    "Deaths": 1
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2002,
+    "Cases": 125,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2001,
+    "Cases": 215,
+    "Deaths": 0
+  },
+  {
+    "Location": "Argentina",
+    "Period": 2000,
+    "Cases": 440,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2010,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2008,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2007,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2006,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2005,
+    "Cases": 7,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2004,
+    "Cases": 47,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2003,
+    "Cases": 29,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2002,
+    "Cases": 52,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2001,
+    "Cases": 79,
+    "Deaths": 0
+  },
+  {
+    "Location": "Armenia",
+    "Period": 2000,
+    "Cases": 141,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2012,
+    "Cases": 3,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2011,
+    "Cases": 4,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2010,
+    "Cases": 50,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2009,
+    "Cases": 78,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2008,
+    "Cases": 72,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2007,
+    "Cases": 108,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2006,
+    "Cases": 143,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2005,
+    "Cases": 242,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2004,
+    "Cases": 386,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2003,
+    "Cases": 482,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2002,
+    "Cases": 506,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2001,
+    "Cases": 1058,
+    "Deaths": 0
+  },
+  {
+    "Location": "Azerbaijan",
+    "Period": 2000,
+    "Cases": 1526,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2017,
+    "Cases": 4893,
+    "Deaths": 13
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2016,
+    "Cases": 4787,
+    "Deaths": 17
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2015,
+    "Cases": 6608,
+    "Deaths": 9
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2014,
+    "Cases": 10216,
+    "Deaths": 45
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2013,
+    "Cases": 3864,
+    "Deaths": 15
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2012,
+    "Cases": 9901,
+    "Deaths": 11
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2011,
+    "Cases": 51773,
+    "Deaths": 36
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2010,
+    "Cases": 55873,
+    "Deaths": 37
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2009,
+    "Cases": 63873,
+    "Deaths": 47
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2008,
+    "Cases": 84690,
+    "Deaths": 154
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2007,
+    "Cases": 59866,
+    "Deaths": 228
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2006,
+    "Cases": 32857,
+    "Deaths": 508
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2005,
+    "Cases": 48121,
+    "Deaths": 501
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2004,
+    "Cases": 58894,
+    "Deaths": 505
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2003,
+    "Cases": 54654,
+    "Deaths": 574
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2002,
+    "Cases": 62269,
+    "Deaths": 598
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2001,
+    "Cases": 54216,
+    "Deaths": 470
+  },
+  {
+    "Location": "Bangladesh",
+    "Period": 2000,
+    "Cases": 55599,
+    "Deaths": 484
+  },
+  {
+    "Location": "Belize",
+    "Period": 2017,
+    "Cases": 7,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2016,
+    "Cases": 4,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2015,
+    "Cases": 9,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2014,
+    "Cases": 19,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2013,
+    "Cases": 20,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2012,
+    "Cases": 33,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2011,
+    "Cases": 72,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2010,
+    "Cases": 150,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2009,
+    "Cases": 256,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2008,
+    "Cases": 540,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2007,
+    "Cases": 845,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2006,
+    "Cases": 844,
+    "Deaths": 1
+  },
+  {
+    "Location": "Belize",
+    "Period": 2005,
+    "Cases": 1549,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2004,
+    "Cases": 1066,
+    "Deaths": 1
+  },
+  {
+    "Location": "Belize",
+    "Period": 2002,
+    "Cases": 1134,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2001,
+    "Cases": 1162,
+    "Deaths": 0
+  },
+  {
+    "Location": "Belize",
+    "Period": 2000,
+    "Cases": 1486,
+    "Deaths": 0
+  },
+  {
+    "Location": "Benin",
+    "Period": 2017,
+    "Cases": 1573163,
+    "Deaths": 2182
+  },
+  {
+    "Location": "Benin",
+    "Period": 2016,
+    "Cases": 1324576,
+    "Deaths": 1646
+  },
+  {
+    "Location": "Benin",
+    "Period": 2015,
+    "Cases": 1268347,
+    "Deaths": 1416
+  },
+  {
+    "Location": "Benin",
+    "Period": 2014,
+    "Cases": 1044235,
+    "Deaths": 1869
+  },
+  {
+    "Location": "Benin",
+    "Period": 2013,
+    "Cases": 1078834,
+    "Deaths": 2288
+  },
+  {
+    "Location": "Benin",
+    "Period": 2012,
+    "Cases": 705839,
+    "Deaths": 2261
+  },
+  {
+    "Location": "Benin",
+    "Period": 2011,
+    "Cases": 422968,
+    "Deaths": 1753
+  },
+  {
+    "Location": "Benin",
+    "Period": 2009,
+    "Cases": 889597,
+    "Deaths": 1375
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2017,
+    "Cases": 24,
+    "Deaths": 1
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2016,
+    "Cases": 15,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2015,
+    "Cases": 34,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2014,
+    "Cases": 19,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2013,
+    "Cases": 15,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2011,
+    "Cases": 194,
+    "Deaths": 1
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2010,
+    "Cases": 436,
+    "Deaths": 2
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2009,
+    "Cases": 972,
+    "Deaths": 4
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2008,
+    "Cases": 329,
+    "Deaths": 2
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2007,
+    "Cases": 793,
+    "Deaths": 2
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2006,
+    "Cases": 1868,
+    "Deaths": 7
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2005,
+    "Cases": 1825,
+    "Deaths": 5
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2004,
+    "Cases": 2670,
+    "Deaths": 7
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2003,
+    "Cases": 3806,
+    "Deaths": 14
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2002,
+    "Cases": 6511,
+    "Deaths": 11
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2001,
+    "Cases": 5982,
+    "Deaths": 14
+  },
+  {
+    "Location": "Bhutan",
+    "Period": 2000,
+    "Cases": 5935,
+    "Deaths": 15
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2017,
+    "Cases": 4572,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2016,
+    "Cases": 5542,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2015,
+    "Cases": 6874,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2014,
+    "Cases": 7401,
+    "Deaths": 1
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2013,
+    "Cases": 7301,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2012,
+    "Cases": 7415,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2011,
+    "Cases": 7143,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2010,
+    "Cases": 13769,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2009,
+    "Cases": 9743,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2008,
+    "Cases": 9748,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2007,
+    "Cases": 14610,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2006,
+    "Cases": 19725,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2005,
+    "Cases": 21442,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2004,
+    "Cases": 14910,
+    "Deaths": 3
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2003,
+    "Cases": 20343,
+    "Deaths": 1
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2002,
+    "Cases": 14276,
+    "Deaths": 4
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2001,
+    "Cases": 15765,
+    "Deaths": 0
+  },
+  {
+    "Location": "Bolivia (Plurinational State of)",
+    "Period": 2000,
+    "Cases": 31469,
+    "Deaths": 11
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2017,
+    "Cases": 1900,
+    "Deaths": 17
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2016,
+    "Cases": 716,
+    "Deaths": 3
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2015,
+    "Cases": 326,
+    "Deaths": 5
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2014,
+    "Cases": 1346,
+    "Deaths": 22
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2013,
+    "Cases": 456,
+    "Deaths": 7
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2012,
+    "Cases": 193,
+    "Deaths": 3
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2011,
+    "Cases": 432,
+    "Deaths": 8
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2010,
+    "Cases": 1046,
+    "Deaths": 8
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2009,
+    "Cases": 1024,
+    "Deaths": 6
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2008,
+    "Cases": 927,
+    "Deaths": 12
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2007,
+    "Cases": 390,
+    "Deaths": 6
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2006,
+    "Cases": 2548,
+    "Deaths": 40
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2005,
+    "Cases": 670,
+    "Deaths": 11
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2004,
+    "Cases": 198,
+    "Deaths": 19
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2003,
+    "Cases": 591,
+    "Deaths": 18
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2002,
+    "Cases": 1640,
+    "Deaths": 23
+  },
+  {
+    "Location": "Botswana",
+    "Period": 2001,
+    "Cases": 3720,
+    "Deaths": 29
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2017,
+    "Cases": 189503,
+    "Deaths": 30
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2016,
+    "Cases": 124178,
+    "Deaths": 35
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2015,
+    "Cases": 138229,
+    "Deaths": 35
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2014,
+    "Cases": 139272,
+    "Deaths": 36
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2013,
+    "Cases": 168862,
+    "Deaths": 40
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2012,
+    "Cases": 242758,
+    "Deaths": 60
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2011,
+    "Cases": 267146,
+    "Deaths": 70
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2010,
+    "Cases": 334483,
+    "Deaths": 76
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2009,
+    "Cases": 309316,
+    "Deaths": 85
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2008,
+    "Cases": 315746,
+    "Deaths": 68
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2007,
+    "Cases": 458652,
+    "Deaths": 93
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2006,
+    "Cases": 549469,
+    "Deaths": 110
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2005,
+    "Cases": 606067,
+    "Deaths": 123
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2004,
+    "Cases": 465004,
+    "Deaths": 102
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2003,
+    "Cases": 408886,
+    "Deaths": 104
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2002,
+    "Cases": 348259,
+    "Deaths": 95
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2001,
+    "Cases": 388303,
+    "Deaths": 142
+  },
+  {
+    "Location": "Brazil",
+    "Period": 2000,
+    "Cases": 613241,
+    "Deaths": 245
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2017,
+    "Cases": 10225459,
+    "Deaths": 4144
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2016,
+    "Cases": 9779154,
+    "Deaths": 3974
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2015,
+    "Cases": 7015446,
+    "Deaths": 5379
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2014,
+    "Cases": 5428655,
+    "Deaths": 5632
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2013,
+    "Cases": 3769051,
+    "Deaths": 6294
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2012,
+    "Cases": 3858046,
+    "Deaths": 7963
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2011,
+    "Cases": 428113,
+    "Deaths": 7001
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2010,
+    "Cases": 804539,
+    "Deaths": 9024
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2009,
+    "Cases": 182527,
+    "Deaths": 7982
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2008,
+    "Cases": 36514,
+    "Deaths": 7834
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2007,
+    "Cases": 44246,
+    "Deaths": 6472
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2006,
+    "Cases": 44265,
+    "Deaths": 8083
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2005,
+    "Cases": 21335,
+    "Deaths": 5224
+  },
+  {
+    "Location": "Burkina Faso",
+    "Period": 2004,
+    "Cases": 18256,
+    "Deaths": 4205
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2017,
+    "Cases": 7670177,
+    "Deaths": 4414
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2016,
+    "Cases": 8274062,
+    "Deaths": 5853
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2015,
+    "Cases": 5159706,
+    "Deaths": 3799
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2014,
+    "Cases": 4585273,
+    "Deaths": 2974
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2013,
+    "Cases": 4141387,
+    "Deaths": 3411
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2012,
+    "Cases": 2151076,
+    "Deaths": 2263
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2011,
+    "Cases": 1571874,
+    "Deaths": 2233
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2010,
+    "Cases": 1763447,
+    "Deaths": 2677
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2009,
+    "Cases": 1185622,
+    "Deaths": 1183
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2008,
+    "Cases": 876741,
+    "Deaths": 595
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2007,
+    "Cases": 1101644,
+    "Deaths": 167
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2006,
+    "Cases": 791731,
+    "Deaths": 434
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2005,
+    "Cases": 327464,
+    "Deaths": 776
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2004,
+    "Cases": 363395,
+    "Deaths": 689
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2003,
+    "Cases": 353459,
+    "Deaths": 425
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2002,
+    "Cases": 327138,
+    "Deaths": 483
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2001,
+    "Cases": 312015,
+    "Deaths": 417
+  },
+  {
+    "Location": "Burundi",
+    "Period": 2000,
+    "Cases": 308095,
+    "Deaths": 691
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2017,
+    "Cases": 423,
+    "Deaths": 2
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2016,
+    "Cases": 48,
+    "Deaths": 1
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2015,
+    "Cases": 7,
+    "Deaths": 0
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2014,
+    "Cases": 26,
+    "Deaths": 1
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2013,
+    "Cases": 22,
+    "Deaths": 0
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2012,
+    "Cases": 1,
+    "Deaths": 0
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2011,
+    "Cases": 7,
+    "Deaths": 1
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2010,
+    "Cases": 47,
+    "Deaths": 1
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2009,
+    "Cases": 65,
+    "Deaths": 2
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2008,
+    "Cases": 35,
+    "Deaths": 2
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2007,
+    "Cases": 18,
+    "Deaths": 2
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2006,
+    "Cases": 80,
+    "Deaths": 8
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2005,
+    "Cases": 68,
+    "Deaths": 2
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2004,
+    "Cases": 45,
+    "Deaths": 4
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2003,
+    "Cases": 68,
+    "Deaths": 4
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2002,
+    "Cases": 76,
+    "Deaths": 2
+  },
+  {
+    "Location": "Cabo Verde",
+    "Period": 2001,
+    "Cases": 107,
+    "Deaths": 0
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2017,
+    "Cases": 36932,
+    "Deaths": 1
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2016,
+    "Cases": 23492,
+    "Deaths": 3
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2015,
+    "Cases": 33930,
+    "Deaths": 10
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2014,
+    "Cases": 25152,
+    "Deaths": 18
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2013,
+    "Cases": 21309,
+    "Deaths": 12
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2012,
+    "Cases": 40476,
+    "Deaths": 45
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2011,
+    "Cases": 57423,
+    "Deaths": 94
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2010,
+    "Cases": 49356,
+    "Deaths": 151
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2009,
+    "Cases": 64595,
+    "Deaths": 279
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2008,
+    "Cases": 42124,
+    "Deaths": 209
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2007,
+    "Cases": 42518,
+    "Deaths": 241
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2006,
+    "Cases": 78696,
+    "Deaths": 396
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2005,
+    "Cases": 49436,
+    "Deaths": 296
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2004,
+    "Cases": 59745,
+    "Deaths": 382
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2003,
+    "Cases": 71265,
+    "Deaths": 492
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2002,
+    "Cases": 46902,
+    "Deaths": 457
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2001,
+    "Cases": 53601,
+    "Deaths": 476
+  },
+  {
+    "Location": "Cambodia",
+    "Period": 2000,
+    "Cases": 62442,
+    "Deaths": 608
+  },
+  {
+    "Location": "Cameroon",
+    "Period": 2017,
+    "Cases": 1191257,
+    "Deaths": 3195
+  },
+  {
+    "Location": "Cameroon",
+    "Period": 2016,
+    "Cases": 1675264,
+    "Deaths": 2639
+  },
+  {
+    "Location": "Cameroon",
+    "Period": 2015,
+    "Cases": 1162784,
+    "Deaths": 3440
+  },
+  {
+    "Location": "Cameroon",
+    "Period": 2013,
+    "Cases": 26651,
+    "Deaths": 4349
+  },
+  {
+    "Location": "Cameroon",
+    "Period": 2011,
+    "Cases": 15212,
+    "Deaths": 3808
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2017,
+    "Cases": 383309,
+    "Deaths": 3689
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2016,
+    "Cases": 1032764,
+    "Deaths": 2668
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2015,
+    "Cases": 598833,
+    "Deaths": 1763
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2014,
+    "Cases": 295088,
+    "Deaths": 635
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2013,
+    "Cases": 116300,
+    "Deaths": 1026
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2012,
+    "Cases": 46759,
+    "Deaths": 1442
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2005,
+    "Cases": 45973,
+    "Deaths": 668
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2004,
+    "Cases": 46869,
+    "Deaths": 859
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2003,
+    "Cases": 37896,
+    "Deaths": 417
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2001,
+    "Cases": 39164,
+    "Deaths": 535
+  },
+  {
+    "Location": "Central African Republic",
+    "Period": 2000,
+    "Cases": 33411,
+    "Deaths": 439
+  },
+  {
+    "Location": "Chad",
+    "Period": 2017,
+    "Cases": 1962372,
+    "Deaths": 2088
+  },
+  {
+    "Location": "Chad",
+    "Period": 2016,
+    "Cases": 1294768,
+    "Deaths": 1686
+  },
+  {
+    "Location": "Chad",
+    "Period": 2015,
+    "Cases": 787046,
+    "Deaths": 1572
+  },
+  {
+    "Location": "Chad",
+    "Period": 2014,
+    "Cases": 914032,
+    "Deaths": 1720
+  },
+  {
+    "Location": "Chad",
+    "Period": 2013,
+    "Cases": 754565,
+    "Deaths": 1881
+  },
+  {
+    "Location": "Chad",
+    "Period": 2012,
+    "Cases": 7710,
+    "Deaths": 1359
+  },
+  {
+    "Location": "Chad",
+    "Period": 2011,
+    "Cases": 181126,
+    "Deaths": 1220
+  },
+  {
+    "Location": "Chad",
+    "Period": 2010,
+    "Cases": 200448,
+    "Deaths": 886
+  },
+  {
+    "Location": "Chad",
+    "Period": 2008,
+    "Cases": 47757,
+    "Deaths": 1018
+  },
+  {
+    "Location": "Chad",
+    "Period": 2007,
+    "Cases": 48288,
+    "Deaths": 617
+  },
+  {
+    "Location": "Chad",
+    "Period": 2006,
+    "Cases": 45155,
+    "Deaths": 837
+  },
+  {
+    "Location": "Chad",
+    "Period": 2005,
+    "Cases": 31668,
+    "Deaths": 558
+  },
+  {
+    "Location": "Chad",
+    "Period": 2004,
+    "Cases": 1360,
+    "Deaths": 13
+  },
+  {
+    "Location": "Chad",
+    "Period": 2003,
+    "Cases": 45195,
+    "Deaths": 1021
+  },
+  {
+    "Location": "Chad",
+    "Period": 2002,
+    "Cases": 43933,
+    "Deaths": 98
+  },
+  {
+    "Location": "Chad",
+    "Period": 2001,
+    "Cases": 38287,
+    "Deaths": 957
+  },
+  {
+    "Location": "Chad",
+    "Period": 2000,
+    "Cases": 40078,
+    "Deaths": 712
+  },
+  {
+    "Location": "China",
+    "Period": 2017,
+    "Cases": 0,
+    "Deaths": 7
+  },
+  {
+    "Location": "China",
+    "Period": 2016,
+    "Cases": 3,
+    "Deaths": 15
+  },
+  {
+    "Location": "China",
+    "Period": 2015,
+    "Cases": 39,
+    "Deaths": 20
+  },
+  {
+    "Location": "China",
+    "Period": 2014,
+    "Cases": 56,
+    "Deaths": 0
+  },
+  {
+    "Location": "China",
+    "Period": 2013,
+    "Cases": 86,
+    "Deaths": 0
+  },
+  {
+    "Location": "China",
+    "Period": 2012,
+    "Cases": 244,
+    "Deaths": 0
+  },
+  {
+    "Location": "China",
+    "Period": 2011,
+    "Cases": 3367,
+    "Deaths": 33
+  },
+  {
+    "Location": "China",
+    "Period": 2010,
+    "Cases": 4990,
+    "Deaths": 19
+  },
+  {
+    "Location": "China",
+    "Period": 2009,
+    "Cases": 9287,
+    "Deaths": 10
+  },
+  {
+    "Location": "China",
+    "Period": 2008,
+    "Cases": 16650,
+    "Deaths": 23
+  },
+  {
+    "Location": "China",
+    "Period": 2007,
+    "Cases": 29304,
+    "Deaths": 18
+  },
+  {
+    "Location": "China",
+    "Period": 2006,
+    "Cases": 35383,
+    "Deaths": 37
+  },
+  {
+    "Location": "China",
+    "Period": 2005,
+    "Cases": 21936,
+    "Deaths": 48
+  },
+  {
+    "Location": "China",
+    "Period": 2004,
+    "Cases": 27197,
+    "Deaths": 31
+  },
+  {
+    "Location": "China",
+    "Period": 2003,
+    "Cases": 28491,
+    "Deaths": 52
+  },
+  {
+    "Location": "China",
+    "Period": 2002,
+    "Cases": 25520,
+    "Deaths": 42
+  },
+  {
+    "Location": "China",
+    "Period": 2001,
+    "Cases": 21237,
+    "Deaths": 27
+  },
+  {
+    "Location": "China",
+    "Period": 2000,
+    "Cases": 8025,
+    "Deaths": 31
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2017,
+    "Cases": 52805,
+    "Deaths": 19
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2016,
+    "Cases": 82609,
+    "Deaths": 36
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2015,
+    "Cases": 47616,
+    "Deaths": 18
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2014,
+    "Cases": 40768,
+    "Deaths": 17
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2013,
+    "Cases": 51696,
+    "Deaths": 10
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2012,
+    "Cases": 60179,
+    "Deaths": 24
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2011,
+    "Cases": 60105,
+    "Deaths": 23
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2010,
+    "Cases": 117589,
+    "Deaths": 42
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2009,
+    "Cases": 79347,
+    "Deaths": 28
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2008,
+    "Cases": 80559,
+    "Deaths": 54
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2007,
+    "Cases": 128462,
+    "Deaths": 68
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2006,
+    "Cases": 120096,
+    "Deaths": 77
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2005,
+    "Cases": 121629,
+    "Deaths": 87
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2004,
+    "Cases": 142241,
+    "Deaths": 126
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2003,
+    "Cases": 180956,
+    "Deaths": 118
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2002,
+    "Cases": 204916,
+    "Deaths": 162
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2001,
+    "Cases": 231233,
+    "Deaths": 168
+  },
+  {
+    "Location": "Colombia",
+    "Period": 2000,
+    "Cases": 144432,
+    "Deaths": 124
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2017,
+    "Cases": 2274,
+    "Deaths": 3
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2016,
+    "Cases": 1066,
+    "Deaths": 0
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2015,
+    "Cases": 1300,
+    "Deaths": 1
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2014,
+    "Cases": 2203,
+    "Deaths": 0
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2013,
+    "Cases": 53156,
+    "Deaths": 15
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2012,
+    "Cases": 49840,
+    "Deaths": 17
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2011,
+    "Cases": 24856,
+    "Deaths": 19
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2010,
+    "Cases": 36538,
+    "Deaths": 53
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2006,
+    "Cases": 20559,
+    "Deaths": 56
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2005,
+    "Cases": 6086,
+    "Deaths": 92
+  },
+  {
+    "Location": "Comoros",
+    "Period": 2004,
+    "Cases": 12874,
+    "Deaths": 28
+  },
+  {
+    "Location": "Congo",
+    "Period": 2017,
+    "Cases": 127939,
+    "Deaths": 229
+  },
+  {
+    "Location": "Congo",
+    "Period": 2016,
+    "Cases": 171847,
+    "Deaths": 733
+  },
+  {
+    "Location": "Congo",
+    "Period": 2015,
+    "Cases": 51529,
+    "Deaths": 435
+  },
+  {
+    "Location": "Congo",
+    "Period": 2014,
+    "Cases": 66323,
+    "Deaths": 271
+  },
+  {
+    "Location": "Congo",
+    "Period": 2013,
+    "Cases": 43232,
+    "Deaths": 2870
+  },
+  {
+    "Location": "Congo",
+    "Period": 2012,
+    "Cases": 120319,
+    "Deaths": 623
+  },
+  {
+    "Location": "Congo",
+    "Period": 2011,
+    "Cases": 37744,
+    "Deaths": 892
+  },
+  {
+    "Location": "Congo",
+    "Period": 2009,
+    "Cases": 92855,
+    "Deaths": 116
+  },
+  {
+    "Location": "Congo",
+    "Period": 2008,
+    "Cases": 117291,
+    "Deaths": 143
+  },
+  {
+    "Location": "Congo",
+    "Period": 2007,
+    "Cases": 103213,
+    "Deaths": 113
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2017,
+    "Cases": 12,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2016,
+    "Cases": 4,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2012,
+    "Cases": 6,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2011,
+    "Cases": 10,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2010,
+    "Cases": 110,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2009,
+    "Cases": 262,
+    "Deaths": 1
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2008,
+    "Cases": 966,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2007,
+    "Cases": 1223,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2006,
+    "Cases": 2903,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2005,
+    "Cases": 3541,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2004,
+    "Cases": 1289,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2003,
+    "Cases": 718,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2002,
+    "Cases": 1021,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2001,
+    "Cases": 1363,
+    "Deaths": 0
+  },
+  {
+    "Location": "Costa Rica",
+    "Period": 2000,
+    "Cases": 1879,
+    "Deaths": 0
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2017,
+    "Cases": 3274683,
+    "Deaths": 3222
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2016,
+    "Cases": 3471024,
+    "Deaths": 3340
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2015,
+    "Cases": 3375904,
+    "Deaths": 2604
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2014,
+    "Cases": 3712831,
+    "Deaths": 4069
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2013,
+    "Cases": 2506953,
+    "Deaths": 3261
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2012,
+    "Cases": 1140627,
+    "Deaths": 1534
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2011,
+    "Cases": 29976,
+    "Deaths": 1389
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2010,
+    "Cases": 62726,
+    "Deaths": 1023
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2009,
+    "Cases": 7388,
+    "Deaths": 18156
+  },
+  {
+    "Location": "Côte d’Ivoire",
+    "Period": 2008,
+    "Cases": 3527,
+    "Deaths": 1249
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2017,
+    "Cases": 4575,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2016,
+    "Cases": 2719,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2015,
+    "Cases": 773,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2014,
+    "Cases": 10535,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2013,
+    "Cases": 14407,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2012,
+    "Cases": 21850,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2011,
+    "Cases": 16760,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2010,
+    "Cases": 13520,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2009,
+    "Cases": 14632,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2008,
+    "Cases": 16611,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic People's Republic of Korea",
+    "Period": 2007,
+    "Cases": 4345,
+    "Deaths": 0
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2017,
+    "Cases": 15176927,
+    "Deaths": 27458
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2016,
+    "Cases": 15330841,
+    "Deaths": 33997
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2015,
+    "Cases": 11627473,
+    "Deaths": 39054
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2014,
+    "Cases": 9968983,
+    "Deaths": 25502
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2013,
+    "Cases": 6715223,
+    "Deaths": 30918
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2012,
+    "Cases": 4791598,
+    "Deaths": 21601
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2011,
+    "Cases": 4561981,
+    "Deaths": 23748
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2010,
+    "Cases": 2417780,
+    "Deaths": 23476
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2009,
+    "Cases": 1878705,
+    "Deaths": 21168
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2008,
+    "Cases": 1618218,
+    "Deaths": 17940
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2007,
+    "Cases": 740858,
+    "Deaths": 14372
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2006,
+    "Cases": 2050,
+    "Deaths": 12970
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2005,
+    "Cases": 2971,
+    "Deaths": 15322
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2004,
+    "Cases": 2684,
+    "Deaths": 13613
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2003,
+    "Cases": 2438,
+    "Deaths": 989
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2002,
+    "Cases": 1735,
+    "Deaths": 2152
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2001,
+    "Cases": 1531,
+    "Deaths": 416
+  },
+  {
+    "Location": "Democratic Republic of the Congo",
+    "Period": 2000,
+    "Cases": 897,
+    "Deaths": 3856
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2016,
+    "Cases": 13804,
+    "Deaths": 5
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2015,
+    "Cases": 9473,
+    "Deaths": 23
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2014,
+    "Cases": 9439,
+    "Deaths": 28
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2013,
+    "Cases": 1684,
+    "Deaths": 17
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2012,
+    "Cases": 25,
+    "Deaths": 0
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2010,
+    "Cases": 1010,
+    "Deaths": 0
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2009,
+    "Cases": 2686,
+    "Deaths": 0
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2007,
+    "Cases": 210,
+    "Deaths": 1
+  },
+  {
+    "Location": "Djibouti",
+    "Period": 2006,
+    "Cases": 1796,
+    "Deaths": 29
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2017,
+    "Cases": 341,
+    "Deaths": 1
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2016,
+    "Cases": 690,
+    "Deaths": 2
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2015,
+    "Cases": 631,
+    "Deaths": 3
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2014,
+    "Cases": 459,
+    "Deaths": 4
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2013,
+    "Cases": 579,
+    "Deaths": 5
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2012,
+    "Cases": 952,
+    "Deaths": 8
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2011,
+    "Cases": 1616,
+    "Deaths": 10
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2010,
+    "Cases": 3414,
+    "Deaths": 15
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2009,
+    "Cases": 1643,
+    "Deaths": 14
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2008,
+    "Cases": 1840,
+    "Deaths": 11
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2007,
+    "Cases": 2711,
+    "Deaths": 17
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2006,
+    "Cases": 3525,
+    "Deaths": 10
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2005,
+    "Cases": 3837,
+    "Deaths": 16
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2004,
+    "Cases": 2355,
+    "Deaths": 16
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2003,
+    "Cases": 1529,
+    "Deaths": 12
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2002,
+    "Cases": 1296,
+    "Deaths": 11
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2001,
+    "Cases": 1038,
+    "Deaths": 17
+  },
+  {
+    "Location": "Dominican Republic",
+    "Period": 2000,
+    "Cases": 1233,
+    "Deaths": 6
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2017,
+    "Cases": 1275,
+    "Deaths": 1
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2016,
+    "Cases": 1191,
+    "Deaths": 0
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2015,
+    "Cases": 618,
+    "Deaths": 0
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2014,
+    "Cases": 242,
+    "Deaths": 0
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2013,
+    "Cases": 368,
+    "Deaths": 0
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2012,
+    "Cases": 544,
+    "Deaths": 0
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2011,
+    "Cases": 1219,
+    "Deaths": 0
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2010,
+    "Cases": 1888,
+    "Deaths": 0
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2009,
+    "Cases": 4120,
+    "Deaths": 6
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2008,
+    "Cases": 4891,
+    "Deaths": 5
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2007,
+    "Cases": 8464,
+    "Deaths": 8
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2006,
+    "Cases": 9863,
+    "Deaths": 9
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2005,
+    "Cases": 17050,
+    "Deaths": 22
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2004,
+    "Cases": 28730,
+    "Deaths": 37
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2003,
+    "Cases": 52065,
+    "Deaths": 46
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2002,
+    "Cases": 86757,
+    "Deaths": 64
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2001,
+    "Cases": 108903,
+    "Deaths": 84
+  },
+  {
+    "Location": "Ecuador",
+    "Period": 2000,
+    "Cases": 104528,
+    "Deaths": 66
+  },
+  {
+    "Location": "Egypt",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 4
+  },
+  {
+    "Location": "Egypt",
+    "Period": 2010,
+    "Cases": 0,
+    "Deaths": 2
+  },
+  {
+    "Location": "Egypt",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 2
+  },
+  {
+    "Location": "Egypt",
+    "Period": 2008,
+    "Cases": 0,
+    "Deaths": 2
+  },
+  {
+    "Location": "Egypt",
+    "Period": 2007,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Egypt",
+    "Period": 2006,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2017,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2016,
+    "Cases": 12,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2015,
+    "Cases": 2,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2014,
+    "Cases": 6,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2013,
+    "Cases": 6,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2012,
+    "Cases": 13,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2011,
+    "Cases": 9,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2010,
+    "Cases": 19,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2009,
+    "Cases": 20,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2008,
+    "Cases": 33,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2007,
+    "Cases": 40,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2006,
+    "Cases": 49,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2005,
+    "Cases": 67,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2004,
+    "Cases": 112,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2003,
+    "Cases": 85,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2002,
+    "Cases": 117,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2001,
+    "Cases": 362,
+    "Deaths": 0
+  },
+  {
+    "Location": "El Salvador",
+    "Period": 2000,
+    "Cases": 753,
+    "Deaths": 0
+  },
+  {
+    "Location": "Equatorial Guinea",
+    "Period": 2016,
+    "Cases": 147714,
+    "Deaths": 109
+  },
+  {
+    "Location": "Equatorial Guinea",
+    "Period": 2015,
+    "Cases": 15142,
+    "Deaths": 28
+  },
+  {
+    "Location": "Equatorial Guinea",
+    "Period": 2013,
+    "Cases": 13129,
+    "Deaths": 66
+  },
+  {
+    "Location": "Equatorial Guinea",
+    "Period": 2012,
+    "Cases": 15169,
+    "Deaths": 77
+  },
+  {
+    "Location": "Equatorial Guinea",
+    "Period": 2011,
+    "Cases": 22466,
+    "Deaths": 52
+  },
+  {
+    "Location": "Equatorial Guinea",
+    "Period": 2010,
+    "Cases": 53813,
+    "Deaths": 30
+  },
+  {
+    "Location": "Equatorial Guinea",
+    "Period": 2009,
+    "Cases": 14184,
+    "Deaths": 23
+  },
+  {
+    "Location": "Equatorial Guinea",
+    "Period": 2008,
+    "Cases": 9503,
+    "Deaths": 4
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2017,
+    "Cases": 31486,
+    "Deaths": 8
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2016,
+    "Cases": 24251,
+    "Deaths": 21
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2015,
+    "Cases": 19372,
+    "Deaths": 12
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2014,
+    "Cases": 30768,
+    "Deaths": 15
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2013,
+    "Cases": 21317,
+    "Deaths": 6
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2012,
+    "Cases": 21815,
+    "Deaths": 30
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2011,
+    "Cases": 34848,
+    "Deaths": 12
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2010,
+    "Cases": 35982,
+    "Deaths": 27
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2009,
+    "Cases": 11759,
+    "Deaths": 23
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2008,
+    "Cases": 8764,
+    "Deaths": 19
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2007,
+    "Cases": 15565,
+    "Deaths": 42
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2006,
+    "Cases": 6541,
+    "Deaths": 47
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2005,
+    "Cases": 9073,
+    "Deaths": 49
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2004,
+    "Cases": 4119,
+    "Deaths": 24
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2003,
+    "Cases": 10346,
+    "Deaths": 79
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2002,
+    "Cases": 6078,
+    "Deaths": 86
+  },
+  {
+    "Location": "Eritrea",
+    "Period": 2001,
+    "Cases": 9716,
+    "Deaths": 133
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2017,
+    "Cases": 724,
+    "Deaths": 20
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2016,
+    "Cases": 350,
+    "Deaths": 3
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2015,
+    "Cases": 157,
+    "Deaths": 5
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2013,
+    "Cases": 962,
+    "Deaths": 4
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2012,
+    "Cases": 562,
+    "Deaths": 3
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2011,
+    "Cases": 549,
+    "Deaths": 1
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2010,
+    "Cases": 268,
+    "Deaths": 8
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2009,
+    "Cases": 106,
+    "Deaths": 13
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2008,
+    "Cases": 58,
+    "Deaths": 10
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2007,
+    "Cases": 84,
+    "Deaths": 17
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2006,
+    "Cases": 155,
+    "Deaths": 27
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2005,
+    "Cases": 279,
+    "Deaths": 17
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2004,
+    "Cases": 574,
+    "Deaths": 28
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2003,
+    "Cases": 342,
+    "Deaths": 30
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2002,
+    "Cases": 670,
+    "Deaths": 46
+  },
+  {
+    "Location": "Eswatini",
+    "Period": 2001,
+    "Cases": 1395,
+    "Deaths": 62
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2017,
+    "Cases": 1530739,
+    "Deaths": 356
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2016,
+    "Cases": 1718504,
+    "Deaths": 510
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2015,
+    "Cases": 1867059,
+    "Deaths": 662
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2014,
+    "Cases": 2118815,
+    "Deaths": 213
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2013,
+    "Cases": 2645454,
+    "Deaths": 358
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2012,
+    "Cases": 1692578,
+    "Deaths": 1621
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2011,
+    "Cases": 1480306,
+    "Deaths": 936
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2010,
+    "Cases": 1158197,
+    "Deaths": 1581
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2009,
+    "Cases": 1036316,
+    "Deaths": 1121
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2008,
+    "Cases": 458561,
+    "Deaths": 1169
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2007,
+    "Cases": 451816,
+    "Deaths": 991
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2006,
+    "Cases": 447780,
+    "Deaths": 1357
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2005,
+    "Cases": 538942,
+    "Deaths": 1086
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2004,
+    "Cases": 578904,
+    "Deaths": 3327
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2003,
+    "Cases": 463797,
+    "Deaths": 2138
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2002,
+    "Cases": 427795,
+    "Deaths": 1607
+  },
+  {
+    "Location": "Ethiopia",
+    "Period": 2001,
+    "Cases": 392377,
+    "Deaths": 1681
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2017,
+    "Cases": 35244,
+    "Deaths": 218
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2016,
+    "Cases": 23915,
+    "Deaths": 101
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2015,
+    "Cases": 23867,
+    "Deaths": 309
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2014,
+    "Cases": 31900,
+    "Deaths": 159
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2013,
+    "Cases": 28982,
+    "Deaths": 273
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2012,
+    "Cases": 19753,
+    "Deaths": 134
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2010,
+    "Cases": 13936,
+    "Deaths": 182
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2009,
+    "Cases": 660,
+    "Deaths": 197
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2008,
+    "Cases": 40701,
+    "Deaths": 156
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2007,
+    "Cases": 45186,
+    "Deaths": 216
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2006,
+    "Cases": 33458,
+    "Deaths": 238
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2005,
+    "Cases": 70644,
+    "Deaths": 353
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2004,
+    "Cases": 70075,
+    "Deaths": 466
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2003,
+    "Cases": 58212,
+    "Deaths": 692
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2002,
+    "Cases": 62976,
+    "Deaths": 1141
+  },
+  {
+    "Location": "Gabon",
+    "Period": 2001,
+    "Cases": 53167,
+    "Deaths": 1693
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2017,
+    "Cases": 69931,
+    "Deaths": 54
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2016,
+    "Cases": 153774,
+    "Deaths": 79
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2015,
+    "Cases": 240382,
+    "Deaths": 167
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2014,
+    "Cases": 166229,
+    "Deaths": 170
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2013,
+    "Cases": 240792,
+    "Deaths": 262
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2012,
+    "Cases": 300363,
+    "Deaths": 289
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2011,
+    "Cases": 261967,
+    "Deaths": 440
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2010,
+    "Cases": 116353,
+    "Deaths": 151
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2009,
+    "Cases": 50378,
+    "Deaths": 240
+  },
+  {
+    "Location": "Gambia",
+    "Period": 2008,
+    "Cases": 39164,
+    "Deaths": 403
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2010,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2009,
+    "Cases": 1,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2008,
+    "Cases": 6,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2007,
+    "Cases": 24,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2006,
+    "Cases": 59,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2005,
+    "Cases": 155,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2004,
+    "Cases": 257,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2003,
+    "Cases": 316,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2002,
+    "Cases": 474,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2001,
+    "Cases": 438,
+    "Deaths": 0
+  },
+  {
+    "Location": "Georgia",
+    "Period": 2000,
+    "Cases": 245,
+    "Deaths": 0
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2017,
+    "Cases": 4348694,
+    "Deaths": 599
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2016,
+    "Cases": 4535167,
+    "Deaths": 1264
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2015,
+    "Cases": 4319919,
+    "Deaths": 2137
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2014,
+    "Cases": 3415912,
+    "Deaths": 2200
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2013,
+    "Cases": 1639451,
+    "Deaths": 2506
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2012,
+    "Cases": 3755166,
+    "Deaths": 2855
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2011,
+    "Cases": 1041260,
+    "Deaths": 3259
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2010,
+    "Cases": 1071637,
+    "Deaths": 3859
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2009,
+    "Cases": 1104370,
+    "Deaths": 3378
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2008,
+    "Cases": 1094483,
+    "Deaths": 3889
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2007,
+    "Cases": 476484,
+    "Deaths": 4622
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2006,
+    "Cases": 472255,
+    "Deaths": 3125
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2005,
+    "Cases": 655093,
+    "Deaths": 2037
+  },
+  {
+    "Location": "Ghana",
+    "Period": 2004,
+    "Cases": 475441,
+    "Deaths": 1575
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2017,
+    "Cases": 3743,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2016,
+    "Cases": 4853,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2015,
+    "Cases": 6836,
+    "Deaths": 1
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2014,
+    "Cases": 5685,
+    "Deaths": 1
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2013,
+    "Cases": 6214,
+    "Deaths": 1
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2012,
+    "Cases": 5346,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2011,
+    "Cases": 6817,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2010,
+    "Cases": 7384,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2009,
+    "Cases": 7080,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2008,
+    "Cases": 7198,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2007,
+    "Cases": 15382,
+    "Deaths": 3
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2006,
+    "Cases": 31093,
+    "Deaths": 2
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2005,
+    "Cases": 39571,
+    "Deaths": 4
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2004,
+    "Cases": 28955,
+    "Deaths": 2
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2003,
+    "Cases": 31127,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2002,
+    "Cases": 35540,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2001,
+    "Cases": 35824,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guatemala",
+    "Period": 2000,
+    "Cases": 53311,
+    "Deaths": 0
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2017,
+    "Cases": 1335323,
+    "Deaths": 1174
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2016,
+    "Cases": 992146,
+    "Deaths": 867
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2015,
+    "Cases": 810979,
+    "Deaths": 846
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2014,
+    "Cases": 660207,
+    "Deaths": 1067
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2013,
+    "Cases": 211257,
+    "Deaths": 108
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2012,
+    "Cases": 317200,
+    "Deaths": 979
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2011,
+    "Cases": 95574,
+    "Deaths": 743
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2010,
+    "Cases": 20936,
+    "Deaths": 735
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2009,
+    "Cases": 35841,
+    "Deaths": 586
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2008,
+    "Cases": 33405,
+    "Deaths": 441
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2007,
+    "Cases": 44518,
+    "Deaths": 472
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2005,
+    "Cases": 50452,
+    "Deaths": 490
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2004,
+    "Cases": 103069,
+    "Deaths": 528
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2003,
+    "Cases": 107925,
+    "Deaths": 586
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2002,
+    "Cases": 16561,
+    "Deaths": 440
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2001,
+    "Cases": 6238,
+    "Deaths": 517
+  },
+  {
+    "Location": "Guinea",
+    "Period": 2000,
+    "Cases": 4800,
+    "Deaths": 626
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2017,
+    "Cases": 89784,
+    "Deaths": 296
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2016,
+    "Cases": 150903,
+    "Deaths": 191
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2015,
+    "Cases": 142309,
+    "Deaths": 477
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2014,
+    "Cases": 93431,
+    "Deaths": 357
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2013,
+    "Cases": 54584,
+    "Deaths": 418
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2012,
+    "Cases": 50381,
+    "Deaths": 370
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2011,
+    "Cases": 71982,
+    "Deaths": 472
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2010,
+    "Cases": 50391,
+    "Deaths": 296
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2009,
+    "Cases": 11757,
+    "Deaths": 369
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2008,
+    "Cases": 11299,
+    "Deaths": 487
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2007,
+    "Cases": 14284,
+    "Deaths": 370
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2006,
+    "Cases": 15120,
+    "Deaths": 507
+  },
+  {
+    "Location": "Guinea-Bissau",
+    "Period": 2005,
+    "Cases": 14659,
+    "Deaths": 565
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2017,
+    "Cases": 13936,
+    "Deaths": 11
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2016,
+    "Cases": 12367,
+    "Deaths": 13
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2015,
+    "Cases": 9984,
+    "Deaths": 12
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2014,
+    "Cases": 12354,
+    "Deaths": 11
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2013,
+    "Cases": 31479,
+    "Deaths": 14
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2012,
+    "Cases": 31656,
+    "Deaths": 35
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2011,
+    "Cases": 29506,
+    "Deaths": 36
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2010,
+    "Cases": 22935,
+    "Deaths": 24
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2009,
+    "Cases": 13673,
+    "Deaths": 20
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2008,
+    "Cases": 11815,
+    "Deaths": 11
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2007,
+    "Cases": 11656,
+    "Deaths": 20
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2006,
+    "Cases": 21064,
+    "Deaths": 20
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2005,
+    "Cases": 38984,
+    "Deaths": 33
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2004,
+    "Cases": 28866,
+    "Deaths": 38
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2003,
+    "Cases": 27627,
+    "Deaths": 44
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2002,
+    "Cases": 21895,
+    "Deaths": 28
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2001,
+    "Cases": 27122,
+    "Deaths": 30
+  },
+  {
+    "Location": "Guyana",
+    "Period": 2000,
+    "Cases": 24018,
+    "Deaths": 29
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2017,
+    "Cases": 19135,
+    "Deaths": 12
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2016,
+    "Cases": 21430,
+    "Deaths": 13
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2015,
+    "Cases": 17583,
+    "Deaths": 15
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2014,
+    "Cases": 17696,
+    "Deaths": 9
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2013,
+    "Cases": 20957,
+    "Deaths": 10
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2012,
+    "Cases": 25423,
+    "Deaths": 6
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2011,
+    "Cases": 34350,
+    "Deaths": 5
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2010,
+    "Cases": 84153,
+    "Deaths": 8
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2009,
+    "Cases": 49535,
+    "Deaths": 7
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2008,
+    "Cases": 36774,
+    "Deaths": 17
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2007,
+    "Cases": 29825,
+    "Deaths": 28
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2006,
+    "Cases": 32739,
+    "Deaths": 32
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2005,
+    "Cases": 21778,
+    "Deaths": 29
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2004,
+    "Cases": 10802,
+    "Deaths": 24
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2001,
+    "Cases": 9837,
+    "Deaths": 70
+  },
+  {
+    "Location": "Haiti",
+    "Period": 2000,
+    "Cases": 16897,
+    "Deaths": 16
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2017,
+    "Cases": 1277,
+    "Deaths": 1
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2016,
+    "Cases": 4094,
+    "Deaths": 0
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2015,
+    "Cases": 3575,
+    "Deaths": 0
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2014,
+    "Cases": 3378,
+    "Deaths": 2
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2013,
+    "Cases": 5428,
+    "Deaths": 1
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2012,
+    "Cases": 6437,
+    "Deaths": 1
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2011,
+    "Cases": 7510,
+    "Deaths": 2
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2010,
+    "Cases": 9744,
+    "Deaths": 3
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2009,
+    "Cases": 9313,
+    "Deaths": 1
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2008,
+    "Cases": 8368,
+    "Deaths": 2
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2007,
+    "Cases": 10512,
+    "Deaths": 2
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2006,
+    "Cases": 11947,
+    "Deaths": 0
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2005,
+    "Cases": 15943,
+    "Deaths": 1
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2004,
+    "Cases": 17134,
+    "Deaths": 0
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2003,
+    "Cases": 14063,
+    "Deaths": 0
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2002,
+    "Cases": 17223,
+    "Deaths": 0
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2001,
+    "Cases": 24149,
+    "Deaths": 0
+  },
+  {
+    "Location": "Honduras",
+    "Period": 2000,
+    "Cases": 35125,
+    "Deaths": 0
+  },
+  {
+    "Location": "India",
+    "Period": 2017,
+    "Cases": 844558,
+    "Deaths": 194
+  },
+  {
+    "Location": "India",
+    "Period": 2016,
+    "Cases": 1087285,
+    "Deaths": 331
+  },
+  {
+    "Location": "India",
+    "Period": 2015,
+    "Cases": 1169261,
+    "Deaths": 384
+  },
+  {
+    "Location": "India",
+    "Period": 2014,
+    "Cases": 1102205,
+    "Deaths": 562
+  },
+  {
+    "Location": "India",
+    "Period": 2013,
+    "Cases": 881730,
+    "Deaths": 440
+  },
+  {
+    "Location": "India",
+    "Period": 2012,
+    "Cases": 1067824,
+    "Deaths": 519
+  },
+  {
+    "Location": "India",
+    "Period": 2011,
+    "Cases": 1310656,
+    "Deaths": 754
+  },
+  {
+    "Location": "India",
+    "Period": 2010,
+    "Cases": 1599986,
+    "Deaths": 1018
+  },
+  {
+    "Location": "India",
+    "Period": 2009,
+    "Cases": 1563574,
+    "Deaths": 1144
+  },
+  {
+    "Location": "India",
+    "Period": 2008,
+    "Cases": 1532497,
+    "Deaths": 1055
+  },
+  {
+    "Location": "India",
+    "Period": 2007,
+    "Cases": 1508927,
+    "Deaths": 1311
+  },
+  {
+    "Location": "India",
+    "Period": 2006,
+    "Cases": 1785109,
+    "Deaths": 1708
+  },
+  {
+    "Location": "India",
+    "Period": 2005,
+    "Cases": 1816569,
+    "Deaths": 963
+  },
+  {
+    "Location": "India",
+    "Period": 2004,
+    "Cases": 1915363,
+    "Deaths": 949
+  },
+  {
+    "Location": "India",
+    "Period": 2003,
+    "Cases": 1869403,
+    "Deaths": 1006
+  },
+  {
+    "Location": "India",
+    "Period": 2002,
+    "Cases": 1841227,
+    "Deaths": 973
+  },
+  {
+    "Location": "India",
+    "Period": 2001,
+    "Cases": 2085484,
+    "Deaths": 1015
+  },
+  {
+    "Location": "India",
+    "Period": 2000,
+    "Cases": 2031790,
+    "Deaths": 892
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2017,
+    "Cases": 261617,
+    "Deaths": 47
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2016,
+    "Cases": 218450,
+    "Deaths": 161
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2015,
+    "Cases": 217025,
+    "Deaths": 157
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2014,
+    "Cases": 252027,
+    "Deaths": 217
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2013,
+    "Cases": 343527,
+    "Deaths": 385
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2012,
+    "Cases": 417819,
+    "Deaths": 252
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2011,
+    "Cases": 422447,
+    "Deaths": 388
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2010,
+    "Cases": 465764,
+    "Deaths": 432
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2009,
+    "Cases": 272491,
+    "Deaths": 900
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2008,
+    "Cases": 349231,
+    "Deaths": 669
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2006,
+    "Cases": 347597,
+    "Deaths": 494
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2005,
+    "Cases": 437323,
+    "Deaths": 88
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2004,
+    "Cases": 304936,
+    "Deaths": 508
+  },
+  {
+    "Location": "Indonesia",
+    "Period": 2000,
+    "Cases": 245612,
+    "Deaths": 833
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2017,
+    "Cases": 57,
+    "Deaths": 1
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2016,
+    "Cases": 81,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2015,
+    "Cases": 167,
+    "Deaths": 1
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2014,
+    "Cases": 358,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2013,
+    "Cases": 479,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2012,
+    "Cases": 756,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2011,
+    "Cases": 1632,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2010,
+    "Cases": 1847,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2008,
+    "Cases": 8349,
+    "Deaths": 3
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2007,
+    "Cases": 15712,
+    "Deaths": 3
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2006,
+    "Cases": 15909,
+    "Deaths": 1
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2005,
+    "Cases": 18966,
+    "Deaths": 1
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2004,
+    "Cases": 13821,
+    "Deaths": 1
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2003,
+    "Cases": 23562,
+    "Deaths": 5
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2002,
+    "Cases": 15558,
+    "Deaths": 2
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2001,
+    "Cases": 19303,
+    "Deaths": 2
+  },
+  {
+    "Location": "Iran (Islamic Republic of)",
+    "Period": 2000,
+    "Cases": 19716,
+    "Deaths": 4
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2010,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2008,
+    "Cases": 2,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2007,
+    "Cases": 3,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2006,
+    "Cases": 24,
+    "Deaths": 0
+  },
+  {
+    "Location": "Iraq",
+    "Period": 2005,
+    "Cases": 47,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2016,
+    "Cases": 2783846,
+    "Deaths": 603
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2015,
+    "Cases": 1499027,
+    "Deaths": 15061
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2014,
+    "Cases": 2808931,
+    "Deaths": 472
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2013,
+    "Cases": 2335286,
+    "Deaths": 360
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2012,
+    "Cases": 1453471,
+    "Deaths": 785
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2011,
+    "Cases": 1002805,
+    "Deaths": 713
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2010,
+    "Cases": 898531,
+    "Deaths": 26017
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2004,
+    "Cases": 28328,
+    "Deaths": 25403
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2003,
+    "Cases": 39383,
+    "Deaths": 51842
+  },
+  {
+    "Location": "Kenya",
+    "Period": 2002,
+    "Cases": 20049,
+    "Deaths": 47697
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2010,
+    "Cases": 3,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2009,
+    "Cases": 4,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2008,
+    "Cases": 18,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2007,
+    "Cases": 96,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2006,
+    "Cases": 317,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2005,
+    "Cases": 226,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2004,
+    "Cases": 93,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2003,
+    "Cases": 468,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2002,
+    "Cases": 2743,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2001,
+    "Cases": 28,
+    "Deaths": 0
+  },
+  {
+    "Location": "Kyrgyzstan",
+    "Period": 2000,
+    "Cases": 12,
+    "Deaths": 0
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2017,
+    "Cases": 9333,
+    "Deaths": 2
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2016,
+    "Cases": 11223,
+    "Deaths": 1
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2015,
+    "Cases": 36056,
+    "Deaths": 2
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2014,
+    "Cases": 48071,
+    "Deaths": 4
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2013,
+    "Cases": 38131,
+    "Deaths": 28
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2012,
+    "Cases": 46202,
+    "Deaths": 44
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2011,
+    "Cases": 17532,
+    "Deaths": 17
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2010,
+    "Cases": 20800,
+    "Deaths": 24
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2009,
+    "Cases": 14674,
+    "Deaths": 5
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2008,
+    "Cases": 19347,
+    "Deaths": 11
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2007,
+    "Cases": 17458,
+    "Deaths": 14
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2006,
+    "Cases": 18382,
+    "Deaths": 21
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2005,
+    "Cases": 13615,
+    "Deaths": 77
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2004,
+    "Cases": 16183,
+    "Deaths": 105
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2003,
+    "Cases": 18894,
+    "Deaths": 187
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2002,
+    "Cases": 21420,
+    "Deaths": 195
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2001,
+    "Cases": 27076,
+    "Deaths": 242
+  },
+  {
+    "Location": "Lao People's Democratic Republic",
+    "Period": 2000,
+    "Cases": 40106,
+    "Deaths": 350
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2016,
+    "Cases": 1191137,
+    "Deaths": 1259
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2015,
+    "Cases": 931086,
+    "Deaths": 1379
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2014,
+    "Cases": 864204,
+    "Deaths": 2288
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2013,
+    "Cases": 1244220,
+    "Deaths": 1191
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2012,
+    "Cases": 1407455,
+    "Deaths": 1725
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2010,
+    "Cases": 922173,
+    "Deaths": 1422
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2009,
+    "Cases": 839581,
+    "Deaths": 1706
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2008,
+    "Cases": 606952,
+    "Deaths": 345
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2007,
+    "Cases": 492272,
+    "Deaths": 310
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2006,
+    "Cases": 761415,
+    "Deaths": 877
+  },
+  {
+    "Location": "Liberia",
+    "Period": 2005,
+    "Cases": 44875,
+    "Deaths": 41
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2017,
+    "Cases": 800661,
+    "Deaths": 370
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2016,
+    "Cases": 475333,
+    "Deaths": 443
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2015,
+    "Cases": 744103,
+    "Deaths": 841
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2014,
+    "Cases": 377963,
+    "Deaths": 551
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2013,
+    "Cases": 385598,
+    "Deaths": 641
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2012,
+    "Cases": 359420,
+    "Deaths": 552
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2011,
+    "Cases": 224498,
+    "Deaths": 398
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2010,
+    "Cases": 202450,
+    "Deaths": 427
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2009,
+    "Cases": 215110,
+    "Deaths": 348
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2008,
+    "Cases": 93234,
+    "Deaths": 355
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2007,
+    "Cases": 48497,
+    "Deaths": 428
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2006,
+    "Cases": 5689,
+    "Deaths": 441
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2005,
+    "Cases": 6753,
+    "Deaths": 699
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2004,
+    "Cases": 7638,
+    "Deaths": 715
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2003,
+    "Cases": 6909,
+    "Deaths": 817
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2002,
+    "Cases": 5272,
+    "Deaths": 575
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2001,
+    "Cases": 8538,
+    "Deaths": 742
+  },
+  {
+    "Location": "Madagascar",
+    "Period": 2000,
+    "Cases": 6946,
+    "Deaths": 591
+  },
+  {
+    "Location": "Malawi",
+    "Period": 2017,
+    "Cases": 4901344,
+    "Deaths": 3613
+  },
+  {
+    "Location": "Malawi",
+    "Period": 2016,
+    "Cases": 4827373,
+    "Deaths": 4000
+  },
+  {
+    "Location": "Malawi",
+    "Period": 2015,
+    "Cases": 3661238,
+    "Deaths": 3799
+  },
+  {
+    "Location": "Malawi",
+    "Period": 2014,
+    "Cases": 2905310,
+    "Deaths": 4490
+  },
+  {
+    "Location": "Malawi",
+    "Period": 2013,
+    "Cases": 1280892,
+    "Deaths": 3723
+  },
+  {
+    "Location": "Malawi",
+    "Period": 2012,
+    "Cases": 1564984,
+    "Deaths": 5516
+  },
+  {
+    "Location": "Malawi",
+    "Period": 2011,
+    "Cases": 304499,
+    "Deaths": 6674
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2017,
+    "Cases": 85,
+    "Deaths": 12
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2016,
+    "Cases": 266,
+    "Deaths": 2
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2015,
+    "Cases": 242,
+    "Deaths": 4
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2014,
+    "Cases": 3147,
+    "Deaths": 4
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2013,
+    "Cases": 2921,
+    "Deaths": 10
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2012,
+    "Cases": 3662,
+    "Deaths": 12
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2011,
+    "Cases": 3954,
+    "Deaths": 12
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2010,
+    "Cases": 5194,
+    "Deaths": 13
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2009,
+    "Cases": 5955,
+    "Deaths": 23
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2008,
+    "Cases": 6071,
+    "Deaths": 20
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2007,
+    "Cases": 4048,
+    "Deaths": 15
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2006,
+    "Cases": 5294,
+    "Deaths": 21
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2005,
+    "Cases": 5569,
+    "Deaths": 33
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2004,
+    "Cases": 6154,
+    "Deaths": 35
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2003,
+    "Cases": 6338,
+    "Deaths": 21
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2002,
+    "Cases": 11019,
+    "Deaths": 38
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2001,
+    "Cases": 12780,
+    "Deaths": 46
+  },
+  {
+    "Location": "Malaysia",
+    "Period": 2000,
+    "Cases": 12705,
+    "Deaths": 35
+  },
+  {
+    "Location": "Mali",
+    "Period": 2017,
+    "Cases": 1918376,
+    "Deaths": 1050
+  },
+  {
+    "Location": "Mali",
+    "Period": 2016,
+    "Cases": 2156282,
+    "Deaths": 1344
+  },
+  {
+    "Location": "Mali",
+    "Period": 2015,
+    "Cases": 2295611,
+    "Deaths": 1544
+  },
+  {
+    "Location": "Mali",
+    "Period": 2014,
+    "Cases": 2039853,
+    "Deaths": 2309
+  },
+  {
+    "Location": "Mali",
+    "Period": 2013,
+    "Cases": 1367218,
+    "Deaths": 1680
+  },
+  {
+    "Location": "Mali",
+    "Period": 2012,
+    "Cases": 886482,
+    "Deaths": 1894
+  },
+  {
+    "Location": "Mali",
+    "Period": 2011,
+    "Cases": 307035,
+    "Deaths": 2128
+  },
+  {
+    "Location": "Mali",
+    "Period": 2010,
+    "Cases": 227482,
+    "Deaths": 3006
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2017,
+    "Cases": 20105,
+    "Deaths": 67
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2016,
+    "Cases": 23042,
+    "Deaths": 315
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2015,
+    "Cases": 22631,
+    "Deaths": 39
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2014,
+    "Cases": 15835,
+    "Deaths": 19
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2013,
+    "Cases": 13085,
+    "Deaths": 46
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2012,
+    "Cases": 9037,
+    "Deaths": 106
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2011,
+    "Cases": 5991,
+    "Deaths": 66
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2010,
+    "Cases": 6367,
+    "Deaths": 60
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2009,
+    "Cases": 940,
+    "Deaths": 91
+  },
+  {
+    "Location": "Mauritania",
+    "Period": 2006,
+    "Cases": 1061,
+    "Deaths": 67
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2017,
+    "Cases": 736,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2016,
+    "Cases": 551,
+    "Deaths": 1
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2015,
+    "Cases": 517,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2014,
+    "Cases": 656,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2013,
+    "Cases": 495,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2012,
+    "Cases": 833,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2011,
+    "Cases": 1124,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2010,
+    "Cases": 1226,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2009,
+    "Cases": 2703,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2008,
+    "Cases": 2357,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2007,
+    "Cases": 2361,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2006,
+    "Cases": 2514,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2005,
+    "Cases": 2967,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2004,
+    "Cases": 3406,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2003,
+    "Cases": 3819,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2002,
+    "Cases": 4624,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2001,
+    "Cases": 4996,
+    "Deaths": 0
+  },
+  {
+    "Location": "Mexico",
+    "Period": 2000,
+    "Cases": 7390,
+    "Deaths": 0
+  },
+  {
+    "Location": "Morocco",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Morocco",
+    "Period": 2010,
+    "Cases": 3,
+    "Deaths": 2
+  },
+  {
+    "Location": "Morocco",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Morocco",
+    "Period": 2008,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Morocco",
+    "Period": 2007,
+    "Cases": 0,
+    "Deaths": 2
+  },
+  {
+    "Location": "Morocco",
+    "Period": 2006,
+    "Cases": 0,
+    "Deaths": 2
+  },
+  {
+    "Location": "Morocco",
+    "Period": 2005,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2017,
+    "Cases": 8921081,
+    "Deaths": 1114
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2016,
+    "Cases": 8520376,
+    "Deaths": 1685
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2015,
+    "Cases": 7718782,
+    "Deaths": 2467
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2014,
+    "Cases": 7117648,
+    "Deaths": 3245
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2013,
+    "Cases": 2998874,
+    "Deaths": 2941
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2012,
+    "Cases": 1813984,
+    "Deaths": 2818
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2011,
+    "Cases": 1756874,
+    "Deaths": 3086
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2010,
+    "Cases": 1522577,
+    "Deaths": 3354
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2009,
+    "Cases": 93874,
+    "Deaths": 3747
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2008,
+    "Cases": 120259,
+    "Deaths": 4424
+  },
+  {
+    "Location": "Mozambique",
+    "Period": 2007,
+    "Cases": 141663,
+    "Deaths": 5816
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2017,
+    "Cases": 19619,
+    "Deaths": 30
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2016,
+    "Cases": 110146,
+    "Deaths": 21
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2015,
+    "Cases": 182768,
+    "Deaths": 37
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2014,
+    "Cases": 205658,
+    "Deaths": 92
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2013,
+    "Cases": 333871,
+    "Deaths": 236
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2012,
+    "Cases": 480586,
+    "Deaths": 403
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2011,
+    "Cases": 465294,
+    "Deaths": 581
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2010,
+    "Cases": 420808,
+    "Deaths": 788
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2009,
+    "Cases": 436068,
+    "Deaths": 972
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2008,
+    "Cases": 447073,
+    "Deaths": 1087
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2007,
+    "Cases": 373958,
+    "Deaths": 1261
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2006,
+    "Cases": 203071,
+    "Deaths": 1647
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2005,
+    "Cases": 165737,
+    "Deaths": 1707
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2004,
+    "Cases": 152070,
+    "Deaths": 1982
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2003,
+    "Cases": 177530,
+    "Deaths": 2476
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2002,
+    "Cases": 173096,
+    "Deaths": 2634
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2001,
+    "Cases": 170502,
+    "Deaths": 2814
+  },
+  {
+    "Location": "Myanmar",
+    "Period": 2000,
+    "Cases": 120083,
+    "Deaths": 2556
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2017,
+    "Cases": 54268,
+    "Deaths": 104
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2016,
+    "Cases": 25198,
+    "Deaths": 65
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2015,
+    "Cases": 12168,
+    "Deaths": 45
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2014,
+    "Cases": 15914,
+    "Deaths": 61
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2013,
+    "Cases": 4911,
+    "Deaths": 21
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2012,
+    "Cases": 194,
+    "Deaths": 4
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2011,
+    "Cases": 1860,
+    "Deaths": 36
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2010,
+    "Cases": 556,
+    "Deaths": 63
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2009,
+    "Cases": 505,
+    "Deaths": 68
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2008,
+    "Cases": 1092,
+    "Deaths": 152
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2007,
+    "Cases": 4242,
+    "Deaths": 181
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2006,
+    "Cases": 27690,
+    "Deaths": 571
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2005,
+    "Cases": 23339,
+    "Deaths": 1325
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2004,
+    "Cases": 36043,
+    "Deaths": 1185
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2003,
+    "Cases": 20295,
+    "Deaths": 1106
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2002,
+    "Cases": 23984,
+    "Deaths": 1504
+  },
+  {
+    "Location": "Namibia",
+    "Period": 2001,
+    "Cases": 41636,
+    "Deaths": 1728
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2017,
+    "Cases": 623,
+    "Deaths": 3
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2016,
+    "Cases": 507,
+    "Deaths": 3
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2015,
+    "Cases": 591,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2014,
+    "Cases": 832,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2013,
+    "Cases": 1974,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2012,
+    "Cases": 2092,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2011,
+    "Cases": 3414,
+    "Deaths": 2
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2010,
+    "Cases": 3894,
+    "Deaths": 6
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2009,
+    "Cases": 3335,
+    "Deaths": 8
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2007,
+    "Cases": 5621,
+    "Deaths": 3
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2006,
+    "Cases": 4969,
+    "Deaths": 42
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2005,
+    "Cases": 5050,
+    "Deaths": 10
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2004,
+    "Cases": 4895,
+    "Deaths": 7
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2003,
+    "Cases": 9506,
+    "Deaths": 5
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2002,
+    "Cases": 12750,
+    "Deaths": 3
+  },
+  {
+    "Location": "Nepal",
+    "Period": 2001,
+    "Cases": 6396,
+    "Deaths": 1
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2016,
+    "Cases": 6272,
+    "Deaths": 2
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2015,
+    "Cases": 2279,
+    "Deaths": 1
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2014,
+    "Cases": 1142,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2013,
+    "Cases": 1162,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2012,
+    "Cases": 1235,
+    "Deaths": 2
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2011,
+    "Cases": 925,
+    "Deaths": 1
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2010,
+    "Cases": 692,
+    "Deaths": 1
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2009,
+    "Cases": 610,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2008,
+    "Cases": 762,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2007,
+    "Cases": 1356,
+    "Deaths": 0
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2006,
+    "Cases": 3114,
+    "Deaths": 1
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2005,
+    "Cases": 6642,
+    "Deaths": 6
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2004,
+    "Cases": 6897,
+    "Deaths": 1
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2003,
+    "Cases": 6717,
+    "Deaths": 7
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2002,
+    "Cases": 7695,
+    "Deaths": 8
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2001,
+    "Cases": 10482,
+    "Deaths": 2
+  },
+  {
+    "Location": "Nicaragua",
+    "Period": 2000,
+    "Cases": 23878,
+    "Deaths": 4
+  },
+  {
+    "Location": "Niger",
+    "Period": 2017,
+    "Cases": 2638580,
+    "Deaths": 2316
+  },
+  {
+    "Location": "Niger",
+    "Period": 2016,
+    "Cases": 4148167,
+    "Deaths": 2226
+  },
+  {
+    "Location": "Niger",
+    "Period": 2015,
+    "Cases": 2272000,
+    "Deaths": 2778
+  },
+  {
+    "Location": "Niger",
+    "Period": 2014,
+    "Cases": 1953309,
+    "Deaths": 2691
+  },
+  {
+    "Location": "Niger",
+    "Period": 2013,
+    "Cases": 2353422,
+    "Deaths": 2209
+  },
+  {
+    "Location": "Niger",
+    "Period": 2012,
+    "Cases": 2239858,
+    "Deaths": 2825
+  },
+  {
+    "Location": "Niger",
+    "Period": 2011,
+    "Cases": 780876,
+    "Deaths": 2802
+  },
+  {
+    "Location": "Niger",
+    "Period": 2010,
+    "Cases": 620058,
+    "Deaths": 3929
+  },
+  {
+    "Location": "Niger",
+    "Period": 2009,
+    "Cases": 309675,
+    "Deaths": 2159
+  },
+  {
+    "Location": "Niger",
+    "Period": 2008,
+    "Cases": 496858,
+    "Deaths": 2461
+  },
+  {
+    "Location": "Niger",
+    "Period": 2007,
+    "Cases": 249027,
+    "Deaths": 1358
+  },
+  {
+    "Location": "Niger",
+    "Period": 2006,
+    "Cases": 3956,
+    "Deaths": 1150
+  },
+  {
+    "Location": "Niger",
+    "Period": 2005,
+    "Cases": 56043,
+    "Deaths": 2060
+  },
+  {
+    "Location": "Niger",
+    "Period": 2004,
+    "Cases": 76030,
+    "Deaths": 1333
+  },
+  {
+    "Location": "Niger",
+    "Period": 2003,
+    "Cases": 56460,
+    "Deaths": 2248
+  },
+  {
+    "Location": "Nigeria",
+    "Period": 2014,
+    "Cases": 7826954,
+    "Deaths": 6082
+  },
+  {
+    "Location": "Nigeria",
+    "Period": 2010,
+    "Cases": 551187,
+    "Deaths": 4238
+  },
+  {
+    "Location": "Nigeria",
+    "Period": 2009,
+    "Cases": 479845,
+    "Deaths": 7522
+  },
+  {
+    "Location": "Nigeria",
+    "Period": 2008,
+    "Cases": 143079,
+    "Deaths": 8677
+  },
+  {
+    "Location": "Oman",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Oman",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Oman",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Oman",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Oman",
+    "Period": 2010,
+    "Cases": 7,
+    "Deaths": 0
+  },
+  {
+    "Location": "Oman",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 2
+  },
+  {
+    "Location": "Oman",
+    "Period": 2008,
+    "Cases": 8,
+    "Deaths": 2
+  },
+  {
+    "Location": "Oman",
+    "Period": 2007,
+    "Cases": 4,
+    "Deaths": 0
+  },
+  {
+    "Location": "Oman",
+    "Period": 2006,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Oman",
+    "Period": 2005,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2017,
+    "Cases": 350467,
+    "Deaths": 113
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2016,
+    "Cases": 318449,
+    "Deaths": 33
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2015,
+    "Cases": 202013,
+    "Deaths": 34
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2014,
+    "Cases": 275149,
+    "Deaths": 56
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2013,
+    "Cases": 281755,
+    "Deaths": 244
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2012,
+    "Cases": 290781,
+    "Deaths": 260
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2011,
+    "Cases": 334589,
+    "Deaths": 4
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2007,
+    "Cases": 128570,
+    "Deaths": 24
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2006,
+    "Cases": 124910,
+    "Deaths": 9
+  },
+  {
+    "Location": "Pakistan",
+    "Period": 2005,
+    "Cases": 127826,
+    "Deaths": 52
+  },
+  {
+    "Location": "Panama",
+    "Period": 2017,
+    "Cases": 649,
+    "Deaths": 0
+  },
+  {
+    "Location": "Panama",
+    "Period": 2016,
+    "Cases": 769,
+    "Deaths": 0
+  },
+  {
+    "Location": "Panama",
+    "Period": 2015,
+    "Cases": 546,
+    "Deaths": 0
+  },
+  {
+    "Location": "Panama",
+    "Period": 2014,
+    "Cases": 864,
+    "Deaths": 0
+  },
+  {
+    "Location": "Panama",
+    "Period": 2013,
+    "Cases": 705,
+    "Deaths": 0
+  },
+  {
+    "Location": "Panama",
+    "Period": 2012,
+    "Cases": 844,
+    "Deaths": 1
+  },
+  {
+    "Location": "Panama",
+    "Period": 2011,
+    "Cases": 354,
+    "Deaths": 0
+  },
+  {
+    "Location": "Panama",
+    "Period": 2010,
+    "Cases": 418,
+    "Deaths": 1
+  },
+  {
+    "Location": "Panama",
+    "Period": 2009,
+    "Cases": 778,
+    "Deaths": 0
+  },
+  {
+    "Location": "Panama",
+    "Period": 2008,
+    "Cases": 744,
+    "Deaths": 1
+  },
+  {
+    "Location": "Panama",
+    "Period": 2007,
+    "Cases": 1281,
+    "Deaths": 1
+  },
+  {
+    "Location": "Panama",
+    "Period": 2006,
+    "Cases": 1663,
+    "Deaths": 1
+  },
+  {
+    "Location": "Panama",
+    "Period": 2005,
+    "Cases": 3667,
+    "Deaths": 1
+  },
+  {
+    "Location": "Panama",
+    "Period": 2004,
+    "Cases": 5095,
+    "Deaths": 2
+  },
+  {
+    "Location": "Panama",
+    "Period": 2003,
+    "Cases": 4500,
+    "Deaths": 4
+  },
+  {
+    "Location": "Panama",
+    "Period": 2002,
+    "Cases": 2244,
+    "Deaths": 2
+  },
+  {
+    "Location": "Panama",
+    "Period": 2001,
+    "Cases": 928,
+    "Deaths": 1
+  },
+  {
+    "Location": "Panama",
+    "Period": 2000,
+    "Cases": 1036,
+    "Deaths": 1
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2017,
+    "Cases": 478340,
+    "Deaths": 273
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2016,
+    "Cases": 478497,
+    "Deaths": 306
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2015,
+    "Cases": 297787,
+    "Deaths": 163
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2014,
+    "Cases": 281182,
+    "Deaths": 203
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2013,
+    "Cases": 279994,
+    "Deaths": 307
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2012,
+    "Cases": 150195,
+    "Deaths": 381
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2011,
+    "Cases": 84060,
+    "Deaths": 523
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2010,
+    "Cases": 93956,
+    "Deaths": 616
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2009,
+    "Cases": 77758,
+    "Deaths": 604
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2008,
+    "Cases": 84452,
+    "Deaths": 628
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2007,
+    "Cases": 86955,
+    "Deaths": 559
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2006,
+    "Cases": 93938,
+    "Deaths": 668
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2005,
+    "Cases": 92957,
+    "Deaths": 725
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2004,
+    "Cases": 91055,
+    "Deaths": 619
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2003,
+    "Cases": 72620,
+    "Deaths": 537
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2002,
+    "Cases": 75748,
+    "Deaths": 647
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2001,
+    "Cases": 94484,
+    "Deaths": 562
+  },
+  {
+    "Location": "Papua New Guinea",
+    "Period": 2000,
+    "Cases": 79839,
+    "Deaths": 617
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2017,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2011,
+    "Cases": 1,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2010,
+    "Cases": 18,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2009,
+    "Cases": 91,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2008,
+    "Cases": 348,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2007,
+    "Cases": 1341,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2006,
+    "Cases": 823,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2005,
+    "Cases": 376,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2004,
+    "Cases": 694,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2003,
+    "Cases": 1392,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2002,
+    "Cases": 2778,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2001,
+    "Cases": 2710,
+    "Deaths": 0
+  },
+  {
+    "Location": "Paraguay",
+    "Period": 2000,
+    "Cases": 6853,
+    "Deaths": 0
+  },
+  {
+    "Location": "Peru",
+    "Period": 2017,
+    "Cases": 55367,
+    "Deaths": 10
+  },
+  {
+    "Location": "Peru",
+    "Period": 2016,
+    "Cases": 56623,
+    "Deaths": 7
+  },
+  {
+    "Location": "Peru",
+    "Period": 2015,
+    "Cases": 61865,
+    "Deaths": 5
+  },
+  {
+    "Location": "Peru",
+    "Period": 2014,
+    "Cases": 65252,
+    "Deaths": 4
+  },
+  {
+    "Location": "Peru",
+    "Period": 2013,
+    "Cases": 48719,
+    "Deaths": 4
+  },
+  {
+    "Location": "Peru",
+    "Period": 2012,
+    "Cases": 31436,
+    "Deaths": 7
+  },
+  {
+    "Location": "Peru",
+    "Period": 2011,
+    "Cases": 25039,
+    "Deaths": 1
+  },
+  {
+    "Location": "Peru",
+    "Period": 2010,
+    "Cases": 31546,
+    "Deaths": 0
+  },
+  {
+    "Location": "Peru",
+    "Period": 2009,
+    "Cases": 42645,
+    "Deaths": 2
+  },
+  {
+    "Location": "Peru",
+    "Period": 2008,
+    "Cases": 44522,
+    "Deaths": 2
+  },
+  {
+    "Location": "Peru",
+    "Period": 2007,
+    "Cases": 50797,
+    "Deaths": 2
+  },
+  {
+    "Location": "Peru",
+    "Period": 2006,
+    "Cases": 64925,
+    "Deaths": 6
+  },
+  {
+    "Location": "Peru",
+    "Period": 2005,
+    "Cases": 87699,
+    "Deaths": 4
+  },
+  {
+    "Location": "Peru",
+    "Period": 2004,
+    "Cases": 93581,
+    "Deaths": 6
+  },
+  {
+    "Location": "Peru",
+    "Period": 2003,
+    "Cases": 88408,
+    "Deaths": 9
+  },
+  {
+    "Location": "Peru",
+    "Period": 2002,
+    "Cases": 99237,
+    "Deaths": 12
+  },
+  {
+    "Location": "Peru",
+    "Period": 2001,
+    "Cases": 78544,
+    "Deaths": 25
+  },
+  {
+    "Location": "Peru",
+    "Period": 2000,
+    "Cases": 68321,
+    "Deaths": 20
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2017,
+    "Cases": 3950,
+    "Deaths": 4
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2016,
+    "Cases": 6680,
+    "Deaths": 7
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2015,
+    "Cases": 8266,
+    "Deaths": 20
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2014,
+    "Cases": 4903,
+    "Deaths": 10
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2013,
+    "Cases": 6514,
+    "Deaths": 12
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2012,
+    "Cases": 7133,
+    "Deaths": 16
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2011,
+    "Cases": 9552,
+    "Deaths": 12
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2010,
+    "Cases": 18560,
+    "Deaths": 30
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2009,
+    "Cases": 19316,
+    "Deaths": 24
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2008,
+    "Cases": 23655,
+    "Deaths": 56
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2007,
+    "Cases": 36235,
+    "Deaths": 73
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2006,
+    "Cases": 35405,
+    "Deaths": 124
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2005,
+    "Cases": 46342,
+    "Deaths": 145
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2004,
+    "Cases": 50850,
+    "Deaths": 167
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2003,
+    "Cases": 48441,
+    "Deaths": 162
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2002,
+    "Cases": 37005,
+    "Deaths": 71
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2001,
+    "Cases": 34787,
+    "Deaths": 439
+  },
+  {
+    "Location": "Philippines",
+    "Period": 2000,
+    "Cases": 36596,
+    "Deaths": 536
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2017,
+    "Cases": 436,
+    "Deaths": 3
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2016,
+    "Cases": 602,
+    "Deaths": 1
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2015,
+    "Cases": 627,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2014,
+    "Cases": 557,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2013,
+    "Cases": 383,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2012,
+    "Cases": 394,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2011,
+    "Cases": 505,
+    "Deaths": 2
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2010,
+    "Cases": 1267,
+    "Deaths": 1
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2009,
+    "Cases": 898,
+    "Deaths": 1
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2008,
+    "Cases": 1052,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2007,
+    "Cases": 2227,
+    "Deaths": 1
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2006,
+    "Cases": 2051,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2005,
+    "Cases": 1369,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2004,
+    "Cases": 864,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2003,
+    "Cases": 1171,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2002,
+    "Cases": 1799,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2001,
+    "Cases": 2556,
+    "Deaths": 0
+  },
+  {
+    "Location": "Republic of Korea",
+    "Period": 2000,
+    "Cases": 4183,
+    "Deaths": 0
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2017,
+    "Cases": 1876123,
+    "Deaths": 376
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2016,
+    "Cases": 3380568,
+    "Deaths": 715
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2015,
+    "Cases": 2505794,
+    "Deaths": 516
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2014,
+    "Cases": 1610812,
+    "Deaths": 496
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2013,
+    "Cases": 962618,
+    "Deaths": 409
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2012,
+    "Cases": 483470,
+    "Deaths": 459
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2011,
+    "Cases": 208858,
+    "Deaths": 380
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2010,
+    "Cases": 638669,
+    "Deaths": 670
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2009,
+    "Cases": 698745,
+    "Deaths": 809
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2008,
+    "Cases": 316242,
+    "Deaths": 566
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2007,
+    "Cases": 382686,
+    "Deaths": 1772
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2006,
+    "Cases": 573686,
+    "Deaths": 2486
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2005,
+    "Cases": 683769,
+    "Deaths": 2581
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2004,
+    "Cases": 589315,
+    "Deaths": 2362
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2003,
+    "Cases": 553150,
+    "Deaths": 2679
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2002,
+    "Cases": 506028,
+    "Deaths": 3167
+  },
+  {
+    "Location": "Rwanda",
+    "Period": 2001,
+    "Cases": 423493,
+    "Deaths": 4275
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2017,
+    "Cases": 2239,
+    "Deaths": 1
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2016,
+    "Cases": 2238,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2015,
+    "Cases": 2058,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2014,
+    "Cases": 1754,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2013,
+    "Cases": 9243,
+    "Deaths": 11
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2012,
+    "Cases": 12550,
+    "Deaths": 7
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2011,
+    "Cases": 8442,
+    "Deaths": 19
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2010,
+    "Cases": 2740,
+    "Deaths": 14
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2009,
+    "Cases": 6182,
+    "Deaths": 23
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2008,
+    "Cases": 6258,
+    "Deaths": 16
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2007,
+    "Cases": 2421,
+    "Deaths": 3
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2006,
+    "Cases": 5146,
+    "Deaths": 26
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2005,
+    "Cases": 18139,
+    "Deaths": 85
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2004,
+    "Cases": 46486,
+    "Deaths": 169
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2003,
+    "Cases": 42656,
+    "Deaths": 193
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2002,
+    "Cases": 50586,
+    "Deaths": 321
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2001,
+    "Cases": 42086,
+    "Deaths": 248
+  },
+  {
+    "Location": "Sao Tome and Principe",
+    "Period": 2000,
+    "Cases": 31975,
+    "Deaths": 254
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2017,
+    "Cases": 177,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2016,
+    "Cases": 272,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2015,
+    "Cases": 83,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2014,
+    "Cases": 30,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2013,
+    "Cases": 34,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2012,
+    "Cases": 82,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2011,
+    "Cases": 69,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2010,
+    "Cases": 29,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2009,
+    "Cases": 58,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2008,
+    "Cases": 61,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2007,
+    "Cases": 467,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2006,
+    "Cases": 1278,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2005,
+    "Cases": 1059,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2004,
+    "Cases": 1232,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2003,
+    "Cases": 1724,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2002,
+    "Cases": 2612,
+    "Deaths": 0
+  },
+  {
+    "Location": "Saudi Arabia",
+    "Period": 2001,
+    "Cases": 3074,
+    "Deaths": 0
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2017,
+    "Cases": 395706,
+    "Deaths": 284
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2016,
+    "Cases": 349540,
+    "Deaths": 325
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2015,
+    "Cases": 492253,
+    "Deaths": 526
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2014,
+    "Cases": 268912,
+    "Deaths": 500
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2013,
+    "Cases": 366687,
+    "Deaths": 815
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2012,
+    "Cases": 280241,
+    "Deaths": 649
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2011,
+    "Cases": 274119,
+    "Deaths": 472
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2010,
+    "Cases": 330331,
+    "Deaths": 553
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2009,
+    "Cases": 165933,
+    "Deaths": 574
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2008,
+    "Cases": 241926,
+    "Deaths": 741
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2007,
+    "Cases": 118332,
+    "Deaths": 1935
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2006,
+    "Cases": 48070,
+    "Deaths": 1678
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2005,
+    "Cases": 33160,
+    "Deaths": 1587
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2004,
+    "Cases": 22234,
+    "Deaths": 1524
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2003,
+    "Cases": 26865,
+    "Deaths": 1602
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2002,
+    "Cases": 14425,
+    "Deaths": 1226
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2001,
+    "Cases": 12920,
+    "Deaths": 1515
+  },
+  {
+    "Location": "Senegal",
+    "Period": 2000,
+    "Cases": 44959,
+    "Deaths": 1275
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2017,
+    "Cases": 1651236,
+    "Deaths": 1298
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2016,
+    "Cases": 1775306,
+    "Deaths": 1345
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2015,
+    "Cases": 1483376,
+    "Deaths": 1107
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2014,
+    "Cases": 1374476,
+    "Deaths": 2848
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2013,
+    "Cases": 1701958,
+    "Deaths": 4326
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2012,
+    "Cases": 1537322,
+    "Deaths": 3611
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2011,
+    "Cases": 638859,
+    "Deaths": 3573
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2010,
+    "Cases": 934028,
+    "Deaths": 8188
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2009,
+    "Cases": 646808,
+    "Deaths": 1734
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2008,
+    "Cases": 154459,
+    "Deaths": 871
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2006,
+    "Cases": 4932,
+    "Deaths": 90
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2005,
+    "Cases": 4808,
+    "Deaths": 50
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2004,
+    "Cases": 2206,
+    "Deaths": 126
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2003,
+    "Cases": 3945,
+    "Deaths": 157
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2002,
+    "Cases": 3702,
+    "Deaths": 461
+  },
+  {
+    "Location": "Sierra Leone",
+    "Period": 2001,
+    "Cases": 2206,
+    "Deaths": 328
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2017,
+    "Cases": 52463,
+    "Deaths": 27
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2016,
+    "Cases": 54431,
+    "Deaths": 20
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2015,
+    "Cases": 23998,
+    "Deaths": 13
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2014,
+    "Cases": 18404,
+    "Deaths": 23
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2013,
+    "Cases": 25609,
+    "Deaths": 18
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2012,
+    "Cases": 24383,
+    "Deaths": 18
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2011,
+    "Cases": 26657,
+    "Deaths": 19
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2010,
+    "Cases": 39704,
+    "Deaths": 34
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2009,
+    "Cases": 33002,
+    "Deaths": 53
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2008,
+    "Cases": 40535,
+    "Deaths": 21
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2007,
+    "Cases": 65404,
+    "Deaths": 15
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2006,
+    "Cases": 75337,
+    "Deaths": 12
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2005,
+    "Cases": 76390,
+    "Deaths": 38
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2004,
+    "Cases": 90297,
+    "Deaths": 51
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2003,
+    "Cases": 92227,
+    "Deaths": 71
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2002,
+    "Cases": 74936,
+    "Deaths": 61
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2001,
+    "Cases": 76493,
+    "Deaths": 55
+  },
+  {
+    "Location": "Solomon Islands",
+    "Period": 2000,
+    "Cases": 68107,
+    "Deaths": 38
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2017,
+    "Cases": 35138,
+    "Deaths": 20
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2016,
+    "Cases": 35628,
+    "Deaths": 13
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2015,
+    "Cases": 20953,
+    "Deaths": 27
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2014,
+    "Cases": 11001,
+    "Deaths": 14
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2013,
+    "Cases": 8944,
+    "Deaths": 23
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2012,
+    "Cases": 35712,
+    "Deaths": 10
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2011,
+    "Cases": 3351,
+    "Deaths": 5
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2010,
+    "Cases": 24553,
+    "Deaths": 6
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2009,
+    "Cases": 25202,
+    "Deaths": 45
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2008,
+    "Cases": 36905,
+    "Deaths": 49
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2007,
+    "Cases": 16675,
+    "Deaths": 45
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2006,
+    "Cases": 16430,
+    "Deaths": 58
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2005,
+    "Cases": 12516,
+    "Deaths": 15
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2004,
+    "Cases": 11436,
+    "Deaths": 79
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2003,
+    "Cases": 7571,
+    "Deaths": 54
+  },
+  {
+    "Location": "Somalia",
+    "Period": 2002,
+    "Cases": 15732,
+    "Deaths": 8
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2017,
+    "Cases": 22061,
+    "Deaths": 301
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2016,
+    "Cases": 4323,
+    "Deaths": 34
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2015,
+    "Cases": 555,
+    "Deaths": 110
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2014,
+    "Cases": 11705,
+    "Deaths": 174
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2013,
+    "Cases": 8645,
+    "Deaths": 105
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2012,
+    "Cases": 5629,
+    "Deaths": 72
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2011,
+    "Cases": 9866,
+    "Deaths": 54
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2010,
+    "Cases": 8060,
+    "Deaths": 83
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2009,
+    "Cases": 6072,
+    "Deaths": 45
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2008,
+    "Cases": 7796,
+    "Deaths": 43
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2007,
+    "Cases": 6327,
+    "Deaths": 37
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2006,
+    "Cases": 12098,
+    "Deaths": 87
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2005,
+    "Cases": 7755,
+    "Deaths": 63
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2004,
+    "Cases": 13399,
+    "Deaths": 88
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2003,
+    "Cases": 13459,
+    "Deaths": 142
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2002,
+    "Cases": 15649,
+    "Deaths": 96
+  },
+  {
+    "Location": "South Africa",
+    "Period": 2001,
+    "Cases": 26506,
+    "Deaths": 81
+  },
+  {
+    "Location": "South Sudan",
+    "Period": 2017,
+    "Cases": 1488005,
+    "Deaths": 3483
+  },
+  {
+    "Location": "South Sudan",
+    "Period": 2013,
+    "Cases": 262520,
+    "Deaths": 1311
+  },
+  {
+    "Location": "South Sudan",
+    "Period": 2012,
+    "Cases": 225371,
+    "Deaths": 1321
+  },
+  {
+    "Location": "South Sudan",
+    "Period": 2011,
+    "Cases": 112024,
+    "Deaths": 406
+  },
+  {
+    "Location": "South Sudan",
+    "Period": 2010,
+    "Cases": 900283,
+    "Deaths": 1053
+  },
+  {
+    "Location": "South Sudan",
+    "Period": 2008,
+    "Cases": 52011,
+    "Deaths": 263
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2017,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2012,
+    "Cases": 23,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2011,
+    "Cases": 124,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2010,
+    "Cases": 684,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2009,
+    "Cases": 531,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2008,
+    "Cases": 649,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2007,
+    "Cases": 198,
+    "Deaths": 1
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2006,
+    "Cases": 591,
+    "Deaths": 1
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2005,
+    "Cases": 1640,
+    "Deaths": 0
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2004,
+    "Cases": 3720,
+    "Deaths": 1
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2003,
+    "Cases": 10510,
+    "Deaths": 4
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2002,
+    "Cases": 41411,
+    "Deaths": 30
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2001,
+    "Cases": 66522,
+    "Deaths": 52
+  },
+  {
+    "Location": "Sri Lanka",
+    "Period": 2000,
+    "Cases": 210039,
+    "Deaths": 77
+  },
+  {
+    "Location": "Sudan",
+    "Period": 2017,
+    "Cases": 720879,
+    "Deaths": 1446
+  },
+  {
+    "Location": "Sudan",
+    "Period": 2016,
+    "Cases": 575015,
+    "Deaths": 984
+  },
+  {
+    "Location": "Sudan",
+    "Period": 2015,
+    "Cases": 586827,
+    "Deaths": 868
+  },
+  {
+    "Location": "Sudan",
+    "Period": 2014,
+    "Cases": 1068506,
+    "Deaths": 823
+  },
+  {
+    "Location": "Sudan",
+    "Period": 2013,
+    "Cases": 592383,
+    "Deaths": 685
+  },
+  {
+    "Location": "Sudan",
+    "Period": 2012,
+    "Cases": 526931,
+    "Deaths": 618
+  },
+  {
+    "Location": "Sudan",
+    "Period": 2011,
+    "Cases": 506806,
+    "Deaths": 612
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2010,
+    "Cases": 720557,
+    "Deaths": 1023
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2009,
+    "Cases": 711462,
+    "Deaths": 1142
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2008,
+    "Cases": 569296,
+    "Deaths": 1125
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2007,
+    "Cases": 686908,
+    "Deaths": 1254
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2006,
+    "Cases": 721233,
+    "Deaths": 1193
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2005,
+    "Cases": 628417,
+    "Deaths": 1789
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2004,
+    "Cases": 537899,
+    "Deaths": 1814
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2003,
+    "Cases": 933267,
+    "Deaths": 2479
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2002,
+    "Cases": 280550,
+    "Deaths": 2125
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2001,
+    "Cases": 203491,
+    "Deaths": 2252
+  },
+  {
+    "Location": "Sudan (until 2011)",
+    "Period": 2000,
+    "Cases": 368557,
+    "Deaths": 2162
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2017,
+    "Cases": 40,
+    "Deaths": 1
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2016,
+    "Cases": 76,
+    "Deaths": 0
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2015,
+    "Cases": 81,
+    "Deaths": 0
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2014,
+    "Cases": 401,
+    "Deaths": 1
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2013,
+    "Cases": 729,
+    "Deaths": 1
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2012,
+    "Cases": 356,
+    "Deaths": 0
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2011,
+    "Cases": 771,
+    "Deaths": 1
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2010,
+    "Cases": 1712,
+    "Deaths": 1
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2009,
+    "Cases": 2380,
+    "Deaths": 0
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2008,
+    "Cases": 2709,
+    "Deaths": 0
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2007,
+    "Cases": 1741,
+    "Deaths": 1
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2006,
+    "Cases": 3289,
+    "Deaths": 1
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2005,
+    "Cases": 9131,
+    "Deaths": 1
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2004,
+    "Cases": 8378,
+    "Deaths": 7
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2003,
+    "Cases": 10982,
+    "Deaths": 18
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2002,
+    "Cases": 12837,
+    "Deaths": 15
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2001,
+    "Cases": 16003,
+    "Deaths": 23
+  },
+  {
+    "Location": "Suriname",
+    "Period": 2000,
+    "Cases": 11361,
+    "Deaths": 24
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 4
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2010,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2008,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2007,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2006,
+    "Cases": 0,
+    "Deaths": 2
+  },
+  {
+    "Location": "Syrian Arab Republic",
+    "Period": 2005,
+    "Cases": 0,
+    "Deaths": 2
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2014,
+    "Cases": 2,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2013,
+    "Cases": 3,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2012,
+    "Cases": 18,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2011,
+    "Cases": 65,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2010,
+    "Cases": 111,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2009,
+    "Cases": 164,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2008,
+    "Cases": 318,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2007,
+    "Cases": 635,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2006,
+    "Cases": 1344,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2005,
+    "Cases": 2309,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2004,
+    "Cases": 3588,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2003,
+    "Cases": 5428,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2002,
+    "Cases": 6160,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2001,
+    "Cases": 11387,
+    "Deaths": 0
+  },
+  {
+    "Location": "Tajikistan",
+    "Period": 2000,
+    "Cases": 19064,
+    "Deaths": 0
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2017,
+    "Cases": 11440,
+    "Deaths": 11
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2016,
+    "Cases": 11522,
+    "Deaths": 27
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2015,
+    "Cases": 8022,
+    "Deaths": 33
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2014,
+    "Cases": 37921,
+    "Deaths": 38
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2013,
+    "Cases": 33302,
+    "Deaths": 47
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2012,
+    "Cases": 32569,
+    "Deaths": 37
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2011,
+    "Cases": 24897,
+    "Deaths": 43
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2010,
+    "Cases": 32480,
+    "Deaths": 80
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2009,
+    "Cases": 29462,
+    "Deaths": 70
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2008,
+    "Cases": 28569,
+    "Deaths": 101
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2007,
+    "Cases": 33178,
+    "Deaths": 97
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2006,
+    "Cases": 30294,
+    "Deaths": 113
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2005,
+    "Cases": 29782,
+    "Deaths": 161
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2004,
+    "Cases": 26690,
+    "Deaths": 230
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2003,
+    "Cases": 37355,
+    "Deaths": 204
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2002,
+    "Cases": 44555,
+    "Deaths": 361
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2001,
+    "Cases": 63528,
+    "Deaths": 424
+  },
+  {
+    "Location": "Thailand",
+    "Period": 2000,
+    "Cases": 78561,
+    "Deaths": 625
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2017,
+    "Cases": 16,
+    "Deaths": 0
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2016,
+    "Cases": 94,
+    "Deaths": 0
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2015,
+    "Cases": 80,
+    "Deaths": 0
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2014,
+    "Cases": 342,
+    "Deaths": 1
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2013,
+    "Cases": 1025,
+    "Deaths": 3
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2012,
+    "Cases": 5211,
+    "Deaths": 3
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2011,
+    "Cases": 19739,
+    "Deaths": 16
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2010,
+    "Cases": 48137,
+    "Deaths": 58
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2009,
+    "Cases": 47527,
+    "Deaths": 53
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2008,
+    "Cases": 51260,
+    "Deaths": 33
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2007,
+    "Cases": 52813,
+    "Deaths": 60
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2006,
+    "Cases": 37896,
+    "Deaths": 68
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2005,
+    "Cases": 43093,
+    "Deaths": 71
+  },
+  {
+    "Location": "Timor-Leste",
+    "Period": 2004,
+    "Cases": 39164,
+    "Deaths": 65
+  },
+  {
+    "Location": "Togo",
+    "Period": 2017,
+    "Cases": 1209034,
+    "Deaths": 995
+  },
+  {
+    "Location": "Togo",
+    "Period": 2016,
+    "Cases": 1183265,
+    "Deaths": 847
+  },
+  {
+    "Location": "Togo",
+    "Period": 2015,
+    "Cases": 1113927,
+    "Deaths": 1205
+  },
+  {
+    "Location": "Togo",
+    "Period": 2014,
+    "Cases": 1130251,
+    "Deaths": 1205
+  },
+  {
+    "Location": "Togo",
+    "Period": 2013,
+    "Cases": 882430,
+    "Deaths": 1361
+  },
+  {
+    "Location": "Togo",
+    "Period": 2012,
+    "Cases": 697374,
+    "Deaths": 1197
+  },
+  {
+    "Location": "Togo",
+    "Period": 2011,
+    "Cases": 519450,
+    "Deaths": 1314
+  },
+  {
+    "Location": "Togo",
+    "Period": 2010,
+    "Cases": 617101,
+    "Deaths": 1507
+  },
+  {
+    "Location": "Togo",
+    "Period": 2009,
+    "Cases": 391338,
+    "Deaths": 1556
+  },
+  {
+    "Location": "Togo",
+    "Period": 2008,
+    "Cases": 344862,
+    "Deaths": 2663
+  },
+  {
+    "Location": "Togo",
+    "Period": 2007,
+    "Cases": 221110,
+    "Deaths": 1236
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 6
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 3
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 1
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 3
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 4
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2010,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2009,
+    "Cases": 38,
+    "Deaths": 1
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2008,
+    "Cases": 166,
+    "Deaths": 3
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2007,
+    "Cases": 313,
+    "Deaths": 1
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2006,
+    "Cases": 796,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2005,
+    "Cases": 2084,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2004,
+    "Cases": 5302,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2003,
+    "Cases": 9222,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2002,
+    "Cases": 10224,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2001,
+    "Cases": 10812,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkey",
+    "Period": 2000,
+    "Cases": 11432,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2010,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2008,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2007,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2006,
+    "Cases": 1,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2005,
+    "Cases": 1,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2004,
+    "Cases": 3,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2003,
+    "Cases": 7,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2002,
+    "Cases": 18,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2001,
+    "Cases": 8,
+    "Deaths": 0
+  },
+  {
+    "Location": "Turkmenistan",
+    "Period": 2000,
+    "Cases": 24,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2017,
+    "Cases": 11667831,
+    "Deaths": 5111
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2016,
+    "Cases": 9385132,
+    "Deaths": 5635
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2015,
+    "Cases": 7137662,
+    "Deaths": 6100
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2014,
+    "Cases": 3631939,
+    "Deaths": 5921
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2013,
+    "Cases": 1502362,
+    "Deaths": 7277
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2012,
+    "Cases": 2662258,
+    "Deaths": 6585
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2011,
+    "Cases": 231873,
+    "Deaths": 5958
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2010,
+    "Cases": 1581160,
+    "Deaths": 8431
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2009,
+    "Cases": 1301337,
+    "Deaths": 6296
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2008,
+    "Cases": 979298,
+    "Deaths": 2372
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2007,
+    "Cases": 1045378,
+    "Deaths": 7003
+  },
+  {
+    "Location": "Uganda",
+    "Period": 2006,
+    "Cases": 867398,
+    "Deaths": 4252
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2017,
+    "Cases": 5354486,
+    "Deaths": 3685
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2016,
+    "Cases": 5193520,
+    "Deaths": 5046
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2015,
+    "Cases": 4241364,
+    "Deaths": 6313
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2014,
+    "Cases": 680442,
+    "Deaths": 5373
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2013,
+    "Cases": 1551923,
+    "Deaths": 8528
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2012,
+    "Cases": 1986955,
+    "Deaths": 7820
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2011,
+    "Cases": 2150761,
+    "Deaths": 11806
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2010,
+    "Cases": 1278998,
+    "Deaths": 15867
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2009,
+    "Cases": 211,
+    "Deaths": 16776
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2008,
+    "Cases": 4508,
+    "Deaths": 12497
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2007,
+    "Cases": 1845917,
+    "Deaths": 12593
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2006,
+    "Cases": 1928296,
+    "Deaths": 20962
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2005,
+    "Cases": 2764049,
+    "Deaths": 18322
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2004,
+    "Cases": 2502382,
+    "Deaths": 19859
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2003,
+    "Cases": 1976614,
+    "Deaths": 15251
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2002,
+    "Cases": 42468,
+    "Deaths": 815
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2001,
+    "Cases": 38537,
+    "Deaths": 1228
+  },
+  {
+    "Location": "United Republic of Tanzania",
+    "Period": 2000,
+    "Cases": 17734,
+    "Deaths": 379
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2016,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2015,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2014,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2013,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2012,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2011,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2010,
+    "Cases": 3,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2009,
+    "Cases": 0,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2008,
+    "Cases": 7,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2007,
+    "Cases": 30,
+    "Deaths": 1
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2006,
+    "Cases": 73,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2005,
+    "Cases": 102,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2004,
+    "Cases": 66,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2003,
+    "Cases": 74,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2002,
+    "Cases": 74,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2001,
+    "Cases": 77,
+    "Deaths": 0
+  },
+  {
+    "Location": "Uzbekistan",
+    "Period": 2000,
+    "Cases": 126,
+    "Deaths": 0
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2017,
+    "Cases": 1071,
+    "Deaths": 0
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2016,
+    "Cases": 1868,
+    "Deaths": 0
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2015,
+    "Cases": 423,
+    "Deaths": 0
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2014,
+    "Cases": 982,
+    "Deaths": 0
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2013,
+    "Cases": 2381,
+    "Deaths": 0
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2012,
+    "Cases": 3435,
+    "Deaths": 0
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2011,
+    "Cases": 4820,
+    "Deaths": 1
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2010,
+    "Cases": 8169,
+    "Deaths": 1
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2009,
+    "Cases": 4189,
+    "Deaths": 2
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2008,
+    "Cases": 3765,
+    "Deaths": 4
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2007,
+    "Cases": 5471,
+    "Deaths": 5
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2006,
+    "Cases": 8055,
+    "Deaths": 1
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2005,
+    "Cases": 9834,
+    "Deaths": 5
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2004,
+    "Cases": 14653,
+    "Deaths": 3
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2003,
+    "Cases": 15240,
+    "Deaths": 14
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2002,
+    "Cases": 14339,
+    "Deaths": 13
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2001,
+    "Cases": 7647,
+    "Deaths": 4
+  },
+  {
+    "Location": "Vanuatu",
+    "Period": 2000,
+    "Cases": 6768,
+    "Deaths": 3
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2016,
+    "Cases": 240613,
+    "Deaths": 1
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2015,
+    "Cases": 136402,
+    "Deaths": 8
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2014,
+    "Cases": 90708,
+    "Deaths": 5
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2013,
+    "Cases": 78643,
+    "Deaths": 6
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2012,
+    "Cases": 52803,
+    "Deaths": 10
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2011,
+    "Cases": 45824,
+    "Deaths": 16
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2010,
+    "Cases": 45155,
+    "Deaths": 18
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2009,
+    "Cases": 35828,
+    "Deaths": 11
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2008,
+    "Cases": 32037,
+    "Deaths": 9
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2007,
+    "Cases": 41749,
+    "Deaths": 16
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2006,
+    "Cases": 37062,
+    "Deaths": 11
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2005,
+    "Cases": 45049,
+    "Deaths": 17
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2004,
+    "Cases": 46655,
+    "Deaths": 35
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2003,
+    "Cases": 31719,
+    "Deaths": 40
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2002,
+    "Cases": 29491,
+    "Deaths": 23
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2001,
+    "Cases": 20006,
+    "Deaths": 28
+  },
+  {
+    "Location": "Venezuela (Bolivarian Republic of)",
+    "Period": 2000,
+    "Cases": 29736,
+    "Deaths": 24
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2017,
+    "Cases": 4548,
+    "Deaths": 6
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2016,
+    "Cases": 4161,
+    "Deaths": 3
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2015,
+    "Cases": 9331,
+    "Deaths": 3
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2014,
+    "Cases": 15752,
+    "Deaths": 6
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2013,
+    "Cases": 17128,
+    "Deaths": 6
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2012,
+    "Cases": 19638,
+    "Deaths": 8
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2011,
+    "Cases": 16612,
+    "Deaths": 14
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2010,
+    "Cases": 17515,
+    "Deaths": 21
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2009,
+    "Cases": 16130,
+    "Deaths": 26
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2008,
+    "Cases": 11355,
+    "Deaths": 25
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2007,
+    "Cases": 16389,
+    "Deaths": 20
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2006,
+    "Cases": 22637,
+    "Deaths": 41
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2005,
+    "Cases": 19496,
+    "Deaths": 18
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2004,
+    "Cases": 24909,
+    "Deaths": 34
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2003,
+    "Cases": 38790,
+    "Deaths": 50
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2002,
+    "Cases": 47807,
+    "Deaths": 50
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2001,
+    "Cases": 68699,
+    "Deaths": 91
+  },
+  {
+    "Location": "Viet Nam",
+    "Period": 2000,
+    "Cases": 74316,
+    "Deaths": 142
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2017,
+    "Cases": 114004,
+    "Deaths": 37
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2016,
+    "Cases": 98701,
+    "Deaths": 65
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2015,
+    "Cases": 76259,
+    "Deaths": 14
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2014,
+    "Cases": 86707,
+    "Deaths": 23
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2013,
+    "Cases": 102778,
+    "Deaths": 55
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2012,
+    "Cases": 109908,
+    "Deaths": 72
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2011,
+    "Cases": 90410,
+    "Deaths": 75
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2010,
+    "Cases": 106697,
+    "Deaths": 92
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2009,
+    "Cases": 55446,
+    "Deaths": 38
+  },
+  {
+    "Location": "Yemen",
+    "Period": 2006,
+    "Cases": 55000,
+    "Deaths": 73
+  },
+  {
+    "Location": "Zambia",
+    "Period": 2017,
+    "Cases": 5505639,
+    "Deaths": 1425
+  },
+  {
+    "Location": "Zambia",
+    "Period": 2016,
+    "Cases": 4851319,
+    "Deaths": 1827
+  },
+  {
+    "Location": "Zambia",
+    "Period": 2015,
+    "Cases": 4184661,
+    "Deaths": 2389
+  },
+  {
+    "Location": "Zambia",
+    "Period": 2014,
+    "Cases": 4077547,
+    "Deaths": 3257
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2017,
+    "Cases": 315624,
+    "Deaths": 527
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2016,
+    "Cases": 279988,
+    "Deaths": 351
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2015,
+    "Cases": 391651,
+    "Deaths": 200
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2014,
+    "Cases": 535931,
+    "Deaths": 406
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2013,
+    "Cases": 422633,
+    "Deaths": 352
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2012,
+    "Cases": 276963,
+    "Deaths": 351
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2011,
+    "Cases": 319935,
+    "Deaths": 451
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2010,
+    "Cases": 249379,
+    "Deaths": 255
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2009,
+    "Cases": 114028,
+    "Deaths": 108
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2008,
+    "Cases": 32788,
+    "Deaths": 232
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2007,
+    "Cases": 116518,
+    "Deaths": 401
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2006,
+    "Cases": 19702,
+    "Deaths": 802
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2005,
+    "Cases": 18954,
+    "Deaths": 1916
+  },
+  {
+    "Location": "Zimbabwe",
+    "Period": 2004,
+    "Cases": 16990,
+    "Deaths": 1809
+  }
+]
