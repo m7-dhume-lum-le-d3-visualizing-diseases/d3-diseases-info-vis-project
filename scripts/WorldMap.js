@@ -3,7 +3,11 @@
 // Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own
 
 window.onload = function() {
-// Margins, borders
+
+    displayMap("malaria")
+};
+function displayMap(disease) {
+    // Margins, borders
     var margin = {top: 10, right: 10, bottom: 10, left: 10};
     var width = 960 - margin.left - margin.right;
     var height = 500 - margin.top - margin.bottom;
@@ -28,29 +32,34 @@ window.onload = function() {
 
 // Load in data and wait (async)
     d3.queue()
-        .defer(d3.json, "world-topo.json")
-        .defer(d3.csv, "world-country.csv")
+        .defer(d3.json, "data/world-topo.json")
+        .defer(d3.csv, "data/world-country.csv")
+        .defer(d3.json, "data/data.json")
         .await(loadMap);
-
 // d3 load map in
-    function loadMap(error, world, names) {
+    function loadMap(error, world, names, map) {
+        if (error)throw error;
 
-        if (error) throw error;
-        var countries1 = topojson.feature(world, world.objects.countries).features;
-        countries = countries1.filter(function (d) {
+        const countries1 = topojson.feature(world, world.objects.countries).features;
+        const countries = countries1.filter(function (d) {
             return names.some(function (n) {
-                if (d.id == n.id) return d.name = n.name;
+                if (d.id === n.id) return d.name = n.name;
             })
         });
-
+        var diseaseInfo = map[disease];
+        let result =mergeData(diseaseInfo, countries, 'name');
+        console.log(result[1]['Confirmed Cases'].toLocaleString());
         svg.selectAll("path")
-            .data(countries)
+            .data(result)
             .enter()
             .append("path")
             .attr("stroke", "black")
             .attr("stroke-width", 1)
             .attr("fill", "white")
             .attr("d", path)
+            .style("fill", function (d, i) {
+                //TODO add color fill here
+            })
             .on("mouseover", function (d, i) {
                 d3.select(this).attr("fill", "grey").attr("stroke-width", 2);
                 return worldMap.style("hidden", false).html(d.name);
@@ -58,12 +67,28 @@ window.onload = function() {
             .on("mousemove", function (d) {
                 worldMap.classed("hidden", false)
                     .style("top", (d3.event.pageY) + "px")
-                    .style("left", (d3.event.pageX + 10) + "px")
-                    .html(d.name);
+                    .style("left", (d3.event.pageX+50) + "px")
+                    .html(`<p>${d.name}</p><p>Confirmed Cases: ${d['Confirmed Cases']}</p><p>Confirmed Death: ${d.Death}</p>`);
             })
             .on("mouseout", function (d, i) {
                 d3.select(this).attr("fill", "white").attr("stroke-width", 1);
                 worldMap.classed("hidden", true);
             });
-    };
+    }
+
+}
+function mergeData (arr1, arr2, match) {
+    return _.union(
+        _.map(arr1, function (obj1) {
+            var same = _.find(arr2, function (obj2) {
+                return obj1[match] === obj2[match];
+            });
+            return same ? _.extend(obj1, same) : obj1;
+        }),
+        _.reject(arr2, function (obj2) {
+            return _.find(arr1, function(obj1) {
+                return obj2[match] === obj1[match];
+            });
+        })
+    );
 }

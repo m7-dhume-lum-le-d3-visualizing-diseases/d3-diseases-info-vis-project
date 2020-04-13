@@ -1,655 +1,655 @@
 {
    "malaria":[
       {
-         "Location":"Afghanistan",
+         "name":"Afghanistan",
          "Year":"2017-01-01",
          "Confirmed Cases":161778,
          "Death":10
       },
       {
-         "Location":"Angola",
+         "name":"Angola",
          "Year":"2017-01-01",
          "Confirmed Cases":3874892,
          "Death":13967
       },
       {
-         "Location":"Argentina",
+         "name":"Argentina",
          "Year":"2017-01-01",
          "Confirmed Cases":0,
          "Death":1
       },
       {
-         "Location":"Armenia",
+         "name":"Armenia",
          "Year":"2016-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Azerbaijan",
+         "name":"Azerbaijan",
          "Year":"2016-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Burundi",
+         "name":"Burundi",
          "Year":"2017-01-01",
          "Confirmed Cases":7670177,
          "Death":4414
       },
       {
-         "Location":"Benin",
+         "name":"Benin",
          "Year":"2017-01-01",
          "Confirmed Cases":1573163,
          "Death":2182
       },
       {
-         "Location":"Burkina Faso",
+         "name":"Burkina Faso",
          "Year":"2017-01-01",
          "Confirmed Cases":10225459,
          "Death":4144
       },
       {
-         "Location":"Bangladesh",
+         "name":"Bangladesh",
          "Year":"2017-01-01",
          "Confirmed Cases":4893,
          "Death":13
       },
       {
-         "Location":"Belize",
+         "name":"Belize",
          "Year":"2017-01-01",
          "Confirmed Cases":7,
          "Death":0
       },
       {
-         "Location":"Bolivia",
+         "name":"Bolivia",
          "Year":"2017-01-01",
          "Confirmed Cases":4572,
          "Death":0
       },
       {
-         "Location":"Brazil",
+         "name":"Brazil",
          "Year":"2017-01-01",
          "Confirmed Cases":189503,
          "Death":30
       },
       {
-         "Location":"Bhutan",
+         "name":"Bhutan",
          "Year":"2017-01-01",
          "Confirmed Cases":24,
          "Death":1
       },
       {
-         "Location":"Botswana",
+         "name":"Botswana",
          "Year":"2017-01-01",
          "Confirmed Cases":1900,
          "Death":17
       },
       {
-         "Location":"Central African Republic",
+         "name":"Central African Republic",
          "Year":"2017-01-01",
          "Confirmed Cases":383309,
          "Death":3689
       },
       {
-         "Location":"China",
+         "name":"China",
          "Year":"2017-01-01",
          "Confirmed Cases":0,
          "Death":7
       },
       {
-         "Location":"Cameroon",
+         "name":"Cameroon",
          "Year":"2017-01-01",
          "Confirmed Cases":1191257,
          "Death":3195
       },
       {
-         "Location":"Democratic Republic of the Congo",
+         "name":"Democratic Republic of the Congo",
          "Year":"2017-01-01",
          "Confirmed Cases":15176927,
          "Death":229
       },
       {
-         "Location":"Democratic Republic of the Congo",
+         "name":"Democratic Republic of the Congo",
          "Year":"2017-01-01",
          "Confirmed Cases":15176927,
          "Death":27458
       },
       {
-         "Location":"Democratic Republic of the Congo",
+         "name":"Democratic Republic of the Congo",
          "Year":"2017-01-01",
          "Confirmed Cases":127939,
          "Death":229
       },
       {
-         "Location":"Democratic Republic of the Congo",
+         "name":"Democratic Republic of the Congo",
          "Year":"2017-01-01",
          "Confirmed Cases":127939,
          "Death":27458
       },
       {
-         "Location":"Colombia",
+         "name":"Colombia",
          "Year":"2017-01-01",
          "Confirmed Cases":52805,
          "Death":19
       },
       {
-         "Location":"Comoros",
+         "name":"Comoros",
          "Year":"2017-01-01",
          "Confirmed Cases":2274,
          "Death":3
       },
       {
-         "Location":"Cabo Verde",
+         "name":"Cabo Verde",
          "Year":"2017-01-01",
          "Confirmed Cases":423,
          "Death":2
       },
       {
-         "Location":"Costa Rica",
+         "name":"Costa Rica",
          "Year":"2017-01-01",
          "Confirmed Cases":12,
          "Death":0
       },
       {
-         "Location":"Djibouti",
+         "name":"Djibouti",
          "Year":"2016-01-01",
          "Confirmed Cases":14671,
          "Death":5
       },
       {
-         "Location":"Dominican Republic",
+         "name":"Dominican Republic",
          "Year":"2017-01-01",
          "Confirmed Cases":341,
          "Death":1
       },
       {
-         "Location":"Algeria",
+         "name":"Algeria",
          "Year":"2017-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Ecuador",
+         "name":"Ecuador",
          "Year":"2017-01-01",
          "Confirmed Cases":1275,
          "Death":1
       },
       {
-         "Location":"Egypt",
+         "name":"Egypt",
          "Year":"2011-01-01",
          "Confirmed Cases":0,
          "Death":4
       },
       {
-         "Location":"Eritrea",
+         "name":"Eritrea",
          "Year":"2017-01-01",
          "Confirmed Cases":31486,
          "Death":8
       },
       {
-         "Location":"Ethiopia",
+         "name":"Ethiopia",
          "Year":"2017-01-01",
          "Confirmed Cases":1530739,
          "Death":356
       },
       {
-         "Location":"Gabon",
+         "name":"Gabon",
          "Year":"2017-01-01",
          "Confirmed Cases":35244,
          "Death":218
       },
       {
-         "Location":"Georgia",
+         "name":"Georgia",
          "Year":"2016-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Ghana",
+         "name":"Ghana",
          "Year":"2017-01-01",
          "Confirmed Cases":4348694,
          "Death":599
       },
       {
-         "Location":"Guinea",
+         "name":"Guinea",
          "Year":"2017-01-01",
          "Confirmed Cases":1335323,
          "Death":1174
       },
       {
-         "Location":"Gambia",
+         "name":"Gambia",
          "Year":"2017-01-01",
          "Confirmed Cases":69931,
          "Death":54
       },
       {
-         "Location":"Guinea-Bissau",
+         "name":"Guinea-Bissau",
          "Year":"2017-01-01",
          "Confirmed Cases":89784,
          "Death":296
       },
       {
-         "Location":"Equatorial Guinea",
+         "name":"Equatorial Guinea",
          "Year":"2016-01-01",
          "Confirmed Cases":15725,
          "Death":109
       },
       {
-         "Location":"Guatemala",
+         "name":"Guatemala",
          "Year":"2017-01-01",
          "Confirmed Cases":3743,
          "Death":0
       },
       {
-         "Location":"Guyana",
+         "name":"Guyana",
          "Year":"2017-01-01",
          "Confirmed Cases":13936,
          "Death":11
       },
       {
-         "Location":"Honduras",
+         "name":"Honduras",
          "Year":"2017-01-01",
          "Confirmed Cases":1277,
          "Death":1
       },
       {
-         "Location":"Haiti",
+         "name":"Haiti",
          "Year":"2017-01-01",
          "Confirmed Cases":19135,
          "Death":12
       },
       {
-         "Location":"Indonesia",
+         "name":"Indonesia",
          "Year":"2017-01-01",
          "Confirmed Cases":261617,
          "Death":47
       },
       {
-         "Location":"India",
+         "name":"India",
          "Year":"2017-01-01",
          "Confirmed Cases":844558,
          "Death":194
       },
       {
-         "Location":"Iran",
+         "name":"Iran",
          "Year":"2017-01-01",
          "Confirmed Cases":57,
          "Death":1
       },
       {
-         "Location":"Iraq",
+         "name":"Iraq",
          "Year":"2014-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Kenya",
+         "name":"Kenya",
          "Year":"2016-01-01",
          "Confirmed Cases":3215116,
          "Death":603
       },
       {
-         "Location":"Kyrgyzstan",
+         "name":"Kyrgyzstan",
          "Year":"2016-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Cambodia",
+         "name":"Cambodia",
          "Year":"2017-01-01",
          "Confirmed Cases":36932,
          "Death":1
       },
       {
-         "Location":"Republic of Korea",
+         "name":"Republic of Korea",
          "Year":"2017-01-01",
          "Confirmed Cases":436,
          "Death":3
       },
       {
-         "Location":"Lao People's Democratic Republic",
+         "name":"Lao People's Democratic Republic",
          "Year":"2017-01-01",
          "Confirmed Cases":9333,
          "Death":2
       },
       {
-         "Location":"Liberia",
+         "name":"Liberia",
          "Year":"2017-01-01",
          "Confirmed Cases":1191137,
          "Death":758
       },
       {
-         "Location":"Sri Lanka",
+         "name":"Sri Lanka",
          "Year":"2017-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Morocco",
+         "name":"Morocco",
          "Year":"2013-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Madagascar",
+         "name":"Madagascar",
          "Year":"2017-01-01",
          "Confirmed Cases":800661,
          "Death":370
       },
       {
-         "Location":"Mexico",
+         "name":"Mexico",
          "Year":"2017-01-01",
          "Confirmed Cases":736,
          "Death":0
       },
       {
-         "Location":"Mali",
+         "name":"Mali",
          "Year":"2017-01-01",
          "Confirmed Cases":1918376,
          "Death":1050
       },
       {
-         "Location":"Myanmar",
+         "name":"Myanmar",
          "Year":"2017-01-01",
          "Confirmed Cases":19619,
          "Death":30
       },
       {
-         "Location":"Mozambique",
+         "name":"Mozambique",
          "Year":"2017-01-01",
          "Confirmed Cases":8921081,
          "Death":1114
       },
       {
-         "Location":"Mauritania",
+         "name":"Mauritania",
          "Year":"2017-01-01",
          "Confirmed Cases":20105,
          "Death":67
       },
       {
-         "Location":"Malawi",
+         "name":"Malawi",
          "Year":"2017-01-01",
          "Confirmed Cases":4901344,
          "Death":3613
       },
       {
-         "Location":"Malaysia",
+         "name":"Malaysia",
          "Year":"2017-01-01",
          "Confirmed Cases":85,
          "Death":12
       },
       {
-         "Location":"Namibia",
+         "name":"Namibia",
          "Year":"2017-01-01",
          "Confirmed Cases":54268,
          "Death":104
       },
       {
-         "Location":"Niger",
+         "name":"Niger",
          "Year":"2017-01-01",
          "Confirmed Cases":2638580,
          "Death":2316
       },
       {
-         "Location":"Nigeria",
+         "name":"Nigeria",
          "Year":"2014-01-01",
          "Confirmed Cases":11571958,
          "Death":6082
       },
       {
-         "Location":"Nicaragua",
+         "name":"Nicaragua",
          "Year":"2016-01-01",
          "Confirmed Cases":10949,
          "Death":2
       },
       {
-         "Location":"Nepal",
+         "name":"Nepal",
          "Year":"2017-01-01",
          "Confirmed Cases":623,
          "Death":3
       },
       {
-         "Location":"Oman",
+         "name":"Oman",
          "Year":"2014-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Pakistan",
+         "name":"Pakistan",
          "Year":"2017-01-01",
          "Confirmed Cases":350467,
          "Death":113
       },
       {
-         "Location":"Panama",
+         "name":"Panama",
          "Year":"2017-01-01",
          "Confirmed Cases":649,
          "Death":0
       },
       {
-         "Location":"Peru",
+         "name":"Peru",
          "Year":"2017-01-01",
          "Confirmed Cases":55367,
          "Death":10
       },
       {
-         "Location":"Philippines",
+         "name":"Philippines",
          "Year":"2017-01-01",
          "Confirmed Cases":3950,
          "Death":4
       },
       {
-         "Location":"Papua New Guinea",
+         "name":"Papua New Guinea",
          "Year":"2017-01-01",
          "Confirmed Cases":478340,
          "Death":273
       },
       {
-         "Location":"South Korea",
+         "name":"South Korea",
          "Year":"2017-01-01",
          "Confirmed Cases":4575,
          "Death":0
       },
       {
-         "Location":"Paraguay",
+         "name":"Paraguay",
          "Year":"2017-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Rwanda",
+         "name":"Rwanda",
          "Year":"2017-01-01",
          "Confirmed Cases":1876123,
          "Death":376
       },
       {
-         "Location":"Saudi Arabia",
+         "name":"Saudi Arabia",
          "Year":"2017-01-01",
          "Confirmed Cases":177,
          "Death":0
       },
       {
-         "Location":"Sudan",
+         "name":"Sudan",
          "Year":"2010-01-01",
          "Confirmed Cases":720879,
          "Death":1023
       },
       {
-         "Location":"Sudan",
+         "name":"Sudan",
          "Year":"2017-01-01",
          "Confirmed Cases":720879,
          "Death":1446
       },
       {
-         "Location":"Sudan",
+         "name":"Sudan",
          "Year":"2010-01-01",
          "Confirmed Cases":720557,
          "Death":1023
       },
       {
-         "Location":"Sudan",
+         "name":"Sudan",
          "Year":"2017-01-01",
          "Confirmed Cases":720557,
          "Death":1446
       },
       {
-         "Location":"Senegal",
+         "name":"Senegal",
          "Year":"2017-01-01",
          "Confirmed Cases":395706,
          "Death":284
       },
       {
-         "Location":"Solomon Islands",
+         "name":"Solomon Islands",
          "Year":"2017-01-01",
          "Confirmed Cases":52463,
          "Death":27
       },
       {
-         "Location":"Sierra Leone",
+         "name":"Sierra Leone",
          "Year":"2017-01-01",
          "Confirmed Cases":1651236,
          "Death":1298
       },
       {
-         "Location":"El Salvador",
+         "name":"El Salvador",
          "Year":"2017-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Somalia",
+         "name":"Somalia",
          "Year":"2017-01-01",
          "Confirmed Cases":35138,
          "Death":20
       },
       {
-         "Location":"South Sudan",
+         "name":"South Sudan",
          "Year":"2017-01-01",
          "Confirmed Cases":1488005,
          "Death":3483
       },
       {
-         "Location":"Sao Tome and Principe",
+         "name":"Sao Tome and Principe",
          "Year":"2017-01-01",
          "Confirmed Cases":2239,
          "Death":1
       },
       {
-         "Location":"Suriname",
+         "name":"Suriname",
          "Year":"2017-01-01",
          "Confirmed Cases":40,
          "Death":1
       },
       {
-         "Location":"Eswatini",
+         "name":"Eswatini",
          "Year":"2017-01-01",
          "Confirmed Cases":724,
          "Death":20
       },
       {
-         "Location":"Syrian Arab Republic",
+         "name":"Syrian Arab Republic",
          "Year":"2014-01-01",
          "Confirmed Cases":0,
          "Death":4
       },
       {
-         "Location":"Chad",
+         "name":"Chad",
          "Year":"2017-01-01",
          "Confirmed Cases":1962372,
          "Death":2088
       },
       {
-         "Location":"Togo",
+         "name":"Togo",
          "Year":"2017-01-01",
          "Confirmed Cases":1209034,
          "Death":995
       },
       {
-         "Location":"Thailand",
+         "name":"Thailand",
          "Year":"2017-01-01",
          "Confirmed Cases":11440,
          "Death":11
       },
       {
-         "Location":"Tajikistan",
+         "name":"Tajikistan",
          "Year":"2016-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Turkmenistan",
+         "name":"Turkmenistan",
          "Year":"2016-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Timor-Leste",
+         "name":"Timor-Leste",
          "Year":"2017-01-01",
          "Confirmed Cases":16,
          "Death":0
       },
       {
-         "Location":"Turkey",
+         "name":"Turkey",
          "Year":"2016-01-01",
          "Confirmed Cases":0,
          "Death":6
       },
       {
-         "Location":"United Republic of Tanzania",
+         "name":"United Republic of Tanzania",
          "Year":"2017-01-01",
          "Confirmed Cases":5354486,
          "Death":3685
       },
       {
-         "Location":"Uganda",
+         "name":"Uganda",
          "Year":"2017-01-01",
          "Confirmed Cases":11667831,
          "Death":5111
       },
       {
-         "Location":"Uzbekistan",
+         "name":"Uzbekistan",
          "Year":"2016-01-01",
          "Confirmed Cases":0,
          "Death":0
       },
       {
-         "Location":"Venezuela",
+         "name":"Venezuela",
          "Year":"2016-01-01",
          "Confirmed Cases":411586,
          "Death":1
       },
       {
-         "Location":"Vietnam",
+         "name":"Vietnam",
          "Year":"2017-01-01",
          "Confirmed Cases":4548,
          "Death":6
       },
       {
-         "Location":"Vanuatu",
+         "name":"Vanuatu",
          "Year":"2017-01-01",
          "Confirmed Cases":1071,
          "Death":0
       },
       {
-         "Location":"Yemen",
+         "name":"Yemen",
          "Year":"2017-01-01",
          "Confirmed Cases":114004,
          "Death":37
       },
       {
-         "Location":"South Africa",
+         "name":"South Africa",
          "Year":"2017-01-01",
          "Confirmed Cases":22061,
          "Death":301
       },
       {
-         "Location":"Zambia",
+         "name":"Zambia",
          "Year":"2017-01-01",
          "Confirmed Cases":5505639,
          "Death":1425
       },
       {
-         "Location":"Zimbabwe",
+         "name":"Zimbabwe",
          "Year":"2017-01-01",
          "Confirmed Cases":315624,
          "Death":527
