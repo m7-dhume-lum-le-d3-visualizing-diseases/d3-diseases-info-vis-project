@@ -90,6 +90,7 @@ function displayMap(disease) {
 
 }
 function mergeData (arr1, arr2, match) {
+    //TODO fix this
     return _.union(
         _.map(arr1, function (obj1) {
             var same = _.find(arr2, function (obj2) {
