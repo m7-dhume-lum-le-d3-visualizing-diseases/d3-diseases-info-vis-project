@@ -68,7 +68,7 @@ function displayMap(disease) {
                 worldMap.classed("hidden", false)
                     .style("top", (d3.event.pageY) + "px")
                     .style("left", (d3.event.pageX+50) + "px")
-                    .html(`<p>${d.name}</p><p>Confirmed Cases: ${d['Confirmed Cases']}</p><p>Confirmed Death: ${d.Death}</p>`);
+                    .html(`<p>${d.name}</p><p>Confirmed Cases: ${d['Confirmed Cases'].toLocaleString()}</p><p>Confirmed Death: ${d.Death.toLocaleString()}</p>`);
             })
             .on("mouseout", function (d, i) {
                 d3.select(this).attr("fill", "white").attr("stroke-width", 1);
