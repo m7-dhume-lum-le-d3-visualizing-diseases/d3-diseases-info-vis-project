@@ -1,13 +1,15 @@
 
 //Code for the main World Map is taken mostly taken from https://blockbuilder.org/abrahamdu/50147e692857054c2bf88c443946e8a5 ,
 // Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own
-var selectedMinYear = 2010; // default, gets updated on slider
-var selectedMaxYear = 2017;
+var selectedMinYear = 2000; // default, gets updated on slider
+var selectedMaxYear = 2018;
 var selectedDisease = "malaria"; // default, gets updated on dropdown
 var min = 10000;
-var max = 5000000;
+var max = 10000000;
 
 function updateMap() {
+    $( "#year" ).val(selectedDisease + ": " + $( "#slider-3" ).slider( "values", 0 ) +
+    " - " + $( "#slider-3" ).slider( "values", 1 ) );
     displayMap(selectedDisease);
 }
 
@@ -15,16 +17,16 @@ function updateMap() {
 $(function() {
     $( "#slider-3" ).slider({
        range: true,
-       min: 2005,
-       max: 2017,
-       values: [ 2010, 2017 ],
+       min: 2000,
+       max: 2018,
+       values: [ 2000, 2018 ],
        slide: function( event, ui ) {
-          $( "#year" ).val(ui.values[ 0 ] + " - " + ui.values[ 1 ] );
+          $( "#year" ).val(selectedDisease + ": " + ui.values[ 0 ] + " - " + ui.values[ 1 ] );
           selectedMinYear = ui.values[0];
           selectedMaxYear = ui.values[1];
        }
     });
-    $( "#year" ).val($( "#slider-3" ).slider( "values", 0 ) +
+    $( "#year" ).val(selectedDisease + ": " + $( "#slider-3" ).slider( "values", 0 ) +
        " - " + $( "#slider-3" ).slider( "values", 1 ) );
  });
 
@@ -39,20 +41,22 @@ color = d3.scaleLinear()
 window.onload = function() {
     clickDropDown()
 };
+
 function clickDropDown() {
     $("#malariaDrop").on("click", ()=>{
-        displayMap("malaria");
         selectedDisease = "malaria";
+        document.getElementById("dropDownButton").innerHTML = "Malaria";
     });
     $("#choleraDrop").on("click", ()=>{
-        displayMap("cholera");
         selectedDisease = "cholera";
+        document.getElementById("dropDownButton").innerHTML = "Cholera";
     });
     $("#hivAidsDrop").on("click", ()=>{
-        displayMap("hivAids");
         selectedDisease = "hivAids";
+        document.getElementById("dropDownButton").innerHTML = "HIV/AIDS";
     });
 }
+
 function displayMap(disease) {
     $(".worldMap").removeData();
     document.getElementById("dropDownButton").innerHTML=document.getElementById(`${disease}Drop`).innerHTML;
@@ -106,17 +110,13 @@ function displayMap(disease) {
         var diseaseInfo = map[disease];
 
         let result =mergeData(countries, diseaseInfo);
-        console.log(result);
-        console.log(result[0]);
-        console.log(result[2]);
-        console.log(result[3]);
-        console.log(result[1].id);
-        console.log(result[1].name);
-        console.log(result[1].data[0].year);
-        console.log(result[1].data[1].year);
-        console.log(result[1].data[2].year);
-
-        //var filterData = result.filter(d => d.data.year >= selectedMinYear && d.data.year <= selectedMaxYear); // Filter by selected year
+        // console.log(result);
+        // console.log(result[0]);
+        // console.log(result[1]);
+        // console.log(result[1].id);
+        // console.log(result[1].name);
+        // console.log(result[1].data[0].year);
+        // console.log(result[1].data[1].year);
 
         svg.selectAll("path")
             .data(result)
@@ -127,8 +127,51 @@ function displayMap(disease) {
             .attr("fill", "white")
             .attr("d", path)
             .style("fill", d => {
+                // Try to return MIN year
                 try{
-                    return color(d.data[0].cases);  // Try to return cases 
+                    var tempYearMin = (d.data[2018-selectedMinYear].year);
+                }
+                catch(e){ // Exception handle if it does not exist
+                    var tempYearMin = selectedMinYear;
+                }
+                // Try to return MAX year
+                try{
+                    var tempYearMax = (d.data[2018-selectedMaxYear].year);
+                }
+                catch(e){ // Exception handle if it does not exist
+                    var tempYearMax = selectedMaxYear;
+                }
+                // Try to SUM CASES
+                try{
+                    var i;
+                    var tempSummedCases = 0;
+                    var difference = 0;
+                    for (i = selectedMinYear; i < selectedMaxYear; i++) {
+                        // console.log("temp");
+                        difference = 2018-i; // ie. Min = 2013, Max = 2015. This iteration does: 2018-2013 = 4, 2018-2014 = 3, 2018-2015 = 2, and sums data[4], data[3], data[2].
+                        try{
+                            tempSummedCases += d.data[difference].cases; // We can sum for example, sum the years 2013-2015 with data[4] + data[3] + data[2].
+                        }
+                        catch(e){
+                            tempSummedCases += 0;
+                        }
+                    }
+                    /* -- DATA STRUCTURE --
+                    data[0] = YEAR 2018. 
+                    data[1] = YEAR 2016. 
+                    data[2] = YEAR 2015.
+                    data[3] = YEAR 2014... and so on 
+                    assuming the first entry is Year 2018. It might also be:
+                    data[0] = YEAR 2018.
+                    data[1] = YEAR 2014.
+                    data[2] = YEAR 2008. (note our data may have missing years so we have to take that into account)
+                    */
+                }
+                catch(e){
+                    var tempSummedCases = 0; // Exception handle if it does not exist
+                }                                                
+                try{
+                    return color(tempSummedCases);  // Try to return cases to color the region accordingly based on sum of cases
                 }
                 catch(e){
                     return color(0); // Exception handle if it does not exist (our data has some missing years, etc)
@@ -139,33 +182,61 @@ function displayMap(disease) {
                 return worldMap.style("hidden", false).html(d.name);
             })
             .on("mousemove", function (d) {
+                // Try to return MIN year
                 try{
-                    tempYearMin = (d.data[0].year);  // Try to return [year] (min range of slider)
-                    tempYearMax = (d.data[1].year);  // Try to return [year] (max range of slider)
+                    var tempYearMin = (d.data[2018-selectedMinYear].year);
+                }
+                catch(e){ // Exception handle if it does not exist
+                    var tempYearMin = selectedMinYear;
+                }
+                // Try to return MAX year
+                try{
+                    var tempYearMax = (d.data[2018-selectedMaxYear].year);
+                }
+                catch(e){ // Exception handle if it does not exist
+                    var tempYearMax = selectedMaxYear;
+                }
+                // Try to SUM CASES
+                try{
+                    var i;
+                    var tempSummedCases = 0;
+                    var difference = 0;
+                    for (i = selectedMinYear; i < selectedMaxYear; i++) {
+                        difference = 2018-i;
+                        try{
+                            tempSummedCases += d.data[difference].cases;
+                        }
+                        catch(e){
+                            tempSummedCases += 0;
+                        }
+                    }
                 }
                 catch(e){
-                    tempYearMin = 0; // Exception handle if it does not exist
-                    tempYearMax = 0; // Exception handle if it does not exist
+                    var tempSummedCases = 0; // Exception handle if it does not exist
                 }
+                // Try to SUM DEATHS
                 try{
-                    tempCases = (d.data[0].cases);  // Try to return [cases]    TO-DO : SUM MIN AND MAX YEAR CASES
-                                                                                // TO-DO : To help understand, data[0] = YEAR 2017. data[1] = 2016, data[2] = 2015, and so on
-                                                                                // FOR EXAMPLE: d.data[0].cases + d.data[0].cases = 2016+2017 cases summed
+                    var i;
+                    var tempSummedDeaths = 0;
+                    var difference = 0;
+                    for (i = selectedMinYear; i < selectedMaxYear; i++) {
+                        difference = 2018-i;
+                        try{
+                            tempSummedDeaths += d.data[difference].deaths;
+                        }
+                        catch(e){
+                            tempSummedDeaths += 0;
+                        }
+                    }
                 }
                 catch(e){
-                    tempCases = 0; // Exception handle if it does not exist
-                }
-                try{
-                    tempDeaths = (d.data[0].deaths);  // Try to return [deaths] 
-                }
-                catch(e){
-                    tempDeaths = 0; // Exception handle if it does not exist
+                    var tempSummedDeaths = 0; // Exception handle if it does not exist
                 }
 
                 worldMap.classed("hidden", false)
                     .style("top", (d3.event.pageY) + "px")
                     .style("left", (d3.event.pageX+50) + "px")
-                    .html(`<p>${d.name} (${tempYearMin.toString()}-${tempYearMax.toString()}) </p><p>Confirmed Cases: ${tempCases.toLocaleString()}</p><p>Confirmed Death: ${tempDeaths.toLocaleString()}</p>`);
+                    .html(`<p>${d.name} (${tempYearMin.toString()}-${tempYearMax.toString()}) </p><p>Confirmed Cases: ${tempSummedCases.toLocaleString()}</p><p>Confirmed Death: ${tempSummedDeaths.toLocaleString()}</p>`);
             })
             .on("mouseout", function (d, i) {
                 d3.select(this).attr("fill", "white").attr("stroke-width", 1);
