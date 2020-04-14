@@ -2,8 +2,40 @@
 //Code for the main World Map is taken mostly taken from https://blockbuilder.org/abrahamdu/50147e692857054c2bf88c443946e8a5 ,
 // Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own
 
-var selectedYear = 2015;
-var selectedDisease = "malaria";
+var selectedMinYear = 2010; // default, gets updated on slider
+var selectedMaxYear = 2017;
+var selectedDisease = "malaria"; // default, gets updated on dropdown
+var min = 10000;
+var max = 5000000;
+
+function updateMap() {
+    displayMap(selectedDisease);
+}
+
+// 2 value range slider (jquery)
+$(function() {
+    $( "#slider-3" ).slider({
+       range: true,
+       min: 2005,
+       max: 2017,
+       values: [ 2010, 2017 ],
+       slide: function( event, ui ) {
+          $( "#year" ).val(ui.values[ 0 ] + " - " + ui.values[ 1 ] );
+          selectedMinYear = ui.values[0];
+          selectedMaxYear = ui.values[1];
+       }
+    });
+    $( "#year" ).val($( "#slider-3" ).slider( "values", 0 ) +
+       " - " + $( "#slider-3" ).slider( "values", 1 ) );
+ });
+
+
+// Color scale
+color = d3.scaleLinear() 
+  .domain([0,min,max]) 
+  .range(["yellow", "orange", "brown"]) 
+  .interpolate(d3.interpolateHcl);
+
 
 window.onload = function() {
     clickDropDown()
@@ -66,10 +98,11 @@ function displayMap(disease) {
             })
         });
 
+
         var diseaseInfo = map[disease];
         let result =mergeData(diseaseInfo, countries, 'name');
-        var filterData = result.filter(d => d.year == selectedYear);
-        //console.log(result[1].cases.toLocaleString());
+        var filterData = result.filter(d => d.year >= selectedMinYear && d.year <= selectedMaxYear); // Filter by selected year
+        
         svg.selectAll("path")
             .data(filterData)
             .enter()
@@ -78,9 +111,7 @@ function displayMap(disease) {
             .attr("stroke-width", 1)
             .attr("fill", "white")
             .attr("d", path)
-            .style("fill", function (d, i) {
-                //TODO add color fill here
-            })
+            .style("fill", d => {return color(d.cases)})
             .on("mouseover", function (d, i) {
                 d3.select(this).attr("fill", "grey").attr("stroke-width", 2);
                 return worldMap.style("hidden", false).html(d.name);
@@ -95,15 +126,6 @@ function displayMap(disease) {
                 d3.select(this).attr("fill", "white").attr("stroke-width", 1);
                 worldMap.classed("hidden", true);
             });
-
-        // Listen slider
-        d3.select("#mySlider").on("change", function(d){
-            selectedValue = this.value;
-            selectedYear = selectedValue;
-            console.log(selectedValue);
-            displayMap(selectedDisease);
-            //updateChart(selectedValue)
-        })
 
     }
 
