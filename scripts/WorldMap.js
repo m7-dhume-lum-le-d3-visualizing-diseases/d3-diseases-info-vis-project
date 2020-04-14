@@ -61,7 +61,6 @@ function displayMap(disease) {
     var margin = {top: 10, right: 10, bottom: 10, left: 10};
     var width = 960 - margin.left - margin.right;
     var height = 500 - margin.top - margin.bottom;
-
 // Map projection
     var projection = d3.geoNaturalEarth1()
         .center([0, 15])
@@ -106,8 +105,9 @@ function displayMap(disease) {
 
 
         var diseaseInfo = map[disease];
-        let result =mergeData(diseaseInfo, countries, 'name');
-        var filterData = result.filter(d => d.year >= selectedMinYear && d.year <= selectedMaxYear); // Filter by selected year
+
+        let result =mergeData( countries, diseaseInfo);
+        var filterData = result.filter(d => d.data.year >= selectedMinYear && d.data.year <= selectedMaxYear); // Filter by selected year
 
         svg.selectAll("path")
             .data(filterData)
@@ -126,7 +126,7 @@ function displayMap(disease) {
                 worldMap.classed("hidden", false)
                     .style("top", (d3.event.pageY) + "px")
                     .style("left", (d3.event.pageX+50) + "px")
-                    .html(`<p>${d.name} (${d.year.toString()}) </p><p>Confirmed Cases: ${d.cases.toLocaleString()}</p><p>Confirmed Death: ${d.deaths.toLocaleString()}</p>`);
+                    .html(`<p>${d.name} (${d.data.year.toString()}) </p><p>Confirmed Cases: ${d.data.cases.toLocaleString()}</p><p>Confirmed Death: ${d.data.deaths.toLocaleString()}</p>`);
             })
             .on("mouseout", function (d, i) {
                 d3.select(this).attr("fill", "white").attr("stroke-width", 1);
@@ -136,21 +136,16 @@ function displayMap(disease) {
     }
 
 }
-function mergeData (arr1, arr2, match) {
-    //TODO fix this
-    return _.union(
-        _.map(arr1, function (obj1) {
-            var same = _.find(arr2, function (obj2) {
-                return obj1[match] === obj2[match];
-            });
-            return same ? _.extend(obj1, same) : obj1;
-        }),
-        _.reject(arr2, function (obj2) {
-            return _.find(arr1, function(obj1) {
-                return obj2[match] === obj1[match];
-            });
-        })
-    );
+function mergeData (jsona, jsonb) {
+    jsonb.forEach(i=>{
+        jsona.forEach(j=>{
+            if (i.name === j.name){
+                if (!('data' in j)) j['data']=[];
+                j.data.push(i)
+            }
+
+        });
+    });
+    return jsona;
+
 }
-
-
