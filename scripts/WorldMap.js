@@ -77,7 +77,12 @@ function displayMap(disease) {
     var svg = d3.select("svg")
         .append("g")
         .attr("width", width)
-        .attr("height", height);
+        .attr("height", height)
+        .call(d3.zoom().on("zoom", function () {
+            svg
+                .selectAll('path') // supposed to stop outlines from scaling thick but ... not working
+                .attr('transform', d3.event.transform); // zoom only works when your mouse is over a piece of land, you can drag pan too
+         }))
     var worldMap = d3.select(".worldMap");
 
 // Load in data and wait (async)
@@ -86,6 +91,7 @@ function displayMap(disease) {
         .defer(d3.csv, "data/world-country.csv")
         .defer(d3.json, "data/dataCleaned.json")
         .await(loadMap);
+
 
 // d3 load map in
     function loadMap(error, world, names, map) {
@@ -102,7 +108,7 @@ function displayMap(disease) {
         var diseaseInfo = map[disease];
         let result =mergeData(diseaseInfo, countries, 'name');
         var filterData = result.filter(d => d.year >= selectedMinYear && d.year <= selectedMaxYear); // Filter by selected year
-        
+
         svg.selectAll("path")
             .data(filterData)
             .enter()
@@ -146,3 +152,5 @@ function mergeData (arr1, arr2, match) {
         })
     );
 }
+
+
