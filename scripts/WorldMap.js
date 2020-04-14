@@ -113,10 +113,8 @@ function displayMap(disease) {
         // console.log(result);
         // console.log(result[0]);
         // console.log(result[1]);
-        // console.log(result[1].id);
         // console.log(result[1].name);
         // console.log(result[1].data[0].year);
-        // console.log(result[1].data[1].year);
 
         svg.selectAll("path")
             .data(result)
@@ -147,7 +145,6 @@ function displayMap(disease) {
                     var tempSummedCases = 0;
                     var difference = 0;
                     for (i = selectedMinYear; i < selectedMaxYear; i++) {
-                        // console.log("temp");
                         difference = 2018-i; // ie. Min = 2013, Max = 2015. This iteration does: 2018-2013 = 4, 2018-2014 = 3, 2018-2015 = 2, and sums data[4], data[3], data[2].
                         try{
                             tempSummedCases += d.data[difference].cases; // We can sum for example, sum the years 2013-2015 with data[4] + data[3] + data[2].
@@ -233,6 +230,7 @@ function displayMap(disease) {
                     var tempSummedDeaths = 0; // Exception handle if it does not exist
                 }
 
+                // DISPLAY hover text box of year range, cases, and deaths
                 worldMap.classed("hidden", false)
                     .style("top", (d3.event.pageY) + "px")
                     .style("left", (d3.event.pageX+50) + "px")
@@ -245,6 +243,7 @@ function displayMap(disease) {
     }
 }
 
+// Merge JSON data for more efficient query
 function mergeData (jsona, jsonb) {
     jsonb.forEach(i=>{
         jsona.forEach(j=>{
