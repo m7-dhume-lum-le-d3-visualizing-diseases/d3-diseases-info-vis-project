@@ -25,6 +25,13 @@
 
 <body>
 <h1 class="title"> World Map </h1>
+
+<!-- SLIDER -->
+<form name="myform" oninput="rangebarvalue.value = rangebar.valueAsNumber">
+  <input name="rangebar" type="range" name="mySlider" id=mySlider min="2005" max="2017" value="2015">
+  <output name="rangebarvalue" for="rangebar" >2015</output>
+</form>
+
 <div class="dropdown">
   <button id = "dropDownButton" class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Diseases

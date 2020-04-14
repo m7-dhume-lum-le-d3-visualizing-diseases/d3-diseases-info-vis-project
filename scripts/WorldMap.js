@@ -2,18 +2,24 @@
 //Code for the main World Map is taken mostly taken from https://blockbuilder.org/abrahamdu/50147e692857054c2bf88c443946e8a5 ,
 // Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own
 
+var selectedYear = 2015;
+var selectedDisease = "malaria";
+
 window.onload = function() {
     clickDropDown()
 };
 function clickDropDown() {
     $("#malariaDrop").on("click", ()=>{
-        displayMap("malaria")
+        displayMap("malaria");
+        selectedDisease = "malaria";
     });
     $("#choleraDrop").on("click", ()=>{
-        displayMap("cholera")
+        displayMap("cholera");
+        selectedDisease = "cholera";
     });
     $("#hivAidsDrop").on("click", ()=>{
-        displayMap("hivAids")
+        displayMap("hivAids");
+        selectedDisease = "hivAids";
     });
 }
 function displayMap(disease) {
@@ -46,8 +52,9 @@ function displayMap(disease) {
     d3.queue()
         .defer(d3.json, "data/world-topo.json")
         .defer(d3.csv, "data/world-country.csv")
-        .defer(d3.json, "data/data.json")
+        .defer(d3.json, "data/dataCleaned.json")
         .await(loadMap);
+
 // d3 load map in
     function loadMap(error, world, names, map) {
         if (error)throw error;
@@ -58,11 +65,13 @@ function displayMap(disease) {
                 if (d.id === n.id) return d.name = n.name;
             })
         });
+
         var diseaseInfo = map[disease];
         let result =mergeData(diseaseInfo, countries, 'name');
-        console.log(result[1]['Confirmed Cases'].toLocaleString());
+        var filterData = result.filter(d => d.year == selectedYear);
+        //console.log(result[1].cases.toLocaleString());
         svg.selectAll("path")
-            .data(result)
+            .data(filterData)
             .enter()
             .append("path")
             .attr("stroke", "black")
@@ -80,12 +89,22 @@ function displayMap(disease) {
                 worldMap.classed("hidden", false)
                     .style("top", (d3.event.pageY) + "px")
                     .style("left", (d3.event.pageX+50) + "px")
-                    .html(`<p>${d.name}</p><p>Confirmed Cases: ${d['Confirmed Cases'].toLocaleString()}</p><p>Confirmed Death: ${d.Death.toLocaleString()}</p>`);
+                    .html(`<p>${d.name} (${d.year.toString()}) </p><p>Confirmed Cases: ${d.cases.toLocaleString()}</p><p>Confirmed Death: ${d.deaths.toLocaleString()}</p>`);
             })
             .on("mouseout", function (d, i) {
                 d3.select(this).attr("fill", "white").attr("stroke-width", 1);
                 worldMap.classed("hidden", true);
             });
+
+        // Listen slider
+        d3.select("#mySlider").on("change", function(d){
+            selectedValue = this.value;
+            selectedYear = selectedValue;
+            console.log(selectedValue);
+            displayMap(selectedDisease);
+            //updateChart(selectedValue)
+        })
+
     }
 
 }
