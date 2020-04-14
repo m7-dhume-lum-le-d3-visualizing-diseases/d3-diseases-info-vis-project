@@ -105,27 +105,67 @@ function displayMap(disease) {
 
         var diseaseInfo = map[disease];
 
-        let result =mergeData( countries, diseaseInfo);
-        var filterData = result.filter(d => d.data.year >= selectedMinYear && d.data.year <= selectedMaxYear); // Filter by selected year
+        let result =mergeData(countries, diseaseInfo);
+        console.log(result);
+        console.log(result[0]);
+        console.log(result[2]);
+        console.log(result[3]);
+        console.log(result[1].id);
+        console.log(result[1].name);
+        console.log(result[1].data[0].year);
+        console.log(result[1].data[1].year);
+        console.log(result[1].data[2].year);
+
+        //var filterData = result.filter(d => d.data.year >= selectedMinYear && d.data.year <= selectedMaxYear); // Filter by selected year
 
         svg.selectAll("path")
-            .data(filterData)
+            .data(result)
             .enter()
             .append("path")
             .attr("stroke", "black")
             .attr("stroke-width", 1)
             .attr("fill", "white")
             .attr("d", path)
-            .style("fill", d => {return color(d.cases)})
+            .style("fill", d => {
+                try{
+                    return color(d.data[0].cases);  // Try to return cases 
+                }
+                catch(e){
+                    return color(0); // Exception handle if it does not exist (our data has some missing years, etc)
+                }
+            })
             .on("mouseover", function (d, i) {
                 d3.select(this).attr("fill", "grey").attr("stroke-width", 2);
                 return worldMap.style("hidden", false).html(d.name);
             })
             .on("mousemove", function (d) {
+                try{
+                    tempYearMin = (d.data[0].year);  // Try to return [year] (min range of slider)
+                    tempYearMax = (d.data[1].year);  // Try to return [year] (max range of slider)
+                }
+                catch(e){
+                    tempYearMin = 0; // Exception handle if it does not exist
+                    tempYearMax = 0; // Exception handle if it does not exist
+                }
+                try{
+                    tempCases = (d.data[0].cases);  // Try to return [cases]    TO-DO : SUM MIN AND MAX YEAR CASES
+                                                                                // TO-DO : To help understand, data[0] = YEAR 2017. data[1] = 2016, data[2] = 2015, and so on
+                                                                                // FOR EXAMPLE: d.data[0].cases + d.data[0].cases = 2016+2017 cases summed
+                }
+                catch(e){
+                    tempCases = 0; // Exception handle if it does not exist
+                }
+                try{
+                    tempDeaths = (d.data[0].deaths);  // Try to return [deaths] 
+                }
+                catch(e){
+                    tempDeaths = 0; // Exception handle if it does not exist
+                }
+
                 worldMap.classed("hidden", false)
                     .style("top", (d3.event.pageY) + "px")
                     .style("left", (d3.event.pageX+50) + "px")
-                    .html(`<p>${d.name} (${d.data.year.toString()}) </p><p>Confirmed Cases: ${d.data.cases.toLocaleString()}</p><p>Confirmed Death: ${d.data.deaths.toLocaleString()}</p>`);
+                    .html(`<p>${d.name} (${tempYearMin.toString()}-${tempYearMax.toString()}) </p><p>Confirmed Cases: ${tempCases.toLocaleString()}</p><p>Confirmed Death: ${tempDeaths.toLocaleString()}</p>`);
             })
             .on("mouseout", function (d, i) {
                 d3.select(this).attr("fill", "white").attr("stroke-width", 1);
@@ -134,7 +174,6 @@ function displayMap(disease) {
     }
 }
 
-
 function mergeData (jsona, jsonb) {
     jsonb.forEach(i=>{
         jsona.forEach(j=>{
@@ -142,7 +181,6 @@ function mergeData (jsona, jsonb) {
                 if (!('data' in j)) j['data']=[];
                 j.data.push(i)
             }
-
         });
     });
     return jsona;
