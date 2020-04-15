@@ -27,6 +27,12 @@ div.worldMap {
     padding-bottom: 1%;
 }
 
+.right {
+    position: absolute;
+    top: 70px;
+    right: 280px;
+}
+
 .title {
     text-align: center;
 }
