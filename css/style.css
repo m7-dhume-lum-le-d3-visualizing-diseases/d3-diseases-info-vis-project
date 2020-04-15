@@ -30,8 +30,11 @@ div.worldMap {
 
 .right {
     position: absolute;
-    top: 0px;
-    right: 0px;
+    width: 280px;
+    height: 100px;
+    float: left;
+    top: 70px;
+    right: 20px;
 }
 
 .title {
