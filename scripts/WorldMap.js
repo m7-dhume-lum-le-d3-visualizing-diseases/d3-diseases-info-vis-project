@@ -3,7 +3,6 @@
 // Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own
 var selectedMinYear = 2000; // default, gets updated on slider
 var selectedMaxYear = 2018;
-var selectedDisease = "malaria"; // default, gets updated on dropdown
 var min = 10000;
 var max = 10000000;
 
@@ -37,25 +36,6 @@ color = d3.scaleLinear()
   .range(["yellow", "orange", "brown"]) 
   .interpolate(d3.interpolateHcl);
 
-
-window.onload = function() {
-    clickDropDown()
-};
-
-function clickDropDown() {
-    $("#malariaDrop").on("click", ()=>{
-        selectedDisease = "malaria";
-        document.getElementById("dropDownButton").innerHTML = "Malaria";
-    });
-    $("#choleraDrop").on("click", ()=>{
-        selectedDisease = "cholera";
-        document.getElementById("dropDownButton").innerHTML = "Cholera";
-    });
-    $("#hivAidsDrop").on("click", ()=>{
-        selectedDisease = "hivAids";
-        document.getElementById("dropDownButton").innerHTML = "HIV/AIDS";
-    });
-}
 
 function displayMap(disease) {
     $(".worldMap").removeData();
