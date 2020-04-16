@@ -1,3 +1,4 @@
+
 function showPeople() {
     var person = document.getElementById("person")
     var infectedIcon = '<i class="fa fa-male" style="font-size:60px;color:red;"></i>';
@@ -56,7 +57,6 @@ function showPeople() {
     console.log(document.getElementById("test"));
     text = DeathRate + " out of 10 people in Congo infected with malaria died";
     document.getElementById("test").innerHTML = text;
-
 }
 
 
