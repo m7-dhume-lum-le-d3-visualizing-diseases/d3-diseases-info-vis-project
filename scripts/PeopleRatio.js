@@ -55,7 +55,7 @@ function showPeople() {
     }
     document.getElementById("person").innerHTML = pictures;
     console.log(document.getElementById("test"));
-    text = DeathRate + " out of 10 people in Congo infected with malaria died";
+    text = DeathRate + " out of 10 people in this country infected with this diseases died";
     document.getElementById("test").innerHTML = text;
 }
 
