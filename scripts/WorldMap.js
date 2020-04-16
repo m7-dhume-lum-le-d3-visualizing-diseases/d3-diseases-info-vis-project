@@ -315,7 +315,7 @@ function showPeople() {
     }
     document.getElementById("person").innerHTML = pictures;
     console.log(document.getElementById("test"));
-    console.log(deathRate);
+    console.log(DeathRate);
     text = DeathRate + " out of 100 people in this country infected with this diseases died";
     document.getElementById("test").innerHTML = text;
 }
