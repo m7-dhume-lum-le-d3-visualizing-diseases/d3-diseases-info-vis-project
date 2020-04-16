@@ -39,3 +39,60 @@ div.worldMap {
 #button {
     margin: 5%;
 }
+
+
+
+/* TreeMap styling */
+#chart {
+    width: 1000px;
+    height: 800px;
+    background: #ccc;
+    margin: 1px auto;
+    position: relative;
+}
+
+text {
+    pointer-events: none;
+    font-size: 24px;
+}
+
+.childNode text {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "Verdana", Helvetica, Arial, sans-serif; 
+}
+
+rect {
+    fill: none;
+    stroke: #fff;
+}
+
+rect.parent,
+    .childNode rect {
+        stroke-width: 2px;
+    }
+
+.childNode rect {
+fill: #fff;
+}
+
+.children rect.parent, .childNode rect {
+    cursor: pointer;
+}
+
+rect.parent {
+    pointer-events: all; 
+}
+
+.children:hover rect.child, .childNode:hover rect {
+    fill: #aaa;
+}
+
+/* Text in box nodes */
+.textdiv {
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    padding: 4px;
+    font-family: "Verdana", Helvetica, Arial, sans-serif; 
+}
