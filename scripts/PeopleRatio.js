@@ -42,10 +42,10 @@ function showPeople() {
         tempSummedDeaths = 0; // Exception handle if it does not exist
     }
     var CongoPop = 81340000;
-    var DeathRate = tempSummedDeaths / tempSummedCases * 10;
+    var DeathRate = tempSummedDeaths / tempSummedCases * 100;
     //var CongoInfectedRate = tempSummedCases / CongoPop * 10;
     //document.getElementById("test").innerHTML = CongoInfectedRate;
-    for (i = 0; i < 10; i++) {
+    for (i = 0; i < 100; i++) {
         if (i < Math.round(DeathRate)) {
             pictures += infectedIcon;
         }
