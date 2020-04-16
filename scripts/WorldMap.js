@@ -1,6 +1,7 @@
 
-//Code for the main World Map is taken mostly taken from https://blockbuilder.org/abrahamdu/50147e692857054c2bf88c443946e8a5 ,
-// Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own
+// Some code is referenced from: https://blockbuilder.org/abrahamdu/50147e692857054c2bf88c443946e8a5
+// And: https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/
+
 var selectedMinYear = 2000; // default, gets updated on slider
 var selectedMaxYear = 2018;
 
