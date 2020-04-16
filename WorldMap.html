@@ -1,5 +1,5 @@
-<!--
-  4210U Information Visualization Final Project
+<!-- 
+  4210U Information Visualization Final Project 
   Topic: Visualizing World Health Data on Diseases
   Group: m7-dhume-lum-le (Yash Dhume, Alvin Lum, Kenny Le)
 -->
@@ -25,12 +25,16 @@
             crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+
+
+
     <link href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/style.css" type="text/css"/>
+    <script src="scripts/DropDown.js"></script>
+    <script src="scripts/WorldMap.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="css/TreeMap.css">
 </head>
 
 
@@ -38,14 +42,13 @@
 <header class="header">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="index.html">Diseases Visualization</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
-                aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="WorldMap.html">World Map</a>
+                <li class="nav-item active">
+                    <a class="nav-link" href="WorldMap.html">World Map<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="treemap.html">Tree Map</a>
@@ -57,58 +60,37 @@
         </div>
     </nav>
 </header>
-<div class="col-lg-7 mb-4 mb-lg-0">
-<div class="card">
+<div class="col-lg-7 mb-4 mb-lg-0m" style=" .align-item-center .justify-content-center">
+  <div class="card">
     <div class="card-header">
-        <h2 class="h6 text-uppercase mb-0">Introduction</h2>
+      <h2 class="h6 text-uppercase mb-0">World Map</h2>
     </div>
     <div class="card-body">
-        <p>To better understand the covid-19 situation, we focused on creating a tool for visualizing diseases using an
-            interactive geospatial visualization. We believe having such tools will help people better understand the
-            spread of diseases and our history with combating diseases. According to researcher Diansheng Guo, effective
-            visualization tools using spatial interactions will help decision makers make better preparations in the
-            event of a pandemic [1]. This will also allow users to get a visual idea of how much a disease is spreading,
-            where it is spreading, and to what magnitude it is spreading.</p>
+        <p>
+            <input type="text" id="year"
+                   style="border:0; color:#b9cd6d; font-weight:bold;">
+        </p>
+        <div id="slider-3"></div>
+
+        <div class="dropdown">
+            <button id="dropDownButton" class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Diseases
+            </button>
+
+            <input id="UpdateMap" type="button" value="Search" onclick="updateMap();"/>
+
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" id="malariaDrop">Malaria</a>
+                <a class="dropdown-item" id="hivAidsDrop">HIV/AIDS</a>
+                <a class="dropdown-item" id="choleraDrop">Cholera</a>
+            </div>
+        </div>
+      <svg id="worldMapSVG" width="960" height="500">
+        <div class="worldMap"></div>
+      </svg>
+
     </div>
-
+  </div>
 </div>
-<div class="col-lg-7 mb-4 mb-lg-0">
-    <div class="card">
-        <div class="card-header">
-            <h2 class="h6 text-uppercase mb-0">World Map</h2>
-        </div>
-        <div class="card-body">
-            <div id="person"><i class="fa fa-male" style="font-size:60px;"></i></div>
-            <script>showPeople();</script>
-            <p id="test"></p>
-        </div>
-    </div>
-</div>
-<script src="https://d3js.org/d3.v2.js"></script>
-<div class="col-lg-7 mb-4 mb-lg-0">
-    <div class="card">
-        <div class="card-header">
-            <h2 class="h6 text-uppercase mb-0">World Map</h2>
-        </div>
-        <div class="card-body">
-            <p id="chart">
-            <p id="rawdata">
-        </div>
-    </div>
-
-<svg id="worldMapSVG" width="960" height="500">
-    <div class="worldMap"></div>
-</svg>
-
-<div class="right">
-  <div id="person"><i class="fa fa-male" style="font-size:60px;"></i></div>
-  <div class="stat"><p id="test"></p></div>
-  <script>showPeople();</script>
-</div>
-
-    <script src="scripts/TreeMap.js"></script>
-
-
-</div>
-
 </body>
