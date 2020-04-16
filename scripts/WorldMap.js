@@ -3,6 +3,7 @@
 // Also referencing https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/, please modify to our own
 var selectedMinYear = 2000; // default, gets updated on slider
 var selectedMaxYear = 2018;
+var selectedDisease = "malaria"; // default, gets updated on dropdown
 var min = 10000;
 var max = 10000000;
 
@@ -36,6 +37,25 @@ color = d3.scaleLinear()
   .range(["yellow", "orange", "brown"]) 
   .interpolate(d3.interpolateHcl);
 
+
+window.onload = function() {
+    clickDropDown()
+};
+
+function clickDropDown() {
+    $("#malariaDrop").on("click", ()=>{
+        selectedDisease = "malaria";
+        document.getElementById("dropDownButton").innerHTML = "Malaria";
+    });
+    $("#choleraDrop").on("click", ()=>{
+        selectedDisease = "cholera";
+        document.getElementById("dropDownButton").innerHTML = "Cholera";
+    });
+    $("#hivAidsDrop").on("click", ()=>{
+        selectedDisease = "hivAids";
+        document.getElementById("dropDownButton").innerHTML = "HIV/AIDS";
+    });
+}
 
 function displayMap(disease) {
     $(".worldMap").removeData();
@@ -234,29 +254,4 @@ function mergeData (jsona, jsonb) {
         });
     });
     return jsona;
-}
-
-function showPeople() {
-    var person = document.getElementById("person")
-    var infectedIcon = '<i class="fa fa-male" style="font-size:60px;color:red;"></i>';
-    var icon = '<i class="fa fa-male" style="font-size:60px;"></i>';
-    var pictures = "";
-    var text = "";
-    var CongoCases = 127939;
-    var CongoDeaths = 27458;
-    var CongoPop = 81340000;
-    var CongoDeathRate = CongoDeaths / CongoCases * 10;
-    var CongoInfectedRate = CongoCases / CongoPop * 10;
-    //document.getElementById("test").innerHTML = CongoInfectedRate;
-    for (i = 0; i < 10; i++) {
-        if (i < Math.round(CongoDeathRate)) {
-            pictures += infectedIcon;
-        }
-        else {
-            pictures += icon;
-        }
-    }
-    document.getElementById("person").innerHTML = pictures;
-    text = Math.round(CongoDeathRate) + " out of 10 people in Congo infected with malaria died";
-    document.getElementById("test").innerHTML = text;
 }
