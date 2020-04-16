@@ -136,6 +136,7 @@ function updateTreeMap() {
             .classed("children", true)
             .on("click", transition);
 
+        // get child and print country and # of deaths
         g.selectAll(".child")
             .data(function(d) { return d.children || [d]; })
             .enter().append("rect")

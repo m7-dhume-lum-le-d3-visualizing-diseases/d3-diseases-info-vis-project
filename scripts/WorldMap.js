@@ -116,11 +116,6 @@ function displayMap(disease) {
         var diseaseInfo = map[disease];
 
         let result =mergeData(countries, diseaseInfo);
-        // console.log(result);
-        // console.log(result[0]);
-        // console.log(result[1]);
-        // console.log(result[1].name);
-        // console.log(result[1].data[0].year);
 
         svg.selectAll("path")
             .data(result)
@@ -236,8 +231,7 @@ function displayMap(disease) {
                     tempSummedDeaths = 0; // Exception handle if it does not exist
                 }
 
-                // Save to session to load for PeopleRatio page later
-                console.log(tempSummedCases);
+                // Save to session to load for PeopleRatio
                 sessionStorage.setItem("tempSummedCasesKey",tempSummedCases);
                 sessionStorage.setItem("tempSummedDeathsKey",tempSummedDeaths);    
                 showPeople(); // Update people

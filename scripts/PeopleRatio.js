@@ -6,20 +6,11 @@ function showPeople() {
     var text = "";
     var i;
 
-    
-    // sessionStorage.setItem("tempSummedCases",tempSummedCases);
-    // sessionStorage.setItem("tempSummedDeaths",tempSummedDeaths);
-    
+    // Grab from session cases/deaths
     var tempSummedCases = sessionStorage.getItem("tempSummedCasesKey");
     var tempSummedDeaths = sessionStorage.getItem("tempSummedDeathsKey");
 
-    console.log("temp cases/deaths");
-    console.log(tempSummedCases);
-    console.log(tempSummedDeaths);
-
     var DeathRate = tempSummedDeaths / tempSummedCases * 100;
-    //var CongoInfectedRate = tempSummedCases / CongoPop * 10;
-    //document.getElementById("test").innerHTML = CongoInfectedRate;
     for (i = 0; i < 100; i++) {
         if (i < Math.round(DeathRate)) {
             pictures += infectedIcon;
